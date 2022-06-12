@@ -3,7 +3,7 @@
 
 ----
 
-##### *👉 💥 | Linux/SRE/AWS Cloud/DevOps Engineer ⚡ Jr. Cybersecurity Researcher | …✍️*
+#### *👉 💥 | Linux/SRE/AWS Cloud/DevOps Engineer ⚡ Jr. Cybersecurity Researcher | …✍️*
 
 ----
 
@@ -11,41 +11,41 @@ Information technology and cybersecurity enthusiast with over 6+ years of experi
 
 ----
 
-### Technology Skills
+## Technology Skills
 ----
 
-##### *Platforms:*
+#### *Platforms:*
 | Win 7/8/10/11/Server 2016/2019 | MacOS | Android | iOS | RedHat7/CentOS7/Ubuntu/Oracle Linux/Kali Linux |
 
-##### *Applications:*
+#### *Applications:*
 | MS Office365 / Active Directory / Group Policy Objects / Web Server(IIS) / WSUS / Exchange / SharePoint | Oracle VirtualBox | ServiceNow |
 
-##### *Networking:*
+#### *Networking:*
 | LAN/WAN | Protocols: DNS / DHCP / SMTP / FTP / VPN / TCP/IP / UDP / VoIP / NTP / NFS / HTTP/S / IPSEC / BGP | SSL/TLS | SSH | MPLS | PuTTY | traceroute | nslookup | VLANs | 802.1x | 
 
-##### *Cloud:* 
+#### *Cloud:* 
 | AWS | Azure | Google Cloud | DevOps | Agile | Scrum | S3 | Splunk | SaaS/IaaS | CI/CD Pipeline | Container Platform: Kubernetes/Docker | Serverless: EC2/Lambda | Integration Technologies/APIs: XML/(S)FTP | Continous Intergration: Jenkins | Continous Deployment: Ansible | Continous Monitoring: Kubernetes | Infrastructure Provisioning: Terraform | Version Control Systems: Github | Testing/Deployment: Go/Python/Java/Javascript | Ticketing: JIRA-Kanban Board/Confluence |
 
-##### *Security:*
+#### *Security:*
 | Forensics/Network Analysis: Wireshark/NetWitness Investigator/Splunk | Vulnerability Mgt.: Nessus/Nmap | Pen Testing: Kali Linux | Firewalls: pfSense/Checkpoint | Endpoint Security: BitLocker/McFee/Symantec | Testing Environ.: Sandbox |
 
-##### *Regulatory Regimes:*
+#### *Regulatory Regimes:*
 | HIPAA | PCI DSS | HITRUST | COBIT | ISO27K Series | NIST SP 800-53 | FISMA | NIST | FedRAMP / A&A / STIG |
 
-##### *Languages:*
+#### *Languages:*
 | Java | Python | Bash | Batch / PowerShell Scripting | HTML5 | XML |
 
 
 ----
 
-### Professional Experience
+## Professional Experience
 ----
 
-#### **Data Service Group Inc., Bear, Delaware**
+### **Data Service Group Inc., Bear, Delaware**
 
-##### *SRE/DevOps Engineer*
+#### *SRE/DevOps Engineer*
 
-###### *September 2020 - Present*
+##### *September 2020 - Present*
 
 * Consulted with clients on DevOps culture and best practices to reduce deployment cycle time and productivity for developers and system administrators.
 * Worked with and used the Amazon Web Services (EC2, CloudWatch, S3, VPC, CloudFormation, etc.), AWS serverless technologies (Lambda, Cognito, API Gateway), and other cloud technology platforms, Jenkins, Ansible, Chef, Docker, Puppet, Salt, Kubernetes, Nagios, Node.js, Python, PowerShell, Bash, Java, JavaScript, GIT, Github, Linux.
@@ -60,11 +60,11 @@ Information technology and cybersecurity enthusiast with over 6+ years of experi
 * Undertook routine preventative measures and implemented, maintained, and monitored the network security and intrusion detection, while preparing the technical and user documentation and training materials.
 
 
-#### **Data Service Group Inc., Bear, Delaware**
+### **Data Service Group Inc., Bear, Delaware**
 
-##### *AWS Cloud Engineer*
+#### *AWS Cloud Engineer*
 
-###### *April 2019 - August 2020*
+##### *April 2019 - August 2020*
 
 * Built fully automated CI/CD pipelines using Jenkins, Ansible, Terraform, Docker, and Kubernetes.
 * Deployed a multi-tier infrastructure on AWS using Terraform where the application was configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database. Cloud watch alarm and s3 bucket were configured to monitor performances and store log messages respectively.
@@ -77,11 +77,11 @@ Information technology and cybersecurity enthusiast with over 6+ years of experi
 * Assisted in managing the business continuity in cloud-based environments, including server, file backup, and recovery, preparing and testing disaster recovery procedures
 
 
-#### **Data Service Group Inc., Bear, Delaware**
+### **Data Service Group Inc., Bear, Delaware**
 
-##### *Linux Systems Administrator*
+#### *Linux Systems Administrator*
 
-###### *April 2018 - March 2019*
+##### *April 2018 - March 2019*
 
 * Created virtual machines using VirtualBox enterprise; Vagrant; Windows Virtual code; installed and configured Linux servers (RedHat, CentOS, Ubuntu, Debian, kali Linux, oracle Linux).
 * Performed system performance tuning, monitored, and analyzed application logs.
@@ -100,11 +100,11 @@ Information technology and cybersecurity enthusiast with over 6+ years of experi
 * Collaborated with the development and operation team to troubleshoot and resolve issues.
 * Presented weekly system status reports and maintained documentation reports.
 
-#### **Tar Technologies LLC., Washington, DC**
+### **Tar Technologies LLC., Washington, DC**
 
-##### *Information Security and Privacy Risk Analyst*
+#### *Information Security and Privacy Risk Analyst*
 
-###### *January 2017 - May 2018*
+##### *January 2017 - May 2018*
 
 * Assisted in Implementing a multilayer security system for the institution, including enhanced anti-virus, anti-spam, and anti-spyware software, reducing malware risk by 35% and helping increase positive customers’ feedback.
 * Assisted in patching security vulnerabilities, implemented driver’s functionalities updates on Windows/Linux servers and workstations company-wide using WSUS, with a 99% success.
@@ -122,7 +122,7 @@ Information technology and cybersecurity enthusiast with over 6+ years of experi
 
 ----
 
-### Education
+## Education
 ----
 
 2021-2024 *(expected)*
@@ -143,7 +143,7 @@ Information technology and cybersecurity enthusiast with over 6+ years of experi
 
 ----
 
-### Certification
+## Certification
 ----
 
 2021-03
@@ -152,15 +152,15 @@ Information technology and cybersecurity enthusiast with over 6+ years of experi
 
 ----
 
-### Interests/Hobbies 
+## Interests/Hobbies 
 ----
 
-* Smart Devices, Machine Learning, Artificial Intelligence, and Solar Energy.
+* Smart Devices, Internet-of-Things, Machine Learning, Artificial Intelligence, and Renewable Energy.
 * Soccer, Volleyball, Tennis, Research Writing, Volunteering, and Travelling.
 
 ----
 
-### Languages
+## Languages
 ----
 
 * English (native speaker)
