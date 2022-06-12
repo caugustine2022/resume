@@ -43,7 +43,7 @@ Information technology and cybersecurity enthusiast with over 6+ years of experi
 
 ### **Data Service Group Inc., Bear, Delaware**
 
-#### *SRE/DevOps Engineer*
+#### **SRE/DevOps Engineer**
 
 ##### *September 2020 - Present*
 
@@ -62,7 +62,7 @@ Information technology and cybersecurity enthusiast with over 6+ years of experi
 
 ### **Data Service Group Inc., Bear, Delaware**
 
-#### *AWS Cloud Engineer*
+#### **AWS Cloud Engineer**
 
 ##### *April 2019 - August 2020*
 
@@ -79,7 +79,7 @@ Information technology and cybersecurity enthusiast with over 6+ years of experi
 
 ### **Data Service Group Inc., Bear, Delaware**
 
-#### *Linux Systems Administrator*
+#### **Linux Systems Administrator**
 
 ##### *April 2018 - March 2019*
 
@@ -102,7 +102,7 @@ Information technology and cybersecurity enthusiast with over 6+ years of experi
 
 ### **Tar Technologies LLC., Washington, DC**
 
-#### *Information Security and Privacy Risk Analyst*
+#### **Information Security and Privacy Risk Analyst**
 
 ##### *January 2017 - May 2018*
 
