@@ -15,7 +15,7 @@ Information technology and cybersecurity enthusiast with over 6+ years of experi
 ----
 
 #### *Platforms:*
-| Win 7/8/10/11/Server 2016/2019 | MacOS | Android | iOS | RedHat7/CentOS7/Ubuntu/Oracle Linux/Kali Linux |
+| Win 7/8/10/11 / Server 2016/2019 | MacOS | Android | iOS | RedHat7 / CentOS7 / Ubuntu / Debian / Oracle Linux / Kali Linux |
 
 #### *Applications:*
 | MS Office365 / Active Directory / Group Policy Objects / Web Server(IIS) / WSUS / Exchange / SharePoint | Oracle VirtualBox | ServiceNow |
