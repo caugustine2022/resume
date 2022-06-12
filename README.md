@@ -48,7 +48,7 @@ Information technology and cybersecurity enthusiast with over 6+ years of experi
 ##### *September 2020 - Present*
 
 * Consulted with clients on DevOps culture and best practices to reduce deployment cycle time and productivity for developers and system administrators.
-* Worked with and used the Amazon Web Services (EC2, CloudWatch, S3, VPC, CloudFormation, etc.), AWS serverless technologies (Lambda, Cognito, API Gateway), and other cloud technology platforms, Jenkins, Ansible, Chef, Docker, Puppet, Salt, Kubernetes, Nagios, Node.js, Python, PowerShell, Bash, Java, JavaScript, GIT, Github, Linux.
+* Worked with and used the Amazon Web Services (EC2, CloudWatch, S3, VPC, CloudFormation, etc.), AWS serverless technologies (Lambda, Cognito, API Gateway), and other cloud technology platforms; Jenkins, Ansible, Chef, Docker, Puppet, Salt, Kubernetes, Nagios, Node.js, Python, PowerShell, Bash, Java, JavaScript, Git/Github, HAProxy.
 * Wrote automation code for provisioning and operating infrastructure at a massive scale; wrote and edited Jenkins file using Groovy language to automate and troubleshoot failing jobs.
 * Installed and configured Jenkins master and Jenkins slave nodes. Built CI/CD pipeline and managed the infrastructure as code using Ansible.
 * Created and implemented Ansible scripts to automatically update system components, saving 30% admin time.
