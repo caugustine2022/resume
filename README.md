@@ -24,7 +24,7 @@ Information technology and cybersecurity enthusiast with over 6+ years of experi
 | LAN/WAN | Protocols: DNS / DHCP / SMTP / FTP / VPN / TCP/IP / UDP / VoIP / NTP / NFS / HTTP/S / IPSEC / BGP | SSL/TLS | SSH | MPLS | PuTTY | traceroute | nslookup | VLANs | 802.1x | 
 
 #### *Cloud:* 
-| AWS | Azure | Google Cloud | DevOps | Agile | Scrum | S3 | Splunk | SaaS/IaaS | CI/CD Pipeline | Container Platform: Kubernetes/Docker | Serverless: EC2/Lambda | Integration Technologies/APIs: XML/(S)FTP | Continous Intergration: Jenkins | Continous Deployment: Ansible | Continous Monitoring: Kubernetes | Infrastructure Provisioning: Terraform | Version Control Systems: Github | Testing/Deployment: Go/Python/Java/Javascript | Ticketing: JIRA-Kanban Board/Confluence | Load Balancer: HAProxy |
+| AWS | Azure | Google Cloud | DevOps | S3 | Splunk | SaaS/IaaS | CI/CD Pipeline | Container Platform: Kubernetes/Docker | Serverless: EC2/Lambda | Integration Technologies/APIs: XML/(S)FTP | Continous Intergration: Jenkins | Continous Deployment: Ansible | Continous Monitoring: Kubernetes | Infrastructure Provisioning: Terraform | Version Control Systems: Github | Testing/Deployment: Go/Python/Java/Javascript | Ticketing: JIRA-Kanban Board/Confluence | Load Balancer: HAProxy | Agile/Scrum |
 
 #### *Security:*
 | Forensics/Network Analysis: Wireshark/NetWitness Investigator/Splunk | Vulnerability Mgt.: Nessus/Nmap | Pen Testing: Kali Linux | Firewalls: pfSense/Checkpoint | Endpoint Security: BitLocker/McFee/Symantec | Testing Environ.: Sandbox |
