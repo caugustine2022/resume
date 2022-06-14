@@ -8,6 +8,7 @@
 ----
 
 Information technology and cybersecurity enthusiast with over 6+ years of experience in the information technology industry; over 4+ years of experience as a Site Reliability Engineer, AWS Cloud/DevOps Engineer, and Linux System Administrator with excelling skills in automation, container orchestration, managing, and configuring various Linux systems distributions; Ubuntu, CentOS, RedHat, Debian, Oracle Linux, and Kali Linux. Hands-on experience in git/GitHub, Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, GCP, Azure, and on-premises deployment, with added proficiency in Python, Bash, and PowerShell scripting. 
+
 In addition, cutting-edge training and skills in identity access management, security systems administration, enterprise security control frameworks, ethical hacking and/or penetration testing, endpoint security, network security, data governance, risk management, and compliances, with a deep passion for enterprise-wide security management. Persistent, detailed-oriented with excellent interpersonal and team-working skills; and particularly passionate about contributing my technical and analytical skills to ensure operational efficiency.
 
 ----
@@ -19,7 +20,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 | Win 7/8/10/11 / Server 2016/2019 | MacOS | Android | iOS | RedHat7 / CentOS7 / Ubuntu / Debian / Oracle Linux / Kali Linux |
 
 #### *Applications:*
-| MS Office365 / Active Directory / Group Policy Objects / Web Server(IIS) / WSUS / Exchange / SharePoint | Oracle VirtualBox | Vmware | ServiceNow |
+| MS Office365 / Active Directory / Group Policy Objects / Web Server(IIS) / WSUS / Exchange / SharePoint | Oracle VirtualBox | VMware | ServiceNow |
 
 #### *Networking:*
 | LAN/WAN | Protocols: DNS / DHCP / SMTP / FTP / VPN / TCP/IP / UDP / VoIP / NTP / NFS / HTTP/S / IPSEC / BGP | SSL/TLS | SSH | MPLS | PuTTY | traceroute | nslookup | VLANs | 802.1x | 
@@ -34,7 +35,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 | HIPAA | PCI DSS | HITRUST | COBIT | ISO27K Series | NIST SP 800-53 | FISMA | NIST | FedRAMP / A&A / STIG |
 
 #### *Languages:*
-| Java | Python | Bash | Batch / PowerShell Scripting | HTML5 | XML |
+| Java | Python | Bash Shell | Batch / PowerShell | HTML5 / XML |
 
 
 ----
