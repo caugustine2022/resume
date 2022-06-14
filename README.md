@@ -19,7 +19,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 | Win 7/8/10/11 / Server 2016/2019 | MacOS | Android | iOS | RedHat7 / CentOS7 / Ubuntu / Debian / Oracle Linux / Kali Linux |
 
 #### *Applications:*
-| MS Office365 / Active Directory / Group Policy Objects / Web Server(IIS) / WSUS / Exchange / SharePoint | Oracle VirtualBox | ServiceNow |
+| MS Office365 / Active Directory / Group Policy Objects / Web Server(IIS) / WSUS / Exchange / SharePoint | Oracle VirtualBox | Vmware | ServiceNow |
 
 #### *Networking:*
 | LAN/WAN | Protocols: DNS / DHCP / SMTP / FTP / VPN / TCP/IP / UDP / VoIP / NTP / NFS / HTTP/S / IPSEC / BGP | SSL/TLS | SSH | MPLS | PuTTY | traceroute | nslookup | VLANs | 802.1x | 
