@@ -8,7 +8,6 @@
 ----
 
 Information technology and cybersecurity enthusiast with over 6+ years of experience in the information technology industry; over 4+ years of experience as a Site Reliability Engineer, AWS Cloud/DevOps Engineer, and Linux System Administrator with excelling skills in automation, container orchestration, managing, and configuring various Linux systems distributions; Ubuntu, CentOS, RedHat, Debian, Oracle Linux, and Kali Linux. Hands-on experience in git/GitHub, Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, GCP, Azure, and on-premises deployment, with added proficiency in Python, Bash, and PowerShell scripting. 
-
 In addition, cutting-edge training and skills in identity access management, security systems administration, enterprise security control frameworks, ethical hacking and/or penetration testing, endpoint security, network security, data governance, risk management, and compliances, with a deep passion for enterprise-wide security management. Persistent, detailed-oriented with excellent interpersonal and team-working skills; and particularly passionate about contributing my technical and analytical skills to ensure operational efficiency.
 
 ----
