@@ -72,7 +72,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 * Involved in DevOps migration/automation processes for build and deploy systems.
 * Configured AWS VPC with public and private subnets, configure routing tables, internet gateway, ACLs, and Security groups.
 * Actively managed, improved, and monitored cloud infrastructure on AWS, EC2, S3, and RDS, including backups, patches, and scaling.
-* Created and implemented Chef cook-books for deployment and also used Chef recipes to create a deployment directly inot Amazon EC2 instances
+* Created and implemented Chef cook-books for deployment and also used Chef recipes to create a deployment directly into Amazon EC2 instances.
 * Installed, configured, and managed monitoring tools such as Nagios for resource monitoring/network monitoring.
 * Managed Kubernetes, running nodes, container snapshots, and images, and used Kubernetes to provide a platform for automating deployment, scaling, and operations of application containers across clusters of hosts.
 * Created Ansible YAML, Play-books, and Roles for application deployments.
