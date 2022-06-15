@@ -25,10 +25,10 @@ In addition, cutting-edge training and skills in identity access management, sec
 | LAN/WAN | Protocols: DNS / DHCP / SMTP / FTP / VPN / TCP/IP / UDP / VoIP / NTP / NFS / HTTP/S / IPSEC / BGP | SSL/TLS | SSH | MPLS | PuTTY | traceroute | nslookup | VLANs | 802.1x | 
 
 #### *Cloud:* 
-| AWS | Azure | Google Cloud | DevOps | S3 | Splunk | SaaS/IaaS | CI/CD Pipeline | Container Platform: Kubernetes/Docker | Serverless: EC2/Lambda | Integration Technologies/APIs: XML/(S)FTP | Continous Intergration: Jenkins | Continous Deployment: Ansible | Continous Monitoring: Kubernetes | Infrastructure Provisioning: Terraform | Version Control Systems: Github | Testing/Deployment: Golang/Go/Python/Java/Javascript | Ticketing: JIRA-Kanban Board/Confluence | Load Balancer: HAProxy | Agile/Scrum |
+| AWS | Azure | Google Cloud | DevOps | S3 | Splunk | SaaS/IaaS | CI/CD Pipeline | Container Platform: Kubernetes/Docker | Serverless: EC2/Lambda | Integration Technologies/APIs: XML/(S)FTP | Continous Intergration: Jenkins, Chef, Puppet | Continous Deployment: Ansible | Continous Monitoring: Kubernetes | Infrastructure Provisioning: Terraform | Version Control Systems: Github | Testing/Deployment: Golang/Go/Python/Java/Javascript | Ticket Tracking: JIRA-Kanban Board/Confluence | Load Balancer: HAProxy | Agile/Scrum | WebServer: Apache, Tomcat | 
 
 #### *Security:*
-| Forensics/Network Analysis: Wireshark/NetWitness Investigator/Splunk | Vulnerability Mgt.: Nessus/Nmap | Pen Testing: Kali Linux | Firewalls: pfSense/Checkpoint | Endpoint Security: BitLocker/McFee/Symantec | Testing Environ.: Sandbox |
+| Forensics/Network Analysis: Wireshark/NetWitness Investigator/Splunk | Vulnerability Mgt.: Nessus/Nmap | Pen Testing: Kali Linux | Firewalls: pfSense/Checkpoint | Endpoint Security: BitLocker/McFee/Symantec |
 
 #### *Regulatory Regimes:*
 | HIPAA | PCI DSS | HITRUST | COBIT | ISO27K Series | NIST SP 800-53 | FISMA | NIST | FedRAMP / A&A / STIG |
@@ -72,6 +72,8 @@ In addition, cutting-edge training and skills in identity access management, sec
 * Involved in DevOps migration/automation processes for build and deploy systems.
 * Configured AWS VPC with public and private subnets, configure routing tables, internet gateway, ACLs, and Security groups.
 * Actively managed, improved, and monitored cloud infrastructure on AWS, EC2, S3, and RDS, including backups, patches, and scaling.
+* Created and implemented Chef cook-books for deployment and also used Chef recipes to create a deployment directly inot Amazon EC2 instances
+* Installed, configured, and managed monitoring tools such as Nagios for resource monitoring/network monitoring.
 * Managed Kubernetes, running nodes, container snapshots, and images, and used Kubernetes to provide a platform for automating deployment, scaling, and operations of application containers across clusters of hosts.
 * Created Ansible YAML, Play-books, and Roles for application deployments.
 * Developed, debugged, and tested Python, Bash, Groovy, YAML, and PowerShell scripts to automate deployments across multiple environments.
