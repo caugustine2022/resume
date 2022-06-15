@@ -86,7 +86,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 
 ##### *April 2018 - March 2019*
 
-* Created, installed and configured Linux virtual servers (RedHat, CentOS, Ubuntu, Debian, kali Linux, oracle Linux) on Oracle VirtualBox using Vagrant cloud and Windows Virtual code.
+* Created, installed, and configured Linux virtual servers (RedHat, CentOS, Ubuntu, Debian, kali Linux, oracle Linux) on Oracle VirtualBox using Vagrant cloud and Windows Virtual code.
 * Performed system performance tuning, monitored, and analyzed application logs.
 * Performed periodic vulnerability assessments, system updates, and Patch management.
 * Installed, configured, and hardened standalone Linux servers.
