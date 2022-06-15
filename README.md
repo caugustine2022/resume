@@ -7,7 +7,7 @@
 
 ----
 
-Information technology and cybersecurity enthusiast with over 6+ years of experience in the information technology industry; over 4+ years of experience as a Site Reliability Engineer, AWS Cloud/DevOps Engineer, and Linux System Administrator with excelling skills in automation, container orchestration, managing, and configuring various Linux systems distributions; Ubuntu, CentOS, RedHat, Debian, Oracle Linux, and Kali Linux. Hands-on experience in git/GitHub, Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS, and on-premises deployment, with added proficiency in Python, Bash, and PowerShell scripting. 
+Information technology and cybersecurity enthusiast with over 6+ years of experience in the information technology industry; over 4+ years of experience as a Site Reliability Engineer, AWS Cloud/DevOps Engineer, and Linux System Administrator with excelling skills in automation, container orchestration, managing, and configuring various Linux systems distributions; Ubuntu, CentOS, RedHat, Debian, Oracle Linux, and Kali Linux. Hands-on experience in git/GitHub, Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS cloud, and on-premises deployment, with added proficiency in Python, Bash, and PowerShell scripting. 
 In addition, cutting-edge training and skills in identity access management, security systems administration, enterprise security control frameworks, ethical hacking and/or penetration testing, endpoint security, network security, data governance, risk management, and compliances, with a deep passion for enterprise-wide security management. Persistent, detailed-oriented with excellent interpersonal and team-working skills; and particularly passionate about contributing my technical and analytical skills to ensure operational efficiency.
 
 ----
@@ -25,7 +25,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 | LAN/WAN | Protocols: DNS / DHCP / SMTP / FTP / VPN / TCP/IP / UDP / VoIP / NTP / NFS / HTTP/S / IPSEC / BGP | SSL/TLS | SSH | MPLS | PuTTY | traceroute | nslookup | VLANs | 802.1x | 
 
 #### *Cloud:* 
-| AWS | DevOps | S3 | Splunk | SaaS/IaaS | CI/CD Pipeline | Container Platform: Kubernetes/Docker | Serverless: EC2/Lambda | Integration Technologies/APIs: XML/(S)FTP | Continous Intergration: Jenkins, Chef, Puppet | Continous Deployment: Ansible | Continous Monitoring: Kubernetes | Infrastructure Provisioning: Terraform | Version Control Systems: Github | Testing/Deployment: Golang/Go/Python/Java/Javascript | Ticket Tracking: JIRA-Kanban Board/Confluence | Load Balancer: HAProxy | Agile/Scrum | WebServer: Apache, Tomcat | Resource/Network Monitoring: Nagios | 
+| AWS cloud | DevOps | S3 | Splunk | SaaS/IaaS | CI/CD Pipeline | Container Platform: Kubernetes/Docker | Serverless: EC2/Lambda | Integration Technologies/APIs: XML/(S)FTP | Continous Intergration: Jenkins, Chef, Puppet | Continous Deployment: Ansible | Continous Monitoring: Kubernetes | Infrastructure Provisioning: Terraform | Version Control Systems: Github | Testing/Deployment: Golang/Go/Python/Java/Javascript | Ticket Tracking: JIRA-Kanban Board/Confluence | Load Balancer: HAProxy | Agile/Scrum | WebServer: Apache, Tomcat | Resource/Network Monitoring: Nagios | 
 
 #### *Security:*
 | Forensics/Network Analysis: Wireshark/NetWitness Investigator/Splunk | Vulnerability Mgt.: Nessus/Nmap | Pen Testing: Kali Linux | Firewalls: pfSense/Checkpoint | Endpoint Security: BitLocker/McFee/Symantec |
@@ -86,7 +86,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 
 ##### *April 2018 - March 2019*
 
-* Installed and configured Linux virtual servers (RedHat, CentOS, Ubuntu, Debian, kali Linux, oracle Linux) on Oracle VirtualBox using Vagrant cloud and Windows Virtual code.
+* Created, installed and configured Linux virtual servers (RedHat, CentOS, Ubuntu, Debian, kali Linux, oracle Linux) on Oracle VirtualBox using Vagrant cloud and Windows Virtual code.
 * Performed system performance tuning, monitored, and analyzed application logs.
 * Performed periodic vulnerability assessments, system updates, and Patch management.
 * Installed, configured, and hardened standalone Linux servers.
