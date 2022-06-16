@@ -46,7 +46,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 
 #### **SRE/DevOps Engineer**
 
-##### *September 2020 - Present*
+##### *October 2020 - Present*
 
 * Consulted with clients on DevOps culture and best practices to reduce deployment cycle time and productivity for developers and system administrators.
 * Worked with and used the Amazon Web Services (EC2, CloudWatch, S3, VPC, CloudFormation, etc.), AWS serverless technologies (Lambda, Cognito, API Gateway), and other cloud technology platforms; Jenkins, Ansible, Chef, Docker, Puppet, Salt, Kubernetes, Nagios, Node.js, Python, PowerShell, Bash, Java, JavaScript, Git/Github, HAProxy.
@@ -65,7 +65,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 
 #### **AWS Cloud Engineer**
 
-##### *April 2019 - August 2020*
+##### *October 2018 - September 2020*
 
 * Built fully automated CI/CD pipelines using Jenkins, Ansible, Terraform, Docker, and Kubernetes.
 * Deployed a multi-tier infrastructure on AWS using Terraform where the application was configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database. Cloud watch alarm and s3 bucket were configured to monitor performances and store log messages respectively.
@@ -84,7 +84,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 
 #### **Linux Systems Administrator**
 
-##### *April 2018 - March 2019*
+##### *April 2017 - September 2018*
 
 * Created, installed, and configured Linux virtual servers (RedHat, CentOS, Ubuntu, Debian, kali Linux, oracle Linux) on Oracle VirtualBox using Vagrant cloud and Windows Virtual code.
 * Performed system performance tuning, monitored, and analyzed application logs.
@@ -107,7 +107,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 
 #### **Information Security and Privacy Risk Analyst**
 
-##### *January 2017 - May 2018*
+##### *January 2016 - March 2017*
 
 * Assisted in Implementing a multilayer security system for the institution, including enhanced anti-virus, anti-spam, and anti-spyware software, reducing malware risk by 35% and helping increase positive customers’ feedback.
 * Assisted in patching security vulnerabilities, implemented driver’s functionalities updates on Windows/Linux servers and workstations company-wide using WSUS, with a 99% success.
