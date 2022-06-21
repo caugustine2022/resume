@@ -7,7 +7,7 @@
 
 ----
 
-Information technology and cybersecurity enthusiast with over 6+ years of experience in the information technology industry. Over 5+ years of experience as a Site Reliability Engineer, AWS Cloud/DevOps Engineer, and Linux System Administrator with excelling skills in automation, container orchestration, managing, and configuring various Linux systems distributions; Ubuntu, CentOS, RedHat, Debian, Oracle Linux, and Kali Linux. Hands-on experience in git/GitHub, Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS cloud, and on-premises deployment, with added proficiency in Python, Bash, and PowerShell scripting. 
+Information technology and cybersecurity enthusiast with over 6+ years of experience in the information technology industry. Over 5+ years of experience as a Site Reliability Engineer, AWS Cloud/DevOps Engineer, and Linux System Administrator with excelling skills in automation, container orchestration, managing, and configuring various Linux systems distributions; Ubuntu, CentOS, RedHat, Debian, Oracle Linux, and Kali Linux. Hands-on experience in git/GitHub, SonarQube, Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS cloud, and on-premises deployment, with added proficiency in Python, Bash, and PowerShell scripting. 
 In addition, cutting-edge training and skills in identity access management, security systems administration, enterprise security control frameworks, ethical hacking and/or penetration testing, endpoint security, network security, data governance, risk management, and compliances, with a deep passion for enterprise-wide security management. Persistent, detailed-oriented with excellent interpersonal and team-working skills; and particularly passionate about contributing my technical and analytical skills to ensure operational efficiency.
 
 ----
@@ -25,7 +25,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 | LAN/WAN | Protocols: DNS / DHCP / SMTP / FTP / VPN / TCP/IP / UDP / VoIP / NTP / NFS / HTTP/S / IPSEC / BGP | SSL/TLS | SSH | MPLS | PuTTY | traceroute | nslookup | VLANs | 802.1x | 
 
 #### *Cloud:* 
-| AWS cloud | DevOps | S3 | Splunk | SaaS/IaaS | CI/CD Pipeline | Container Platform: Kubernetes/Docker | Serverless: EC2/Lambda | Integration Technologies/APIs: XML/(S)FTP | Continous Intergration: Jenkins, Chef, Puppet | Continous Deployment: Ansible | Continous Monitoring: Kubernetes | Infrastructure Provisioning: Terraform | Version Control Systems: Github | Testing/Deployment: Golang/Go/Python/Java/Javascript | Ticket Tracking: JIRA-Kanban Board/Confluence | Load Balancer: HAProxy | Agile/Scrum | WebServer: Apache, Tomcat | Resource/Network Monitoring: Nagios | 
+| AWS cloud | DevOps | S3 | Splunk | SaaS/IaaS | CI/CD Pipeline | Container Platform: Kubernetes/Docker | Serverless: EC2/Lambda | Integration Technologies/APIs: XML/(S)FTP | Continous Intergration: Jenkins, Chef, Puppet | Continous Deployment: Ansible | Continous Monitoring: Kubernetes | Infrastructure Provisioning: Terraform | Version Control Systems: Github | Testing/Deployment: Golang/Go/Python/Java/Javascript | Ticket Tracking: JIRA-Kanban Board/Confluence | Load Balancer: HAProxy | Code Quality Intergration : SonarQube | Agile/Scrum | Web/App Server: Apache Tomcat | Resource/Network Monitoring: Nagios | 
 
 #### *Security:*
 | Forensics/Network Analysis: Wireshark/NetWitness Investigator/Splunk | Vulnerability Mgt.: Nessus/Nmap | Pen Testing: Kali Linux | Firewalls: pfSense/Checkpoint | Endpoint Security: BitLocker/McFee/Symantec |
@@ -49,14 +49,14 @@ In addition, cutting-edge training and skills in identity access management, sec
 ##### *October 2020 - Present*
 
 * Consulted with clients on DevOps culture and best practices to reduce deployment cycle time and productivity for developers and system administrators.
-* Worked with and used the Amazon Web Services (EC2, CloudWatch, S3, VPC, CloudFormation, etc.), AWS serverless technologies (Lambda, Cognito, API Gateway), and other cloud technology platforms; Jenkins, Ansible, Chef, Docker, Puppet, Salt, Kubernetes, Nagios, Node.js, Python, PowerShell, Bash, Java, JavaScript, Git/Github, HAProxy.
-* Wrote automation code for provisioning and operating infrastructure at a massive scale; wrote and edited Jenkins file using Groovy language to automate and troubleshoot failing jobs.
-* Installed and configured Jenkins master and Jenkins slave nodes. Built CI/CD pipeline and managed the infrastructure as code using Ansible.
+* Worked with and used the Amazon Web Services (EC2, CloudWatch, S3, VPC, CloudFormation, etc.), AWS serverless technologies (Lambda, Cognito, API Gateway), and other cloud technology platforms; Jenkins, Ansible, Chef, Docker, Puppet, Salt, Kubernetes, SonarQube, Nagios, Node.js, Python, PowerShell, Bash, Java, JavaScript, Git/Github, HAProxy.
+* Wrote and edited Jenkins file using Groovy language to automate and troubleshoot failing jobs.
+* Installed, configured and administered the SonarQube for code quality check and generating reports for different projects; and integrated them into Jenkins.  
+* Installed and configured Jenkins master and Jenkins slave nodes, built CI/CD pipeline and managed the infrastructure as code using Ansible.
 * Created and implemented Ansible scripts to automatically update system components, saving 30% admin time.
 * Integrated Nagios with PagerDuty and wrote Ansible playbook to automate the server's onboardings as well as the configuration.
-* Implemented processes for release management, automated code deployment, configuration management, and monitoring.
 * Monitored system activities like CPU, Memory, Disk, and Swap space usage to avoid any performance issues, ensuring the highest 24-hour/7-day week critical system availability.
-* Assisted with refining the Software Development Life Cycle to fit system needs; designed and enhanced the software architecture to improve scalability, service reliability, capacity, and performance.
+* Assisted with refining the Software Development Life Cycle (SDLC) to fit system needs; designed and enhanced the software architecture to improve scalability, service reliability, capacity, and performance.
 * Worked with the development teams to make sure the applications fit nicely within the infrastructure and scalability/reliability is designed and implemented from the ground up. 
 * Undertook routine preventative measures and implemented, maintained, and monitored the network security and intrusion detection, while preparing the technical and user documentation and training materials.
 
