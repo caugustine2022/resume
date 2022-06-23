@@ -19,16 +19,16 @@ In addition, cutting-edge training and skills in identity access management, sec
 | Win 7/8/10/11 / Server 2016/2019 | MacOS | Android | iOS | RedHat7 / CentOS7 / Ubuntu / Debian / Oracle Linux / Kali Linux |
 
 #### *Applications:*
-| MS Office365 / Active Directory / Group Policy Objects / Web Server(IIS) / WSUS / Exchange / SharePoint | Oracle VirtualBox | VMware | ServiceNow |
+| MS Office365 / Active Directory / Group Policy Objects / Web Server(IIS) / WSUS / Exchange / SharePoint | Oracle VM VirtualBox | VMware Workstation Player |
 
 #### *Networking:*
 | LAN/WAN | Protocols: DNS / DHCP / SMTP / FTP / VPN / TCP/IP / UDP / VoIP / NTP / NFS / HTTP/S / IPSEC / BGP | SSL/TLS | SSH | MPLS | PuTTY | traceroute | nslookup | VLANs | 802.1x | 
 
 #### *Cloud:* 
-| AWS cloud | DevOps | S3 | Splunk | SaaS/IaaS | CI/CD Pipeline | Container Platform: Kubernetes/Docker | Serverless: EC2/Lambda | Integration Technologies/APIs: XML/(S)FTP | Continous Intergration: Jenkins, Chef, Puppet | Continous Deployment: Ansible | Continous Monitoring: Kubernetes | Infrastructure Provisioning: Terraform | Version Control Systems: Github | Testing/Deployment: Golang/Go/Python/Java/Javascript | Ticket Tracking: JIRA-Kanban Board/Confluence | Load Balancer: HAProxy | Code Quality Intergration : SonarQube | Agile/Scrum | Web/App Server: Apache Tomcat | Resource/Network Monitoring: Nagios | 
+| AWS cloud | DevOps | S3 | Splunk | SaaS/IaaS | CI / CD Pipeline | Container Platform: Kubernetes / Docker | Serverless: EC2 / Lambda | Integration Technologies/APIs: XML / (S)FTP | Continous Intergration: Jenkins, Chef, Puppet | Continous Deployment: Ansible | Continous Monitoring: Kubernetes | Infrastructure Provisioning: Terraform | Version Control Systems: Github | Testing/Deployment: Golang / Go / Python / Java / Javascript | Ticket Tracking: Confluence / ServiceNow | Load Balancer: HAProxy | Code Quality Intergration : SonarQube | Scrum/Agile Project Management: JIRA-kanban | Web/App Server: Apache Tomcat | Resource/Network Monitoring: Nagios | 
 
 #### *Security:*
-| Forensics/Network Analysis: Wireshark/NetWitness Investigator/Splunk | Vulnerability Mgt.: Nessus/Nmap | Pen Testing: Kali Linux | Firewalls: pfSense/Checkpoint | Endpoint Security: BitLocker/McFee/Symantec |
+| Forensics/Network Analysis: Wireshark / NetWitness Investigator / Splunk | Vulnerability Management: Nessus / Nmap | Penetration Testing: Kali Linux | Firewalls: pfSense / Checkpoint | Endpoint Security: BitLocker / McFee / Symantec |
 
 #### *Regulatory Regimes:*
 | HIPAA | PCI DSS | HITRUST | COBIT | ISO27K Series | NIST SP 800-53 | FISMA | NIST | FedRAMP / A&A / STIG |
