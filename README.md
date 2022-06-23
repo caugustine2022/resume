@@ -42,11 +42,11 @@ In addition, cutting-edge training and skills in identity access management, sec
 ## Professional Experience
 ----
 
-### **Data Service Group Inc., Bear, Delaware**
+### **Data Service Group Inc.**
 
 #### **SRE/DevOps Engineer**
 
-##### *October 2020 - Present*
+##### *October 2020 - Present / Bear, Delaware*
 
 * Consulted with clients on DevOps culture and best practices to reduce deployment cycle time and productivity for developers and system administrators.
 * Worked with and used the Amazon Web Services (EC2, CloudWatch, S3, VPC, CloudFormation, etc.), AWS serverless technologies (Lambda, Cognito, API Gateway), and other cloud technology platforms; Jenkins, Ansible, Chef, Docker, Puppet, Salt, Kubernetes, SonarQube, Nagios, Node.js, Python, PowerShell, Bash, Java, JavaScript, Git/Github, HAProxy.
@@ -61,11 +61,11 @@ In addition, cutting-edge training and skills in identity access management, sec
 * Undertook routine preventative measures and implemented, maintained, and monitored the network security and intrusion detection, while preparing the technical and user documentation and training materials.
 
 
-### **Data Service Group Inc., Bear, Delaware**
+### **Data Service Group Inc.**
 
 #### **AWS Cloud Engineer**
 
-##### *October 2018 - September 2020*
+##### *October 2018 - September 2020 / Bear, Delaware*
 
 * Built fully automated CI/CD pipelines using Jenkins, Ansible, Terraform, Docker, and Kubernetes.
 * Deployed a multi-tier infrastructure on AWS using Terraform where the application was configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database. Cloud watch alarm and s3 bucket were configured to monitor performances and store log messages respectively.
@@ -80,11 +80,11 @@ In addition, cutting-edge training and skills in identity access management, sec
 * Assisted in managing the business continuity in cloud-based environments, including server, file backup, and recovery, preparing and testing disaster recovery procedures
 
 
-### **Data Service Group Inc., Bear, Delaware**
+### **Data Service Group Inc.**
 
 #### **Linux Systems Administrator**
 
-##### *April 2017 - September 2018*
+##### *April 2017 - September 2018 / Bear, Delaware*
 
 * Created, installed, and configured Linux virtual servers (RedHat, CentOS, Ubuntu, Debian, kali Linux, oracle Linux) on Oracle VirtualBox using Vagrant cloud and Windows Virtual code.
 * Performed system performance tuning, monitored, and analyzed application logs.
@@ -103,11 +103,11 @@ In addition, cutting-edge training and skills in identity access management, sec
 * Collaborated with the development and operation team to troubleshoot and resolve issues.
 * Presented weekly system status reports and maintained documentation reports.
 
-### **Tar Technologies LLC., Washington, DC**
+### **Tar Technologies LLC.**
 
 #### **Information Security and Privacy Risk Analyst**
 
-##### *January 2016 - March 2017*
+##### *January 2016 - March 2017 / Washington, DC*
 
 * Assisted in Implementing a multilayer security system for the institution, including enhanced anti-virus, anti-spam, and anti-spyware software, reducing malware risk by 35% and helping increase positive customers’ feedback.
 * Assisted in patching security vulnerabilities, implemented driver’s functionalities updates on Windows/Linux servers and workstations company-wide using WSUS, with a 99% success.
