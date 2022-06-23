@@ -46,7 +46,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 
 #### **SRE/DevOps Engineer**
 
-##### *October 2020 - Present / Bear, Delaware*
+##### *October 2020 - Present / Bear, DE*
 
 * Consulted with clients on DevOps culture and best practices to reduce deployment cycle time and productivity for developers and system administrators.
 * Worked with and used the Amazon Web Services (EC2, CloudWatch, S3, VPC, CloudFormation, etc.), AWS serverless technologies (Lambda, Cognito, API Gateway), and other cloud technology platforms; Jenkins, Ansible, Chef, Docker, Puppet, Salt, Kubernetes, SonarQube, Nagios, Node.js, Python, PowerShell, Bash, Java, JavaScript, Git/Github, HAProxy.
@@ -65,7 +65,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 
 #### **AWS Cloud Engineer**
 
-##### *October 2018 - September 2020 / Bear, Delaware*
+##### *October 2018 - September 2020 / Bear, DE*
 
 * Built fully automated CI/CD pipelines using Jenkins, Ansible, Terraform, Docker, and Kubernetes.
 * Deployed a multi-tier infrastructure on AWS using Terraform where the application was configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database. Cloud watch alarm and s3 bucket were configured to monitor performances and store log messages respectively.
@@ -85,7 +85,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 
 #### **Linux Systems Administrator**
 
-##### *April 2017 - September 2018 / Bear, Delaware*
+##### *April 2017 - September 2018 / Bear, DE*
 
 * Created, installed, and configured Linux virtual servers (RedHat, CentOS, Ubuntu, Debian, kali Linux, oracle Linux) on Oracle VirtualBox using Vagrant cloud and Windows Virtual code.
 * Performed system performance tuning, monitored, and analyzed application logs.
