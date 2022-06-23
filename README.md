@@ -77,7 +77,8 @@ In addition, cutting-edge training and skills in identity access management, sec
 * Managed Kubernetes, running nodes, container snapshots, and images, and used Kubernetes to provide a platform for automating deployment, scaling, and operations of application containers across clusters of hosts.
 * Created Ansible YAML, Play-books, and Roles for application deployments.
 * Developed, debugged, and tested Python, Bash, Groovy, YAML, and PowerShell scripts to automate deployments across multiple environments.
-* Assisted in managing the business continuity in cloud-based environments, including server, file backup, and recovery, preparing and testing disaster recovery procedures
+* Assisted in managing the business continuity in cloud-based environments, including server, file backup, and recovery, preparing and testing disaster recovery procedures.
+* Helped 15+ other Junior developers on the team with technical issue resolution.
 
 
 ### **Data Service Group Inc.**
