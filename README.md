@@ -3,7 +3,7 @@
 
 ----
 
-#### *👉 💥 | Linux/AWS Cloud/SRE/DevOps Engineer ⚡ Jr. Cybersecurity Researcher | …✍️*
+#### *👉 💥 | Linux/AWS Cloud/SRE/DevSecOps/DevOps Engineer ⚡ Jr. Cybersecurity Researcher | …✍️*
 
 ----
 
