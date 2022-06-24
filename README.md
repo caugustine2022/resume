@@ -7,7 +7,7 @@
 
 ----
 
-Information technology and cybersecurity enthusiast with over 6+ years of experience in the information technology industry. Over 5+ years of experience as a Site Reliability Engineer, AWS Cloud/DevOps Engineer, and Linux System Administrator with excelling skills in automation, container orchestration, managing, and configuring various Linux systems distributions; Ubuntu, CentOS, RedHat, Debian, Oracle Linux, and Kali Linux. Hands-on experience in git/GitHub, SonarQube, Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS cloud, and on-premises deployment, with added proficiency in Python, Bash, and PowerShell scripting. 
+Information technology and cybersecurity enthusiast with over 6+ years of experience in the information technology industry. Over 5+ years of experience in the domain of Site Reliability, Development Operations, Development Security Operations, AWS Cloud Infrastructure, and Linux Systems Administration; with excelling skills in automation, container orchestration, managing, and configuring various Linux systems distributions: Ubuntu, CentOS, RedHat, Debian, Oracle Linux, and Kali Linux. Hands-on experience in git/GitHub, SonarQube, Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS cloud, and on-premises deployment, with added proficiency in Python, Bash, and PowerShell scripting. 
 In addition, cutting-edge training and skills in identity access management, security systems administration, enterprise security control frameworks, ethical hacking and/or penetration testing, endpoint security, network security, data governance, risk management, and compliances, with a deep passion for enterprise-wide security management. Persistent, detailed-oriented with excellent interpersonal and team-working skills; and particularly passionate about contributing my technical and analytical skills to ensure operational efficiency.
 
 ----
@@ -16,7 +16,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 ----
 
 #### *Platforms:*
-| Win 7/8/10/11 / Server 2016/2019 | MacOS | Android | iOS | RedHat7 / CentOS7 / Ubuntu / Debian / Oracle Linux / Kali Linux |
+| Win 7/8/10/11 / Server 2016/2019 | MacOS | Android | iOS | RedHat / CentOS / Ubuntu / Debian / Oracle Linux / Kali Linux |
 
 #### *Applications:*
 | MS Office365 / Active Directory / Group Policy Objects / Web Server(IIS) / WSUS / Exchange / SharePoint | Oracle VM VirtualBox | VMware Workstation Player |
@@ -83,7 +83,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 
 ### **Data Service Group Inc.**
 
-#### **Linux Systems Administrator**
+#### **Linux Systems Engineer**
 
 ##### *April 2017 - September 2018 / Bear, DE*
 
