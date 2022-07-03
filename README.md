@@ -25,7 +25,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 | LAN/WAN | Protocols: DNS / DHCP / SMTP / FTP / VPN / TCP/IP / UDP / VoIP / NTP / NFS / HTTP/S / IPSEC / BGP | SSL/TLS | SSH | MPLS | PuTTY | traceroute | nslookup | VLANs | 802.1x | 
 
 #### *Cloud:* 
-| AWS cloud | DevOps | S3 | Splunk | SaaS/IaaS | CI / CD Pipeline | Container Platform: Kubernetes / Docker | Serverless: EC2 / Lambda | Integration Technologies/APIs: XML / (S)FTP | Continous Intergration: Jenkins, Chef, Puppet | Continous Deployment: Ansible | Continous Monitoring: Kubernetes | Infrastructure Provisioning: Terraform | Version Control Systems: Github | Testing/Deployment: Golang / Go / Python / Java / Javascript | Ticket Tracking: Confluence / ServiceNow | Load Balancer: HAProxy | Code Quality Intergration : SonarQube | Scrum/Agile Project Management: JIRA-kanban | Web/App Server: Apache, Tomcat, Nginx | Resource/Network Monitoring: Nagios | 
+| AWS cloud | DevOps | S3 | Splunk | SaaS/IaaS | CI / CD Pipeline | Container Platform: Kubernetes / Docker | Serverless: EC2 / Lambda | Integration Technologies/APIs: XML / (S)FTP | Continous Intergration: Jenkins, Chef, Puppet | Continous Deployment: Ansible | Continous Monitoring: Kubernetes | Infrastructure Provisioning: Terraform | Version Control Systems: Github | Testing/Deployment: Golang / Go / Python / python Django / Java / Javascript | Ticket Tracking: Confluence / ServiceNow | Load Balancer: HAProxy | Code Quality Intergration : SonarQube | Scrum/Agile Project Management: JIRA-kanban | Web/App Server: Apache, Tomcat, Nginx, gunicorn | Resource/Network Monitoring: Nagios | 
 
 #### *Security:*
 | Forensics/Network Analysis: Wireshark / NetWitness Investigator / Splunk | Vulnerability Management: Nessus / Nmap | Penetration Testing: Kali Linux | Firewalls: pfSense / Checkpoint | Endpoint Security: BitLocker / McFee / Symantec |
@@ -93,15 +93,16 @@ In addition, cutting-edge training and skills in identity access management, sec
 * Installed, configured, and hardened standalone Linux servers.
 * Managed physical, virtual, and network storage (HD, LVM, NFS, SAMBA, NAS).
 * Installed, configured, and managed LAMP (Linux/Apache/MySQL/PHP) stacks.
+* Containerized an e-commerce application built with Python Django. 
+* Set Up Django with Postgres, Nginx, and Gunicorn on the Ubuntu server.
 * Performed user/group administration, file/directory security, authentication, and access management (SSH, Firewalls).
 * Wrote crontab for scheduling automatics repetitive jobs and executing shell scripts.
 * Analyzed and interpreted system and application log files.
 * Configured SELinux detection security software.
 * Configured and managed network services (HTTP, NFS, SCP, NTP).
 * Troubleshot booting issues, identified and resolved the service failures affecting boot.
-* Resolved package management dependency issues.
 * Collected system information to aid in troubleshooting, documenting resources, monitoring for any behavior modifications and intrusion, and configuring the system to send log messages to the system’s centralized host.
-* Collaborated with the development and operation team to troubleshoot and resolve issues.
+* Resolved package management dependency issues, and collaborated with the development and operation team to troubleshoot and resolve issues.
 * Presented weekly system status reports and maintained documentation reports.
 
 ### **Tar Technologies LLC.**
