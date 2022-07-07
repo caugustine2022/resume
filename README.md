@@ -130,7 +130,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 ## Education
 ----
 
-2021-2024 *(expected)*
+2020-2024 *(expected)*
 :   **Doctor of Philosophy (Ph.D.) Degree, Major: Information Technology, with Emphasis in Cybersecurity**; University of the Cumberlands - Williamsburg, KY
 
 2019-2020
