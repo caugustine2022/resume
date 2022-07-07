@@ -143,7 +143,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 :   **Bachelor of Science (B.Sc.) Degree, Major: Information Technology**; University of Massachusetts Lowell - Lowell, MA
     
 1998-2001
-:   **Bachelor of Science (B.Sc.) Degree, Double Major: Telecommunications and Computer Engineering**; National Polytechnic University Institute - Bamenda, CM / Our Saviour Institute of Science, Agriculture & Technology – Enugu, NG
+:   **Bachelor of Technology (B.Tech.) Degree, Double Major: Telecommunications and Computer Engineering**; National Polytechnic University Institute - Bamenda, CM / Our Saviour Institute of Science, Agriculture & Technology – Enugu, NG
 
 
 ----
