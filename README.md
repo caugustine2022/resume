@@ -12,7 +12,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 
 ----
 
-## Technology Skills Highlights
+## Skills Highlights
 ----
 
 #### *Platforms:*
