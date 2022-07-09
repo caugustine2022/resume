@@ -28,16 +28,13 @@ In addition, cutting-edge training and skills in identity access management, sec
 | AWS cloud | DevOps | S3 | CI / CD Pipeline | Container Platform: Kubernetes / Docker | Serverless: EC2 / Lambda | Integration Technologies/APIs: XML / (S)FTP | Continous Intergration: Jenkins, Chef, Puppet | Continous Deployment: Ansible | Continous Monitoring: Kubernetes | Infrastructure Provisioning: Terraform | Version Control Systems: Git / Github / Gitlab / AWS CodeCommit | Testing/Deployment: Golang / Go / Python / python Django / Java / Javascript | Ticket Tracking: Confluence / ServiceNow | Load Balancer: HAProxy | Code Quality Intergration : SonarQube | Scrum/Agile Project Management: Jira-kanban board | Web/App Server: Apache, Tomcat, Nginx, gunicorn | Resources/Network Monitoring: Nagios, Splunk | 
 
 #### *CI/CD Pipeline:* 
-* Build automated CI/CD Pipelines to deploy applications. 
-* Code commits in GitHub triggered a Jenkins pipeline script to automate app build. 
-* Automate Docker Image build & push to GitHub and deployment with Kubernetes. 
+| Built automated CI/CD Pipelines to deploy applications | Code commits in GitHub triggered a Jenkins pipeline script to automate app build | Automated Docker Image build and push to GitHub and deployment with Kubernetes | 
+
 #### *Cloud Automation:* 
-* Created pipeline script to automate provisioning & configuration of AWS infrastructure. 
-* Automate provisioning & configuration of web servers in Docker container on AWS. 
+| Created pipeline script to automate provisioning and configuration of AWS infrastructure | Automated provisioning and configuration of web servers in Docker container on AWS | 
+
 #### *AWS Highly Available Architectures:* 
-* Build well-architected VPC’s with proper networking configurations and high availability. 
-* Work with subnets, NAT, IGW, Route Tables, NACL, Security Groups, ELB, EC2 and more. 
-* Implement security with IAM (roles, users, and permissions) and KMS.  
+| Built well-architected VPC’s with proper networking configurations and high availability | Work with subnets, NAT, IGW, Route Tables, NACL, Security Groups, ELB, EC2 and more | Implemented security with IAM (roles, users, and permissions) and KMS |  
 
 #### *Security:*
 | Forensics/Network Analysis: Wireshark / NetWitness Investigator / Splunk | Vulnerability Management: Nessus / Nmap | Penetration Testing: Kali Linux | Firewalls: pfSense / Checkpoint | Endpoint Security: BitLocker / McFee / Symantec |
