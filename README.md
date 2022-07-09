@@ -33,9 +33,6 @@ In addition, cutting-edge training and skills in identity access management, sec
 #### *Cloud Automation:* 
 | Created pipeline script to automate provisioning and configuration of AWS infrastructure | Automated provisioning and configuration of web servers in Docker container on AWS | 
 
-#### *AWS Highly Available Architectures:* 
-| Built well-architected Virtual Private Cloud (VPC’s) with proper networking configurations and high availability | Worked with subnets, Network Address Translation (NAT), Internet Gateway (IGW), Route Tables, Network Access Control List (NACL), Security Groups, ELB, EC2 and more | Implemented security with IAM (roles, users, and permissions) and Key Management Service (KMS) |  
-
 #### *Security:*
 | Forensics/Network Analysis: Wireshark / NetWitness Investigator / Splunk | Vulnerability Management: Nessus / Nmap | Penetration Testing: Kali Linux | Firewalls: pfSense / Checkpoint | Endpoint Security: BitLocker / McFee / Symantec |
 
@@ -60,9 +57,9 @@ In addition, cutting-edge training and skills in identity access management, sec
 * Consulted with clients on DevOps culture and best practices to reduce deployment cycle time and productivity for developers and system administrators.
 * Worked with and used the Amazon Web Services (EC2, CloudWatch, S3, VPC, CloudFormation, etc.), AWS serverless technologies (Lambda, Cognito, API Gateway), and other cloud technology platforms; Jenkins, Ansible, Chef, Docker, Puppet, Salt, Kubernetes, SonarQube, Nagios, Node.js, Python, PowerShell, Bash, Java, JavaScript, Git/Github, HAProxy.
 * Wrote and edited Jenkins file using Groovy language to automate and troubleshoot failing jobs.
-* Installed, configured and administered the SonarQube for code quality check and generated reports for different projects; and as well integrated them into Jenkins.  
-* Installed and configured Jenkins master and Jenkins slave nodes, built CI/CD pipeline and managed the infrastructure as code using Ansible.
-* Created and implemented Ansible scripts to automatically update system components, saving 30% admin time.
+* Installed, configured, and administered the SonarQube for code quality check and generated reports for different projects; and as well integrated them into Jenkins.  
+* Installed and configured Jenkins master and Jenkins slave nodes, built CI/CD pipeline, and managed the infrastructure as code using Ansible.
+* Created and implemented Ansible scripts to automatically update system components, saving 30% administrator's time.
 * Integrated Nagios with PagerDuty and wrote Ansible playbook to automate the server's onboardings as well as the configuration.
 * Monitored system activities like CPU, Memory, Disk, and Swap space usage to avoid any performance issues, ensuring the highest 24-hour/7-day week critical system availability.
 * Assisted with refining the Software Development Life Cycle (SDLC) to fit system needs; designed and enhanced the software architecture to improve scalability, service reliability, capacity, and performance.
@@ -76,9 +73,11 @@ In addition, cutting-edge training and skills in identity access management, sec
 
 ##### *October 2018 - September 2020 / Bear, DE*
 
-* Built fully automated CI/CD pipelines using Jenkins, Ansible, Terraform, Docker, and Kubernetes.
-* Deployed a multi-tier infrastructure on AWS using Terraform where the application was configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database. Cloud watch alarm and s3 bucket were configured to monitor performances and store log messages respectively.
-* Involved in DevOps migration/automation processes for build and deploy systems.
+* Built fully automated CI/CD pipelines using Jenkins, Ansible, Terraform, Docker, and Kubernetes to deploy applications.
+* Deployed a multi-tier infrastructure on AWS using Terraform where the application was configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database; cloud watch alarm and s3 bucket configured to monitor performances and store log messages respectively.
+* Built well-architected Virtual Private Cloud (VPCs) with proper networking configurations and high availability.
+* Worked with subnets, Network Address Translation (NAT), Internet Gateway (IGW), Route Tables, Network Access Control List (NACL), Security Groups, ELB, EC2.
+* Implemented security with IAM (roles, users, and permissions) and Key Management Service (KMS).
 * Configured AWS VPC with public and private subnets, configure routing tables, internet gateway, ACLs, and Security groups.
 * Actively managed, improved, and monitored cloud infrastructure on AWS, EC2, S3, and RDS, including backups, patches, and scaling.
 * Created and implemented Chef cook-books for deployment and also used Chef recipes to create a deployment directly into Amazon EC2 instances.
@@ -87,7 +86,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 * Created Ansible YAML, Play-books, and Roles for application deployments.
 * Developed, debugged, and tested Python, Bash, Groovy, YAML, and PowerShell scripts to automate deployments across multiple environments.
 * Assisted in managing the business continuity in cloud-based environments, including server, file backup, and recovery, preparing and testing disaster recovery procedures.
-* Helped 15+ other Junior developers on the team with technical issue resolution.
+* Helped Junior developers on the team with technical issue resolution.
 
 
 ### **Data Service Group Inc.**
