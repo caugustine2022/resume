@@ -7,7 +7,7 @@
 
 ----
 
-Information technology and cybersecurity enthusiast with over 6+ years of experience in Site Reliability Engineering, Software Development Operations, Software Development Security Operations, AWS Cloud Infrastructure, Linux Systems Engineering, Cybersecurity, and also an ISACA Certified Data Privacy Solutions Engineer. Having excelling skills in automation, container orchestration, managing and configuring various Linux systems distributions: Ubuntu, CentOS, RedHat, Debian, Oracle Linux, and Kali Linux. Hands-on experience in Git/GitHub, sonarQube, Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS Cloud, and on-premises deployment, with added proficiency in Java, JavaScript, Python, Bash Shell, and PowerShell scripting. 
+Information technology and cybersecurity enthusiast with over 6+ years of experience in Site Reliability, Software Development Operations, Software Development Security Operations, AWS Cloud Infrastructure, Linux Systems Engineering, Cybersecurity, and also an ISACA Certified Data Privacy Solutions Engineer. Having excelling skills in automation, container orchestration, managing and configuring various Linux systems distributions: Ubuntu, CentOS, RedHat, Debian, Oracle Linux, and Kali Linux. Hands-on experience in Git/GitHub, sonarQube, Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS Cloud, and on-premises deployment, with added proficiency in Java, JavaScript, Python, Bash Shell, and PowerShell scripting. 
 In addition, cutting-edge training and skills in identity access management, security systems administration, enterprise security control frameworks, ethical hacking and/or penetration testing, endpoint security, network security, data governance, risk management, and compliances, with a deep passion for enterprise-wide security management. Persistent, detailed-oriented with excellent interpersonal and team-working skills; and particularly passionate about contributing my technical and analytical skills to ensure operational efficiency.
 
 ----
@@ -25,7 +25,19 @@ In addition, cutting-edge training and skills in identity access management, sec
 | LAN/WAN | Protocols: DNS / DHCP / SMTP / FTP / VPN / TCP/IP / UDP / VoIP / NTP / NFS / HTTP/S / IPSEC / BGP | SSL/TLS | SSH | MPLS | PuTTY | traceroute | nslookup | VLANs | 802.1x | 
 
 #### *Cloud:* 
-| AWS cloud | DevOps | S3 | CI / CD Pipeline | Container Platform: Kubernetes / Docker | Serverless: EC2 / Lambda | Integration Technologies/APIs: XML / (S)FTP | Continous Intergration: Jenkins, Chef, Puppet | Continous Deployment: Ansible | Continous Monitoring: Kubernetes | Infrastructure Provisioning: Terraform | Version Control Systems: Github / Gitlab | Testing/Deployment: Golang / Go / Python / python Django / Java / Javascript | Ticket Tracking: Confluence / ServiceNow | Load Balancer: HAProxy | Code Quality Intergration : SonarQube | Scrum/Agile Project Management: Jira-kanban board | Web/App Server: Apache, Tomcat, Nginx, gunicorn | Resources/Network Monitoring: Nagios, Splunk | 
+| AWS cloud | DevOps | S3 | CI / CD Pipeline | Container Platform: Kubernetes / Docker | Serverless: EC2 / Lambda | Integration Technologies/APIs: XML / (S)FTP | Continous Intergration: Jenkins, Chef, Puppet | Continous Deployment: Ansible | Continous Monitoring: Kubernetes | Infrastructure Provisioning: Terraform | Version Control Systems: Git / Github / Gitlab / AWS CodeCommit | Testing/Deployment: Golang / Go / Python / python Django / Java / Javascript | Ticket Tracking: Confluence / ServiceNow | Load Balancer: HAProxy | Code Quality Intergration : SonarQube | Scrum/Agile Project Management: Jira-kanban board | Web/App Server: Apache, Tomcat, Nginx, gunicorn | Resources/Network Monitoring: Nagios, Splunk | 
+
+#### *CI/CD Pipeline:* 
+• Build automated CI/CD Pipelines to deploy applications 
+• Code commits in GitHub triggered a Jenkins pipeline script to automate app build 
+• Automate Docker Image build & push to GitHub and deployment with Kubernetes 
+#### *Cloud Automation:* 
+• Create pipeline script to automate provisioning & configuration of AWS infrastructure 
+• Automate provisioning & configuration of web servers in Docker container on AWS 
+#### *AWS Highly Available Architectures:* 
+• Build well-architected VPC’s with proper networking configurations and high availability 
+• Work with subnets, NAT, IGW, Route Tables, NACL, Security Groups, ELB, EC2 and more 
+• Implement security with IAM (roles, users, and permissions) and KMS.  
 
 #### *Security:*
 | Forensics/Network Analysis: Wireshark / NetWitness Investigator / Splunk | Vulnerability Management: Nessus / Nmap | Penetration Testing: Kali Linux | Firewalls: pfSense / Checkpoint | Endpoint Security: BitLocker / McFee / Symantec |
