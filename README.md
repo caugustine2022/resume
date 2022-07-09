@@ -98,7 +98,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 * Performed user/group administration, file/directory security, authentication, and access management (SSH, Firewalls).
 * Wrote crontab for scheduling automatics repetitive jobs and executing shell scripts.
 * Analyzed and interpreted system and application log files.
-* Configured SELinux detection security software, and hardened operating systems using iptables and filesystem ACLs.
+* Configured SELinux detection security software, and hardened operating systems using iptables and filesystem access control lists (ACLs).
 * Configured and managed network services (HTTP, NFS, SCP, NTP).
 * Troubleshot booting issues, identified and resolved the service failures affecting boot.
 * Collected system information to aid in troubleshooting, documenting resources, monitoring for any behavior modifications and intrusion, and configuring the system to send log messages to the system’s centralized host.
