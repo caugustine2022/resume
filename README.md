@@ -34,7 +34,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 | Created pipeline script to automate provisioning and configuration of AWS infrastructure | Automated provisioning and configuration of web servers in Docker container on AWS | 
 
 #### *AWS Highly Available Architectures:* 
-| Built well-architected VPC’s with proper networking configurations and high availability | Work with subnets, NAT, IGW, Route Tables, NACL, Security Groups, ELB, EC2 and more | Implemented security with IAM (roles, users, and permissions) and KMS |  
+| Built well-architected Virtual Private Cloud (VPC’s) with proper networking configurations and high availability | Worked with subnets, NAT, IGW, Route Tables, NACL, Security Groups, ELB, EC2 and more | Implemented security with IAM (roles, users, and permissions) and Key Management Service (KMS) |  
 
 #### *Security:*
 | Forensics/Network Analysis: Wireshark / NetWitness Investigator / Splunk | Vulnerability Management: Nessus / Nmap | Penetration Testing: Kali Linux | Firewalls: pfSense / Checkpoint | Endpoint Security: BitLocker / McFee / Symantec |
