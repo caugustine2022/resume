@@ -7,7 +7,7 @@
 
 ----
 
-## Professional Summary
+### Professional Summary
 ----
 
 Information technology and cybersecurity enthusiast with over 6+ years of experience in Software Development Operations, Site Reliability, Software Development Security Operations, AWS Cloud Infrastructure, Linux Systems Engineering, Cybersecurity, and also an ISACA Certified Data Privacy Solutions Engineer. Having excelling skills in automation, container orchestration, managing and configuring various Linux systems distributions: Ubuntu, CentOS, RedHat, Debian, Oracle Linux, and Kali Linux. Hands-on experience in Git/GitHub, sonarQube, Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS Cloud, and on-premises deployment, with added proficiency in Java, JavaScript, Python, Bash Shell, and PowerShell scripting. 
