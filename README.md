@@ -15,7 +15,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 
 ----
 
-## Skills Highlights
+### Skills Highlights
 ----
 
 #### *Platforms:*
@@ -45,7 +45,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 
 ----
 
-## Professional Experience
+### Professional Experience
 ----
 
 ### **Data Service Group Inc.**
@@ -135,7 +135,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 
 ----
 
-## Education
+### Education
 ----
 
 2020-2024 *(expected)*
@@ -156,7 +156,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 
 ----
 
-## Certification
+### Certification
 ----
 
 2021-03
@@ -165,7 +165,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 
 ----
 
-## Interests/Hobbies 
+### Interests/Hobbies 
 ----
 
 * Smart Devices, Internet-of-Things, Machine Learning, Artificial Intelligence, and Renewable Energy.
@@ -173,7 +173,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 
 ----
 
-## Languages
+### Languages
 ----
 
 * English (native speaker)
