@@ -1,5 +1,5 @@
 # Augustine Ngen 
-### *MSHMI, MSISS, CDPSE* 
+#### *MSHMI, MSISS, CDPSE* 
 
 ----
 
@@ -7,7 +7,7 @@
 
 ----
 
-### Professional Summary
+### **Professional Summary**
 ----
 
 Information technology and cybersecurity enthusiast with over 6+ years of experience in Software Development Operations, Site Reliability, Software Development Security Operations, AWS Cloud Infrastructure, Linux Systems Engineering, Cybersecurity, and also an ISACA Certified Data Privacy Solutions Engineer. Having excelling skills in automation, container orchestration, managing and configuring various Linux systems distributions: Ubuntu, CentOS, RedHat, Debian, Oracle Linux, and Kali Linux. Hands-on experience in Git/GitHub, sonarQube, Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS Cloud, and on-premises deployment, with added proficiency in Java, JavaScript, Python, Bash Shell, and PowerShell scripting. 
@@ -15,7 +15,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 
 ----
 
-### Skills Highlights
+### **Skills Highlights**
 ----
 
 #### *Platforms:*
@@ -45,12 +45,12 @@ In addition, cutting-edge training and skills in identity access management, sec
 
 ----
 
-### Professional Experience
+### **Professional Experience**
 ----
 
-### **Data Service Group Inc.**
+### Data Service Group Inc.
 
-#### **DevOps/Site Reliability Engineer**
+#### DevOps/Site Reliability Engineer
 
 ##### *October 2020 - Present / Bear, DE*
 
@@ -67,9 +67,9 @@ In addition, cutting-edge training and skills in identity access management, sec
 * Undertook routine preventative measures and implemented, maintained, and monitored the network security and intrusion detection, while preparing the technical and user documentation and training materials.
 
 
-### **Data Service Group Inc.**
+### Data Service Group Inc.
 
-#### **AWS Cloud/DevOps Engineer**
+#### AWS Cloud/DevOps Engineer
 
 ##### *October 2018 - September 2020 / Bear, DE*
 
@@ -89,9 +89,9 @@ In addition, cutting-edge training and skills in identity access management, sec
 * Helped Junior developers on the team with technical issue resolution.
 
 
-### **Data Service Group Inc.**
+### Data Service Group Inc.
 
-#### **Linux Systems Engineer**
+#### Linux Systems Engineer
 
 ##### *April 2017 - September 2018 / Bear, DE*
 
@@ -113,9 +113,9 @@ In addition, cutting-edge training and skills in identity access management, sec
 * Resolved package management dependency issues, and collaborated with the development and operation team to troubleshoot and resolve issues.
 * Presented weekly system status reports and maintained documentation reports.
 
-### **Tar Technologies LLC.**
+### Tar Technologies LLC.
 
-#### **Information Security and Privacy Risk Analyst**
+#### Information Security and Privacy Risk Analyst
 
 ##### *January 2016 - March 2017 / Washington, DC*
 
@@ -135,7 +135,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 
 ----
 
-### Education
+### **Education**
 ----
 
 2020-2024 *(expected)*
@@ -156,7 +156,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 
 ----
 
-### Certification
+### **Certification**
 ----
 
 2021-03
@@ -165,7 +165,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 
 ----
 
-### Interests/Hobbies 
+### **Interests/Hobbies** 
 ----
 
 * Smart Devices, Internet-of-Things, Machine Learning, Artificial Intelligence, and Renewable Energy.
@@ -173,7 +173,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 
 ----
 
-### Languages
+### **Languages**
 ----
 
 * English (native speaker)
