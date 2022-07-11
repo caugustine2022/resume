@@ -10,7 +10,7 @@
 ## Professional Summary
 ----
 
-Information technology and cybersecurity enthusiast with over 6+ years of experience in Site Reliability, Software Development Operations, Software Development Security Operations, AWS Cloud Infrastructure, Linux Systems Engineering, Cybersecurity, and also an ISACA Certified Data Privacy Solutions Engineer. Having excelling skills in automation, container orchestration, managing and configuring various Linux systems distributions: Ubuntu, CentOS, RedHat, Debian, Oracle Linux, and Kali Linux. Hands-on experience in Git/GitHub, sonarQube, Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS Cloud, and on-premises deployment, with added proficiency in Java, JavaScript, Python, Bash Shell, and PowerShell scripting. 
+Information technology and cybersecurity enthusiast with over 6+ years of experience in Software Development Operations, Site Reliability, Software Development Security Operations, AWS Cloud Infrastructure, Linux Systems Engineering, Cybersecurity, and also an ISACA Certified Data Privacy Solutions Engineer. Having excelling skills in automation, container orchestration, managing and configuring various Linux systems distributions: Ubuntu, CentOS, RedHat, Debian, Oracle Linux, and Kali Linux. Hands-on experience in Git/GitHub, sonarQube, Jenkins, Ansible, Docker, Kubernetes, Terraform, AWS Cloud, and on-premises deployment, with added proficiency in Java, JavaScript, Python, Bash Shell, and PowerShell scripting. 
 In addition, cutting-edge training and skills in identity access management, security systems administration, enterprise security control frameworks, ethical hacking and/or penetration testing, endpoint security, network security, data governance, risk management, and compliances, with a deep passion for enterprise-wide security management. Persistent, detailed-oriented with excellent interpersonal and team-working skills; and particularly passionate about contributing my technical and analytical skills to ensure operational efficiency.
 
 ----
@@ -31,7 +31,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 | AWS cloud | DevOps | S3 | CI / CD Pipeline | Container Platform: Kubernetes / Docker | Serverless: EC2 / Lambda | Integration Technologies/APIs: XML / (S)FTP | Continous Intergration: Jenkins, Chef, Puppet | Continous Deployment: Ansible | Continous Monitoring: Kubernetes | Infrastructure Provisioning: Terraform | Version Control Systems: Git / Github / Gitlab / AWS CodeCommit | Testing/Deployment: Golang / Go / Python / python Django / Java / Javascript | Ticket Tracking: Confluence / ServiceNow | Load Balancer: HAProxy | Code Quality Intergration : SonarQube | Scrum/Agile Project Management: Jira-kanban board | Web/App Server: Apache, Tomcat, Nginx, gunicorn | Resources/Network Monitoring: Nagios, Splunk | 
 
 #### *Cloud Automation:* 
-| Code commits in Github triggered a Jenkins pipeline script to automate app build | Automate Docker Image build and push to GitHub and deployment with Kubernetes | Create pipeline script to automate provisioning and configuration of AWS infrastructure | Automate provisioning and configuration of web servers in Docker container on AWS | 
+| Code commits in Github triggered a Jenkins pipeline script to automate app build | Automate Docker Image build and push to GitHub and deployment with Kubernetes | Create pipeline script to automate provisioning and configuration of AWS infrastructure | Automate provisioning and configuration of webservers in Docker container on AWS | 
 
 #### *Security:*
 | Forensics/Network Analysis: Wireshark / NetWitness Investigator / Splunk | Vulnerability Management: Nessus / Nmap | Penetration Testing: Kali Linux | Firewalls: pfSense / Checkpoint | Endpoint Security: BitLocker / McFee / Symantec |
@@ -50,7 +50,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 
 ### **Data Service Group Inc.**
 
-#### **SRE/DevOps Engineer**
+#### **DevOps/Site Reliability Engineer**
 
 ##### *October 2020 - Present / Bear, DE*
 
@@ -69,7 +69,7 @@ In addition, cutting-edge training and skills in identity access management, sec
 
 ### **Data Service Group Inc.**
 
-#### **AWS Cloud Engineer**
+#### **AWS Cloud/DevOps Engineer**
 
 ##### *October 2018 - September 2020 / Bear, DE*
 
