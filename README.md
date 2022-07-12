@@ -3,7 +3,7 @@
 
 ----
 
-#### *👉 💥 | DevOps/Site Reliability Engineer ⚡ Jr. Cybersecurity Researcher | …✍️*
+#### *👉 💥 | Software Development Operations/Site Reliability Engineer ⚡ Jr. Cybersecurity Researcher | …✍️*
 
 ----
 
