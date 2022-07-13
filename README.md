@@ -3,7 +3,7 @@
 
 ----
 
-#### *👉 💥 | DevOps/Site Reliability Engineer ⚡ Jr. Cybersecurity Researcher | …✍️*
+#### *👉 💥 | SRE/Development Operations Engineer ⚡ Jr. Cybersecurity Researcher | …✍️*
 
 ----
 
@@ -50,7 +50,7 @@ Finally, cutting-edge training and skills in identity access management, securit
 
 ### Data Service Group Inc.
 
-#### DevOps/Site Reliability Engineer
+#### SRE/Development Operations Engineer
 
 ##### *October 2020 - Present / Bear, DE*
 
