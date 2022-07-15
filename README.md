@@ -3,7 +3,7 @@
 
 ----
 
-#### *👉 💥 | SRE/DevOps Engineer ⚡ Jr. Cybersecurity Researcher | …✍️*
+#### *👉 💥 | Cloud/DevOps Engineer ⚡ Jr. Cybersecurity Researcher | …✍️*
 
 ----
 
