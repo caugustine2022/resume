@@ -47,7 +47,7 @@ Finally, cutting-edge training and skills in identity access management, securit
 
 ### Data Service Group Inc.
 
-#### SRE/DevOps Engineer
+#### DevOps Site Reliability Engineer
 
 ##### *October 2020 - Present / Bear, DE*
 
