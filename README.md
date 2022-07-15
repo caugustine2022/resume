@@ -3,7 +3,7 @@
 
 ----
 
-#### *👉 💥 | SRE/Development Operations Engineer ⚡ Jr. Cybersecurity Researcher | …✍️*
+#### *👉 💥 | SRE/DevOps Engineer ⚡ Jr. Cybersecurity Researcher | …✍️*
 
 ----
 
@@ -47,7 +47,7 @@ Finally, cutting-edge training and skills in identity access management, securit
 
 ### Data Service Group Inc.
 
-#### SRE/Development Operations Engineer
+#### SRE/DevOps Engineer
 
 ##### *October 2020 - Present / Bear, DE*
 
