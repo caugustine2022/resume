@@ -25,7 +25,7 @@ Finally, cutting-edge training and skills in identity access management, securit
 | MS Office365 / Active Directory / Group Policy Objects / Web Server(IIS) / WSUS / Exchange / SharePoint | Oracle VM VirtualBox | VMware Workstation Player |
 
 #### *Networking:*
-| LAN/WAN | Protocols: DNS / DHCP / SMTP / FTP / VPN / TCP/IP / UDP / VoIP / NTP / NFS / HTTP/S / IPSEC / BGP | SSL/TLS | SSH | MPLS | PuTTY | traceroute | nslookup | VLANs | 802.1x | 
+| LAN/WAN | Network Protocols: DNS / DHCP / SMTP / FTP / VPN / TCP/IP / UDP / VoIP / NTP / NFS / HTTP/S / IPSEC / BGP | SSL/TLS | SSH | MPLS | PuTTY | traceroute | nslookup | VLANs | 802.1x | 
 
 #### *Cloud:* 
 | AWS cloud | DevOps | S3 | CI / CD Pipeline | Container Platform: Kubernetes / Docker | Serverless: EC2 / Lambda | Integration Technologies/APIs: XML / (S)FTP | Continous Intergration: Jenkins / Chef | Continous Deployment: Jenkins / Ansible | Configuration Management: Ansible / Puppet / Chef | Continous Monitoring: Kubernetes | Infrastructure Provisioning: Terraform | Infrasturcture Automation: Gradle / Maven / Terraform / Chef / Puppet | Version Control Systems: Git / Github / Gitlab / AWS CodeCommit | Infrastructure Development: Vagrant | Testing/Deployment: Golang / Go / Python / Python Django / Javascript | Ticket Tracking: Jira / Confluence / ServiceNow | Load Balancer: HAProxy / Nginx | Code Quality Intergration : SonarQube | Scrum/Agile Project Management: Jira-kanban board | Web/App Server: Apache, Tomcat, Nginx, gunicorn | Resources/Network Monitoring: Nagios, Splunk | Cloud Architectures: AWS | 
