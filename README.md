@@ -66,7 +66,7 @@ Finally, cutting-edge training and skills in identity access management, securit
 
 ### Data Service Group Inc.
 
-#### AWS Cloud DevOps Engineer
+#### Cloud Infrastructure/DevOps Engineer
 
 ##### *October 2018 - September 2020 / Bear, DE*
 
