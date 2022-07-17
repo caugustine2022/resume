@@ -1,5 +1,5 @@
 # Augustine Ngen 
-#### *M.S., CDPSE* 
+#### *MS, CDPSE* 
 
 ----
 
