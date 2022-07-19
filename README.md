@@ -3,7 +3,7 @@
 
 ----
 
-#### *👉 💥 | Cloud/DevOps Engineer ⚡ Jr. Cybersecurity Researcher | …✍️*
+#### *👉 💥 | DevOps Engineer ⚡ Jr. Cybersecurity Researcher | …✍️*
 
 ----
 
@@ -66,7 +66,7 @@ Finally, cutting-edge training and skills in identity access management, securit
 
 ### Data Service Group Inc.
 
-#### Cloud Infrastructure/DevOps Engineer
+#### Cloud DevOps Engineer
 
 ##### *October 2018 - September 2020 / Bear, DE*
 
