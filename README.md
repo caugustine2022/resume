@@ -38,7 +38,7 @@ Finally, cutting-edge training and skills in identity access management, securit
 | HIPAA | PCI DSS | HITRUST | COBIT | ISO27K Series | NIST SP 800-53 | FISMA | NIST | FedRAMP / A&A / STIG |
 
 #### *Languages:*
-| Python | Bash Shell | Batch / PowerShell | HTML5 / XML | C / C++ | 
+| Python | Bash Shell | Batch / PowerShell | AWS CloudShell | HTML5 / XML | C / C++ | 
 
 
 ----
