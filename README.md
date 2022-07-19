@@ -11,7 +11,7 @@
 ----
 
 An ardent Cloud Computing, Development Operations Engineering, and Information Systems Security professional with over 6+ years of experience in the Information Technology industry comprising Software Development Operations, Security Software Development Operations, Site Reliability Engineering, Cloud Infrastructure, Systems Administration, Information Security/Data Privacy, and an ISACA Certified Data Privacy Solutions Engineer. 
-Have excelling skills in infrastructure automation, build/release management, infrastructure provisioning, containers, orchestrations, cloud architectures, configurations, and management of various Linux systems distributions. In addition, hands-on experience in Git/GitHub, Docker, Kubernetes, Jenkins, Ansible, Terraform, AWS Cloud, and on-premises deployment, with added proficiency in Python, JavaScript, BashShell, and PowerShell scripting. 
+Having excelling skills in infrastructure automation, build/release management, infrastructure provisioning, containers, orchestrations, cloud architectures, configurations, and management of various Linux systems distributions. In addition, hands-on experience in DevOps tools and methodologies such as Git/GitHub, Docker, Kubernetes, Jenkins, Ansible, Terraform, AWS Cloud, and on-premises deployment, with added proficiency in Python, JavaScript, BashShell, and PowerShell scripting. 
 Finally, cutting-edge training and skills in identity access management, security systems administration, enterprise security control frameworks, penetration testing, endpoint security, network security, data governance, risk management, and compliances, with a deep passion for enterprise-wide security management. Persistent, detailed-oriented with excellent interpersonal and team-working skills; and particularly passionate about contributing my technical and analytical skills to ensure operational efficiency.
 
 ----
@@ -22,19 +22,19 @@ Finally, cutting-edge training and skills in identity access management, securit
 #### *Platforms:*
 | Win 7/8/10/11 / Server 2016/2019 | MacOS | Android | iOS | RedHat / CentOS / Ubuntu / Debian / Oracle Linux / Kali Linux |
 
-#### *Applications:*
-| MS Office365 / Active Directory / Group Policy Objects / Web Server(IIS) / WSUS / Exchange / SharePoint | Oracle VM VirtualBox | VMware Workstation Player |
+#### *Windows Applications:*
+| MS Office365 / Active Directory / Group Policy Objects / Web Server(IIS) / WSUS / Exchange / SharePoint | 
+
+#### *Cloud/DevOps:* 
+| Development Operations: CI / CD Pipelines | Public Cloud Platform: AWS | AWS Solution Architectures: EC2 / Lambda /  NAT / IGW / Subnets / Route Tables / NACLs / Security Groups / Auto Scaling Groups / ELB / S3 / RDS / EBS / ELBs | Container Platform: Kubernetes / Docker | Integration Technologies/APIs: XML / (S)FTP | Continous Intergration: Jenkins / Chef | Continous Deployment: Jenkins / Ansible | Configuration Management: Ansible / Puppet / Chef | Continous Monitoring: Kubernetes | Infrastructure Provisioning: Terraform | Infrasturcture Automation: Gradle / Maven / Terraform / Chef / Puppet | Version Control Systems: Git / Github / Gitlab / AWS CodeCommit | Infrastructure Development: Vagrant | Testing/Deployment: Golang / Go / Python / Python Django / Javascript | Ticket Tracking: Jira / Confluence / ServiceNow | Load Balancer: HAProxy / Nginx | Code Quality Intergration : SonarQube | Scrum/Agile Project Management: Jira-kanban board | Web/App Server: Apache / Tomcat / Nginx / gunicorn | Resources/Network Monitoring: Nagios / Splunk | Virtualization: Oracle VM VirtualBox / VMware Workstation Player |
 
 #### *Networking:*
 | LAN/WAN | Network Protocols: DNS / DHCP / SMTP / FTP / VPN / TCP/IP / UDP / VoIP / NTP / NFS / HTTP/S / IPSEC / BGP | SSL/TLS | SSH | MPLS | PuTTY | traceroute | nslookup | VLANs | 802.1x | 
 
-#### *Cloud:* 
-| AWS cloud | DevOps | S3 | CI / CD Pipeline | Container Platform: Kubernetes / Docker | Serverless: EC2 / Lambda | Integration Technologies/APIs: XML / (S)FTP | Continous Intergration: Jenkins / Chef | Continous Deployment: Jenkins / Ansible | Configuration Management: Ansible / Puppet / Chef | Continous Monitoring: Kubernetes | Infrastructure Provisioning: Terraform | Infrasturcture Automation: Gradle / Maven / Terraform / Chef / Puppet | Version Control Systems: Git / Github / Gitlab / AWS CodeCommit | Infrastructure Development: Vagrant | Testing/Deployment: Golang / Go / Python / Python Django / Javascript | Ticket Tracking: Jira / Confluence / ServiceNow | Load Balancer: HAProxy / Nginx | Code Quality Intergration : SonarQube | Scrum/Agile Project Management: Jira-kanban board | Web/App Server: Apache, Tomcat, Nginx, gunicorn | Resources/Network Monitoring: Nagios, Splunk | Cloud Architectures: AWS | 
-
 #### *Security:*
 | Forensics/Network Analysis: Wireshark / NetWitness Investigator / Splunk | Vulnerability Management: Nessus / Nmap | Penetration Testing: Kali Linux | Firewalls: pfSense / Checkpoint | Endpoint Security: BitLocker / McFee / Symantec |
 
-#### *Regulatory Regimes:*
+#### *Regulatory Standards:*
 | HIPAA | PCI DSS | HITRUST | COBIT | ISO27K Series | NIST SP 800-53 | FISMA | NIST | FedRAMP / A&A / STIG |
 
 #### *Languages:*
@@ -93,7 +93,7 @@ Finally, cutting-edge training and skills in identity access management, securit
 
 ##### *April 2017 - September 2018 / Bear, DE*
 
-* Created, installed, and configured Linux virtual servers (RedHat, CentOS, Ubuntu, Debian, kali Linux, oracle Linux) on Oracle VirtualBox using Vagrant cloud and Windows Virtual code.
+* Created, installed, and configured Linux virtual servers (RedHat, CentOS, Ubuntu, Debian, kali Linux, oracle Linux) on Oracle VM VirtualBox using Vagrant cloud and Windows Virtual code.
 * Performed system performance tuning, monitored, and analyzed application logs.
 * Performed periodic vulnerability assessments, system updates, and Patch management.
 * Installed, configured, and hardened standalone Linux servers.
