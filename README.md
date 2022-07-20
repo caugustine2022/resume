@@ -23,7 +23,7 @@ Finally, cutting-edge training and skills in identity access management, securit
 | Win 7/8/10/11 / Server 2016/2019 | MacOS | Android | iOS | RedHat / CentOS / Ubuntu / Debian / Oracle Linux / Kali Linux |
 
 #### *Windows Applications:*
-| MS Office365 / Active Directory / Group Policy Objects / Web Server(IIS) / WSUS / Exchange / SharePoint | 
+| MS Office365 / Exchange / SharePoint | Win Server Active Directory / Group Policy Objects / Web Server(IIS) / WSUS | 
 
 #### *Cloud/DevOps:* 
 | Development Operations: CI / CD Pipelines | Public Cloud Platform: AWS | AWS Solution Architectures: EC2 / Lambda / Lightsail / ELB / S3 / RDS / EBS / Route 53 / VPC / Elastic IP | Container Platform: Kubernetes / Docker | Integration Technologies/APIs: XML / (S)FTP | Continous Intergration: Jenkins / Chef | Continous Deployment: Jenkins / Ansible | Configuration Management: Ansible / Puppet / Chef | Continous Monitoring: Kubernetes | Infrastructure Provisioning: Terraform | Infrasturcture Automation: Gradle / Maven / Terraform / Chef / Puppet | Version Control Systems: Git / Github / Gitlab | Infrastructure Development: Vagrant | Testing/Deployment: Golang / Go / Python / Python Django / Javascript | Ticket Tracking: Jira / Confluence / ServiceNow | Load Balancer: HAProxy / Nginx | Code Quality Intergration : SonarQube | Scrum/Agile Project Management: Jira-kanban board | Web/App Server: Apache / Tomcat / Nginx / gunicorn | Resources/Network Monitoring: Nagios / Splunk | Virtualization: Oracle VM VirtualBox / VMware Workstation Player |
