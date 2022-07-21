@@ -53,7 +53,7 @@ Finally, cutting-edge training and skills in identity access management, securit
 ##### *October 2020 - Present / Bear, DE*
 
 * Consulted with clients on DevOps culture and best practices to reduce deployment cycle time and productivity for developers and system administrators.
-* Worked with and used the Amazon Web Services (EC2, ELB, RDS, EBS CloudWatch, S3, VPC, CloudFormation, etc.), AWS serverless technologies (Lambda, Cognito, API Gateway), and other cloud technology platforms; Jenkins, Ansible, Chef, Docker, Puppet, Salt, Kubernetes, SonarQube, Nagios, Node.js, Python, PowerShell, Bash, JavaScript, Git/Github, HAProxy.
+* Worked with and used the Amazon Web Services (EC2, ELB, RDS, EBS, S3, VPC, CloudWatch, CloudFormation, etc.), AWS serverless technologies (Lambda, Cognito, API Gateway), and other cloud technology platforms; Jenkins, Ansible, Chef, Docker, Puppet, Salt, Kubernetes, SonarQube, Nagios, Node.js, Python, PowerShell, Bash, JavaScript, Git/Github, HAProxy.
 * Wrote and edited Jenkins file using Groovy language to automate and troubleshoot failing jobs.
 * Installed, configured, and administered the SonarQube for code quality check and generated reports for different projects; and as well integrated them into Jenkins.  
 * Installed and configured Jenkins master and Jenkins slave nodes, built CI/CD pipeline, and managed the infrastructure as code using Ansible.
@@ -110,6 +110,7 @@ Finally, cutting-edge training and skills in identity access management, securit
 * Collected system information to aid in troubleshooting, documenting resources, monitoring for any behavior modifications and intrusion, and configuring the system to send log messages to the system’s centralized host.
 * Resolved package management dependency issues, and collaborated with the development and operation team to troubleshoot and resolve issues.
 * Presented weekly system status reports and maintained documentation reports.
+
 
 ### Tar Technologies LLC.
 
