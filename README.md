@@ -23,7 +23,7 @@ Finally, cutting-edge training and skills in identity access management, securit
 | Win 7/8/10/11 / Server 2016/2019 | MacOS | Android | iOS | RedHat / CentOS / Ubuntu / Debian / Oracle Linux / Kali Linux |
 
 #### *Windows Applications:*
-| MS Office365 / Exchange / SharePoint | Win Server2016 Active Directory / Group Policy Objects / Web Server(IIS) / WSUS | 
+| MS Office365 / Exchange / SharePoint / Active Directory / Group Policy Objects / Web Server(IIS) / WSUS | 
 
 #### *Cloud/DevOps:* 
 | Development Operations: CI / CD Pipelines | Public Cloud Platform: AWS | AWS Solution Architectures: EC2 / ELB / RDS / S3 / EBS / Lambda / Lightsail / Route 53 / VPC / Elastic IP | Container Platform: Kubernetes / Docker | Integration Technologies/APIs: XML / (S)FTP | Continous Intergration: Jenkins / Chef | Continous Deployment: Jenkins / Ansible | Configuration Management: Ansible / Puppet / Chef | Continous Monitoring: Kubernetes | Infrastructure Provisioning: Terraform | Infrasturcture Automation: Gradle / Maven / Terraform / Chef / Puppet | Version Control Systems: Git / Github / Gitlab | Infrastructure Development: Vagrant | Testing/Deployment: Golang / Go / Python / Python Django / Javascript | Ticket Tracking: Jira / Confluence / ServiceNow | Load Balancer: HAProxy / Nginx | Code Quality Intergration : SonarQube | Scrum/Agile Project Management: Jira-kanban board | Web/App Server: Apache / Tomcat / Nginx / gunicorn | Resources/Network Monitoring: Nagios / Splunk | Virtualization: Oracle VM VirtualBox / VMware Workstation Player |
@@ -38,7 +38,7 @@ Finally, cutting-edge training and skills in identity access management, securit
 | HIPAA | PCI DSS | HITRUST | COBIT | ISO27K Series | NIST SP 800-53 | FISMA | NIST | FedRAMP / A&A / STIG |
 
 #### *Languages:*
-| Python | Bash Shell | Batch / PowerShell | AWS CloudShell | HTML5 / XML | C / C++ | 
+| Python | BashShell | Batch/PowerShell | AWS CloudShell | HTML5 / XML | C / C++ | 
 
 
 ----
@@ -53,7 +53,7 @@ Finally, cutting-edge training and skills in identity access management, securit
 ##### *October 2020 - Present / Bear, DE*
 
 * Consulted with clients on DevOps culture and best practices to reduce deployment cycle time and productivity for developers and system administrators.
-* Worked with and used the Amazon Web Services (EC2, CloudWatch, S3, VPC, CloudFormation, etc.), AWS serverless technologies (Lambda, Cognito, API Gateway), and other cloud technology platforms; Jenkins, Ansible, Chef, Docker, Puppet, Salt, Kubernetes, SonarQube, Nagios, Node.js, Python, PowerShell, Bash, Java, JavaScript, Git/Github, HAProxy.
+* Worked with and used the Amazon Web Services (EC2, ELB, RDS, EBS CloudWatch, S3, VPC, CloudFormation, etc.), AWS serverless technologies (Lambda, Cognito, API Gateway), and other cloud technology platforms; Jenkins, Ansible, Chef, Docker, Puppet, Salt, Kubernetes, SonarQube, Nagios, Node.js, Python, PowerShell, Bash, JavaScript, Git/Github, HAProxy.
 * Wrote and edited Jenkins file using Groovy language to automate and troubleshoot failing jobs.
 * Installed, configured, and administered the SonarQube for code quality check and generated reports for different projects; and as well integrated them into Jenkins.  
 * Installed and configured Jenkins master and Jenkins slave nodes, built CI/CD pipeline, and managed the infrastructure as code using Ansible.
@@ -72,7 +72,7 @@ Finally, cutting-edge training and skills in identity access management, securit
 ##### *October 2018 - September 2020 / Bear, DE*
 
 * Built fully automated CI/CD pipelines using Jenkins, Ansible, Terraform, Docker, and Kubernetes to deploy applications.
-* Deployed a multi-tier infrastructure on AWS using Terraform where the application was configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database; cloud watch alarm and s3 bucket configured to monitor performances and store log messages respectively.
+* Deployed a multi-tier infrastructure on AWS using Terraform where the application was configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database; cloud watch alarm and S3 bucket configured to monitor performances and store log messages respectively.
 * Built well-architected Virtual Private Cloud (VPCs) with proper networking configurations and high availability.
 * Worked with subnets, Network Address Translation (NAT), Internet Gateway (IGW), Route Tables, Network Access Control List (NACL), Security Groups, ELB, EC2.
 * Implemented security with IAM (roles, users, and permissions) and Key Management Service (KMS).
