@@ -52,14 +52,14 @@ Finally, cutting-edge training and skills in identity access management, securit
 
 ##### *April 2021 - Present / Bear, DE*
 
-* Consulted with clients on DevOps culture and best practices to reduce deployment cycle time and productivity for developers and system administrators.
-* Worked with and used the Amazon Web Services (EC2, ELB, RDS, EBS, S3, VPC, CloudWatch, CloudFormation, etc.), AWS serverless technologies (Lambda, Cognito, API Gateway), and other cloud technology platforms; Jenkins, Ansible, Chef, Docker, Puppet, Salt, Kubernetes, SonarQube, Nagios, Node.js, Python, PowerShell, Bash, JavaScript, Git/Github, HAProxy.
-* Wrote and edited Jenkins file using Groovy language to automate and troubleshoot failing jobs.
+* Worked closely with subject matter experts and the client's team to understand requirements, establish priorities, and project scope, and manage expectations and project delivery.
+* Worked with and used the Amazon Web Services (EC2, ELB, RDS, EBS, S3, VPC, CloudWatch, CloudFormation, etc.), AWS serverless technologies (Lambda, Cognito, API Gateway), and other cloud technology platforms and tools; like Jenkins, Ansible, Docker, Nagios, Kubernetes, Terraform, Github, etc...
 * Installed, configured, and administered the SonarQube for code quality check and generated reports for different projects; and as well integrated them into Jenkins.  
 * Installed and configured Jenkins master and Jenkins slave nodes, built CI/CD pipeline, and managed the infrastructure as code using Ansible.
 * Created and implemented Ansible scripts to automatically update system components, saving 30% administrator's time.
 * Integrated Nagios with PagerDuty and wrote Ansible playbook to automate the server's onboardings as well as the configuration.
 * Monitored system activities like CPU, Memory, Disk, and Swap space usage to avoid any performance issues, ensuring the highest 24-hour/7-day week critical system availability.
+* Assisted in designing monitoring and alerting strategies that identify early symptoms that can be addressed before outages occur using monitoring tools Nagios, PagerDuty, and Splunk.
 * Assisted in defining the technical and solution architecture software development delivery and provided hands-on technical direction working with other developers to review code and resolve issues.
 * Worked with the development teams in the root-cause analysis of complex problems involving multiple parties, networks, hardware, and software that relate to scaling and performance. 
 * Undertook routine preventative measures and implemented, maintained, and monitored the network security and intrusion detection, while preparing the technical and user documentation and training materials.
