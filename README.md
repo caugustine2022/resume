@@ -50,7 +50,7 @@ Finally, cutting-edge training and skills in identity access management, securit
 
 #### DevOps Site Reliability Engineer
 
-##### *October 2020 - Present / Bear, DE*
+##### *April 2021 - Present / Bear, DE*
 
 * Consulted with clients on DevOps culture and best practices to reduce deployment cycle time and productivity for developers and system administrators.
 * Worked with and used the Amazon Web Services (EC2, ELB, RDS, EBS, S3, VPC, CloudWatch, CloudFormation, etc.), AWS serverless technologies (Lambda, Cognito, API Gateway), and other cloud technology platforms; Jenkins, Ansible, Chef, Docker, Puppet, Salt, Kubernetes, SonarQube, Nagios, Node.js, Python, PowerShell, Bash, JavaScript, Git/Github, HAProxy.
@@ -60,8 +60,8 @@ Finally, cutting-edge training and skills in identity access management, securit
 * Created and implemented Ansible scripts to automatically update system components, saving 30% administrator's time.
 * Integrated Nagios with PagerDuty and wrote Ansible playbook to automate the server's onboardings as well as the configuration.
 * Monitored system activities like CPU, Memory, Disk, and Swap space usage to avoid any performance issues, ensuring the highest 24-hour/7-day week critical system availability.
-* Assisted with refining the Software Development Life Cycle (SDLC) to fit system needs; designed and enhanced the software architecture to improve scalability, service reliability, capacity, and performance.
-* Worked with the development teams to make sure the applications fit nicely within the infrastructure and scalability/reliability is designed and implemented from the ground up. 
+* Assisted in defining the technical and solution architecture software development delivery and provided hands-on technical direction working with other developers to review code and resolve issues.
+* Worked with the development teams in the root-cause analysis of complex problems involving multiple parties, networks, hardware, and software that relate to scaling and performance. 
 * Undertook routine preventative measures and implemented, maintained, and monitored the network security and intrusion detection, while preparing the technical and user documentation and training materials.
 
 
@@ -69,7 +69,7 @@ Finally, cutting-edge training and skills in identity access management, securit
 
 #### Cloud DevOps Engineer
 
-##### *October 2018 - September 2020 / Bear, DE*
+##### *March 2019 - April 2021 / Bear, DE*
 
 * Built fully automated CI/CD pipelines using Jenkins, Ansible, Terraform, Docker, and Kubernetes to deploy applications.
 * Deployed a multi-tier infrastructure on AWS using Terraform where the application was configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database; cloud watch alarm and S3 bucket configured to monitor performances and store log messages respectively.
@@ -91,7 +91,7 @@ Finally, cutting-edge training and skills in identity access management, securit
 
 #### Linux Systems Engineer
 
-##### *April 2017 - September 2018 / Bear, DE*
+##### *April 2017 - March 2019 / Bear, DE*
 
 * Created, installed, and configured Linux virtual servers (RedHat, CentOS, Ubuntu, Debian, kali Linux, oracle Linux) on Oracle VM VirtualBox using Vagrant cloud and Windows Virtual code.
 * Performed system performance tuning, monitored, and analyzed application logs.
