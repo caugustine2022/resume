@@ -62,7 +62,7 @@ Finally, cutting-edge training and skills in identity access management, securit
 * Assisted in designing monitoring and alerting strategies that identify early symptoms that can be addressed before outages occur using monitoring tools Nagios, PagerDuty, and Splunk.
 * Assisted in defining the technical and solution architecture software development delivery and provided hands-on technical direction working with other developers to review code and resolve issues.
 * Worked with the development teams in the root-cause analysis of complex problems involving multiple parties, networks, hardware, and software that relate to scaling and performance. 
-* Undertook routine preventative measures and implemented, maintained, and monitored the network security and intrusion detection, while preparing the technical and user documentation and training materials.
+* Undertook routine preventative measures and implemented, maintained, and monitored the network security, intrusion detection, service usage/costs and propose more efficient and cost-effective solutions.
 
 
 ### Data Service Group Inc.
@@ -72,13 +72,13 @@ Finally, cutting-edge training and skills in identity access management, securit
 ##### *March 2019 - April 2021 / Bear, DE*
 
 * Built fully automated CI/CD pipelines using Jenkins, Ansible, Terraform, Docker, and Kubernetes to deploy applications.
-* Deployed a multi-tier infrastructure on AWS using Terraform where the application was configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database; cloud watch alarm and S3 bucket configured to monitor performances and store log messages respectively.
+* Deployed a multi-tier infrastructure on AWS using Terraform where the application was configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database; CloudWatch alarm and S3 bucket configured to monitor performances and store log messages respectively.
 * Built well-architected Virtual Private Cloud (VPCs) with proper networking configurations and high availability.
 * Worked with subnets, Network Address Translation (NAT), Internet Gateway (IGW), Route Tables, Network Access Control List (NACL), Security Groups, ELB, EC2.
 * Implemented security with IAM (roles, users, and permissions) and Key Management Service (KMS).
 * Configured AWS VPC with public and private subnets, configure routing tables, internet gateway, ACLs, and Security groups.
-* Actively managed, improved, and monitored cloud infrastructure on AWS, EC2, S3, and RDS, including backups, patches, and scaling.
-* Created and implemented Chef cook-books for deployment and also used Chef recipes to create a deployment directly into Amazon EC2 instances.
+* Actively managed, improved, and monitored cloud infrastructure on AWS; EC2, S3, RDS, backups, patches, and scaling.
+* Created and implemented Chef cook-books for deployment and also used Chef recipes to create deployments directly into Amazon EC2 instances.
 * Installed, configured, and managed monitoring tools such as Nagios for resource monitoring/network monitoring.
 * Managed Kubernetes, running nodes, container snapshots, and images, and used Kubernetes to provide a platform for automating deployment, scaling, and operations of application containers across clusters of hosts.
 * Created Ansible YAML, Play-books, and Roles for application deployments.
