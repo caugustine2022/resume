@@ -93,8 +93,7 @@ An ardent professional in Software Development Operations Engineering, Cloud Com
 * Managed physical, virtual, and network storage (HD, LVM, NFS, SAMBA, NAS); and installed, configured, and managed LAMP (Linux/Apache/MySQL/PHP) stacks.
 * Containerized an e-commerce application built with Python-Django; and set up Django with Postgres, Nginx, and Gunicorn on the Ubuntu server.
 * Performed user/group administration, file/directory security, authentication, and access management, making use of SSH, and Firewalls.
-* Wrote crontab for scheduling automatics repetitive jobs and executing shell scripts.
-* Configured SELinux detection security software, and hardened operating systems using iptables and filesystem access control lists (ACLs).
+* Wrote crontab for scheduling automatics repetitive jobs and executing shell scripts; configured SELinux detection security software, and hardened operating systems using IPtables and filesystem access control lists (ACLs).
 * Configured and managed network services (HTTP, NFS, SCP, NTP); troubleshot booting issues, and identified and resolved the service failures affecting boot.
 * Collected system information to aid in troubleshooting, documenting resources, monitoring for any behavior modifications and intrusion, and configuring the system to send log messages to the system’s centralized host.
 * Resolved package management dependency issues and collaborated with the development and operation team to troubleshoot and resolve issues.
