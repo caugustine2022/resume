@@ -32,7 +32,7 @@ An ardent professional in Software Development Operations Engineering, Cloud Com
 #### *Regulatory Standards:*
 | ISO27K Series | NIST SP 800-53 | PCI DSS | COBIT | FISMA | FedRAMP / STIG | HITRUST | HIPAA |
 
-#### *Programming Languages:*
+#### *Scripting Languages:*
 | Python | BashShell | Batch/PowerShell | AWS CloudShell | HTML5 / XML | C/C++ | 
 
 
