@@ -54,8 +54,7 @@ An ardent professional in Software Development Operations Engineering, Cloud Com
 * Worked with and used the AWS features (EC2, ELB, RDS, EBS, S3, VPC, SNS, CloudWatch, CloudFormation), and serverless technologies (Lambda, API Gateway); with other cloud technology platforms and tools; like Jenkins, Ansible, Docker, Nagios, Kubernetes, Terraform, GitHub, etc...
 * Installed, configured, and administered the SonarQube for code quality check and generated reports for different projects; and as well integrated them into Jenkins.  
 * Installed and configured Jenkins master and Jenkins slave nodes, built CI/CD pipeline, and managed the infrastructure as code using Ansible.
-* Created and implemented Ansible scripts to automatically update system components, saving 30% administrator's time.
-* Integrated Nagios with PagerDuty and wrote Ansible playbook to automate the server's onboardings as well as the configuration.
+* Created and implemented Ansible scripts to automatically update system components, saving 30% administrator's time. Integrated Nagios with PagerDuty and wrote Ansible playbook to automate the server's onboardings as well as the configuration.
 * Monitored system activities like CPU, Memory, Disk, and Swap space usage to avoid any performance issues, ensuring the highest 24-hour/7-day week critical system availability.
 * Assisted in designing monitoring and alerting strategies that identify early symptoms that can be addressed before outages occur using monitoring tools like; Nagios, PagerDuty, and Splunk.
 * Assisted in defining the technical/solution architecture software development delivery and provided hands-on technical direction working with other developers to review code and resolve issues.
