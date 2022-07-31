@@ -71,8 +71,7 @@ An ardent professional in Software Development Operations Engineering, Cloud Com
 
 * Built fully automated CI/CD pipelines using Jenkins, Ansible, Terraform, Docker, and Kubernetes to deploy applications.
 * Deployed a multi-tier infrastructure on AWS using Terraform where the application was configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database, and the CloudWatch alarm and S3 bucket were configured to monitor performances and store log messages respectively.
-* Built well-architected Virtual Private Cloud (VPCs) with proper networking configurations and high availability.
-* Worked with subnets, Network Address Translation (NAT), Internet Gateway (IGW), Route Tables, Network Access Control List (NACL), Security Groups, ELB, and EC2.
+* Worked with subnets, Network Address Translation (NAT), Internet Gateway (IGW), Route Tables, Network Access Control List (NACL), Security Groups, ELB, and EC2; and built well-architected VPCs with proper networking configurations and high availability.
 * Installed, configured, and managed monitoring tools such as Nagios for resource/network monitoring, and implemented security with IAM (roles, users, and permissions) and Key Management Service (KMS).
 * Actively managed, improved, and monitored cloud infrastructure on AWS; EC2, S3, RDS, backups, patches, and auto-scaling. Configured AWS VPC with public and private subnets, configured routing tables, internet gateway, ACLs, and Security groups.
 * Created and implemented Chef cookbooks for deployment and used Chef recipes to create deployments directly into Amazon EC2 instances.
