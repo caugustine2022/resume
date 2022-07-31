@@ -70,7 +70,7 @@ An ardent professional in Software Development Operations Engineering, Cloud Com
 ##### *March 2019 - April 2021 / Bear, DE*
 
 * Built fully automated CI/CD pipelines using Jenkins, Ansible, Terraform, Docker, and Kubernetes to deploy applications.
-* Deployed a multi-tier infrastructure on AWS using Terraform where the application was configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database; and the CloudWatch alarm and S3 bucket configured to monitor performances and store log messages respectively.
+* Deployed a multi-tier infrastructure on AWS using Terraform where the application was configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database, and the CloudWatch alarm and S3 bucket were configured to monitor performances and store log messages respectively.
 * Built well-architected Virtual Private Cloud (VPCs) with proper networking configurations and high availability.
 * Worked with subnets, Network Address Translation (NAT), Internet Gateway (IGW), Route Tables, Network Access Control List (NACL), Security Groups, ELB, and EC2.
 * Installed, configured, and managed monitoring tools such as Nagios for resource/network monitoring, and implemented security with IAM (roles, users, and permissions) and Key Management Service (KMS).
@@ -91,11 +91,11 @@ An ardent professional in Software Development Operations Engineering, Cloud Com
 * Created, installed, and configured Linux virtual servers (RedHat, CentOS, Ubuntu, Debian, Kali Linux, oracle Linux) on Oracle VM VirtualBox using Vagrant cloud and Windows Virtual code.
 * Performed periodic system performance tuning, monitored, vulnerability assessments, system updates, Patch management, and analyzed application logs.
 * Managed physical, virtual, and network storage (HD, LVM, NFS, SAMBA, NAS); and installed, configured, and managed LAMP (Linux/Apache/MySQL/PHP) stacks.
-* Containerized an e-commerce application built with Python-Django; and set-up Django with Postgres, Nginx, and Gunicorn on the Ubuntu server.
+* Containerized an e-commerce application built with Python-Django; and set up Django with Postgres, Nginx, and Gunicorn on the Ubuntu server.
 * Performed user/group administration, file/directory security, authentication, and access management, making use of SSH, and Firewalls.
 * Wrote crontab for scheduling automatics repetitive jobs and executing shell scripts.
 * Configured SELinux detection security software, and hardened operating systems using iptables and filesystem access control lists (ACLs).
-* Configured and managed network services (HTTP, NFS, SCP, NTP); and troubleshot booting issues, and identified and resolved the service failures affecting boot.
+* Configured and managed network services (HTTP, NFS, SCP, NTP); troubleshot booting issues, and identified and resolved the service failures affecting boot.
 * Collected system information to aid in troubleshooting, documenting resources, monitoring for any behavior modifications and intrusion, and configuring the system to send log messages to the system’s centralized host.
 * Resolved package management dependency issues and collaborated with the development and operation team to troubleshoot and resolve issues.
 * Presented weekly system status reports and maintained documentation reports.
