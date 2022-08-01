@@ -48,9 +48,8 @@ An ardent professional in Software Development Operations Engineering, Cloud Com
 ##### *April 2021 - Present / Bear, DE*
 
 * Worked closely with subject matter experts and the client's team to understand requirements, establish priorities, and project scope, and manage expectations and project delivery.
-* Worked with and used the AWS features (EC2, ELB, RDS, EBS, S3, VPC, SNS, CloudWatch, CloudFormation), and serverless technologies (Lambda, API Gateway); with other cloud technology platforms and tools; like Jenkins, Ansible, Docker, Nagios, Kubernetes, Terraform, GitHub, etc...
 * Installed, configured, and administered the SonarQube for code quality check and generated reports for different projects; and as well integrated them into Jenkins.  
-* Installed and configured Jenkins master and Jenkins slave nodes, built CI/CD pipeline, and managed the infrastructure as code using Ansible; created and implemented Ansible scripts to automatically update system components, saving 30% administrator's time; and integrated Nagios with PagerDuty and wrote Ansible playbook to automate the server's onboardings as well as the configuration.
+* Installed and configured Jenkins master and Jenkins slave nodes, built CI/CD pipeline, and managed the infrastructure as code using Ansible; created and implemented Ansible scripts to automatically update system components, saving 30% administrator's time; and integrated Nagios with PagerDuty and wrote Ansible playbook to automate the server's onboardings and the configurations.
 * Monitored system activities like CPU, Memory, Disk, and Swap space usage to avoid any performance issues, ensuring the highest 24-hour/7-day week critical system availability.
 * Assisted in designing monitoring and alerting strategies that identify early symptoms that can be addressed before outages occur using monitoring tools like; Nagios, PagerDuty, and Splunk.
 * Assisted in defining the technical/solution architecture software development delivery and provided hands-on technical direction working with other developers to review code and resolve issues.
@@ -64,6 +63,7 @@ An ardent professional in Software Development Operations Engineering, Cloud Com
 
 ##### *March 2019 - April 2021 / Bear, DE*
 
+* 	Worked with and used the AWS features (EC2, ELB, RDS, EBS, S3, VPC, SNS, LightSail, CloudShell, CloudWatch, CloudFormation), and serverless technologies (Lambda, API Gateway); with other cloud technology platforms and tools; like Jenkins, Ansible, Docker, Nagios, Kubernetes, Terraform, GitHub, etc...
 * Built fully automated CI/CD pipelines using Jenkins, Ansible, Terraform, Docker, and Kubernetes to deploy applications.
 * Deployed a multi-tier infrastructure on AWS using Terraform where the application was configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database, and the CloudWatch alarm and S3 bucket were configured to monitor performances and store log messages respectively.
 * Worked with subnets, Network Address Translation (NAT), Internet Gateway (IGW), Route Tables, Network Access Control List (NACL), Security Groups, ELB, and EC2; and built well-architected VPCs with proper networking configurations and high availability.
