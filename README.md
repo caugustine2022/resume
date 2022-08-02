@@ -10,7 +10,7 @@
 ### **Professional Summary**
 ----
 
-An ardent professional in Software Development Operations Engineering, Cloud Computing, and Information Systems Security, with over 6+ years of experience in the Information Technology industry comprising Software Development Operations, Security Software Development Operations, Site Reliability Engineering, Cloud Infrastructure, Systems Administration, Information Security/Data Privacy, and an ISACA Certified Data Privacy Solutions Engineer. Having excelling development operations skills in infrastructure automation, build/release management, infrastructure provisioning, containers/orchestrations, cloud architectures, configurations, and management of various Linux systems distributions. In addition, hands-on experience in development operations tools and methodologies such as Git/GitHub, Docker, Kubernetes, Jenkins, Ansible, Terraform, and on-premises deployment, with added proficiency in Python, JavaScript, BashShell, and PowerShell scripting. Finally, cutting-edge training and skills in identity access management, security systems administration, enterprise security control frameworks, penetration testing, endpoint security, network security, data governance, risk management, and compliances, with a deep passion for enterprise-wide security management. Persistent, detailed-oriented with excellent interpersonal and team-working skills; and particularly passionate about contributing my technical and analytical skills to ensure operational efficiency.
+An ardent professional in Software Development Operations Engineering, Cloud Computing, and Information Systems Security, with over 6+ years of experience in the Information Technology industry comprising Software Development Operations, Security Software Development Operations, Site Reliability Engineering, Cloud Infrastructure, Systems Administration, Information Security/Data Privacy, and an ISACA Certified Data Privacy Solutions Engineer. Having excelling development operations skills in infrastructure automation, build/release management, infrastructure provisioning, containers/orchestrations, cloud architectures, configurations, and management of various Linux systems distributions. In addition, hands-on experience in development operations tools and methodologies such as Git/GitHub, Docker, Kubernetes, Jenkins, Ansible, Terraform, and on-premises deployment, with added proficiency in Python, Bash, Groovy, and PowerShell scripting. Finally, cutting-edge training and skills in identity access management, security systems administration, enterprise security control frameworks, penetration testing, endpoint security, network security, data governance, risk management, and compliances, with a deep passion for enterprise-wide security management. Persistent, detailed-oriented with excellent interpersonal and team-working skills; and particularly passionate about contributing my technical and analytical skills to ensure operational efficiency.
 
 ----
 
@@ -33,7 +33,7 @@ An ardent professional in Software Development Operations Engineering, Cloud Com
 | ISO27K Series | NIST SP 800-53 | PCI DSS | COBIT | FISMA | FedRAMP / STIG | HITRUST | HIPAA |
 
 #### *Scripting Languages:*
-| Python | BashShell | Batch/PowerShell | AWS CloudShell | HTML5 / XML | C/C++ | 
+| Python | Bash | Batch/PowerShell | Groovy |  
 
 
 ----
