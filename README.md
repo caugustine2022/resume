@@ -60,7 +60,7 @@ An ardent professional in Software Development Operations Engineering, Cloud Com
 
 ##### *March 2019 - April 2021 / Bear, DE*
 
-* Worked with and used the AWS features (EC2, ELB, RDS, EBS, EFS, S3 Bucket & Glacier, VPC, SNS, LightSail, CloudShell, CloudWatch, CloudFormation), and serverless technologies (Lambda, API Gateway); with other cloud technology platforms and tools; like Jenkins, Ansible, Docker, Nagios, Kubernetes, Terraform, GitHub, etc...
+* Worked with and used the AWS resources (EC2, ELB, RDS, EBS, EFS, S3 Bucket & Glacier, VPC, SNS, LightSail, CloudShell, CloudWatch, CloudFormation), and serverless technologies (Lambda, API Gateway); with other cloud technology platforms and tools; like Jenkins, Ansible, Docker, Nagios, Kubernetes, Terraform, GitHub, etc...
 * Built fully automated CI/CD pipelines using Jenkins, Ansible, Terraform, Docker, and Kubernetes to deploy applications.
 * Deployed a multi-tier infrastructure on AWS using Terraform where the application was configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database, and the CloudWatch alarm and S3 bucket were configured to monitor performances and store log messages respectively.
 * Worked with subnets, Network Address Translation (NAT), Internet Gateway (IGW), Route Tables, Network Access Control List (NACL), Security Groups, ELB, and EC2; and built well-architected VPCs with proper networking configurations and high availability.
