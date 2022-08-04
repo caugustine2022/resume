@@ -18,7 +18,7 @@ An ardent professional in Software Development Operations Engineering, Cloud Com
 ----
 
 #### *Operating Systems Platforms:*
-| Win 7/8/10/11 / Server 2016/2019 | Android | iOS | MacOS | Linux Distributions: RedHat / CentOS / Ubuntu / Debian / Oracle Linux / Kali Linux |
+| Win 7/8/10/11 / Server 2016/2019 | Linux Distributions: RedHat / CentOS / Ubuntu / Debian / Oracle Linux / Kali Linux | MacOS | Android | iOS | 
 
 #### *Cloud/DevOps Tools:* 
 | Development Operations: CI / CD Pipelines | Public Cloud Platform: AWS | AWS Solution Architectures: EC2 / ELB / RDS / S3 / EBS / SNS / CloudWatch / Route 53 / VPC / Elastic IP | Container Platform: Kubernetes / Docker | Continuous Integration/ Deployment: Jenkins / Chef / Ansible | Configuration Management: Ansible / Puppet / Chef | Continuous Monitoring: Kubernetes | Infrastructure Provisioning: Terraform | Infrastructure Automation: Gradle / Maven / Terraform / Chef / Puppet | Version Control: Git/GitHub / Gitlab / Bitbucket | Testing/Deployment: Golang / Go / Python / Python-Django / JavaScript | Ticket Tracking: Jira / Confluence / ServiceNow | Load Balancer: HAProxy / Nginx | Code Quality Integration: SonarQube | Scrum/Agile Project Management: Jira-Kanban board | Web/App Server: Apache / Tomcat / Nginx / Gunicorn | Resources/Network Monitoring: Nagios / Splunk / Prometheus | Virtualization: Oracle VM VirtualBox | Network Protocols: DNS / DHCP / SMTP / FTP / VPN / TCP/IP / UDP / VoIP / NTP / NFS / HTTP/S / IPSEC / BGP | SSL/TLS | SSH |
