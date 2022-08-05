@@ -1,11 +1,11 @@
 # Augustine Ngen 
 ### *MS, CDPSE* 
-
 ----
+
 
 #### *👉 💥 | Cloud/DevOps Engineer ⚡ Jr. Cybersecurity Researcher | …✍️*
-
 ----
+
 
 ### **Professional Summary**
 ----
@@ -65,7 +65,7 @@ An ardent, proactive, result oriented professional in Software Development Opera
 * Worked with and used the AWS resources (EC2, ELB, RDS, EBS, EFS, S3 Bucket & Glacier, VPC, SNS, LightSail, CloudShell, CloudWatch, CloudFormation), and serverless technologies (Lambda, API Gateway). Built fully automated CI/CD pipelines using Jenkins, Ansible, Docker, Nagios, Kubernetes, Terraform, and GitHub to deploy applications. 
 * Created custom Docker images with Docker File and pulled images from Docker hub and docker repositories. Created docker-compose.yaml file templates to deploy images in docker containers managed by Docker Swarm. 
 * Deployed a multi-tier infrastructure on AWS using Terraform where the application was configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database, and the CloudWatch alarm and S3 bucket were configured to monitor performances and store log messages respectively.
-* Performed S3 buckets creation, and policies on the IAM role-based policies and customizing the JSON template; created VPCs and brought instances under them based on the requirement; then, created Public and private subnets in the VPC and attaching them to the EC2 instances based on the requirement; and launching AWS EC2 Cloud Instances using Amazon Images (Linux/ Ubuntu) and configuring launched instances with respect to specific applications.
+* Performed S3 buckets creation, and policies on the Identity and Access Management (IAM) role-based policies and customizing the JSON template; created VPCs and brought instances under them based on the requirement; then, created Public and private subnets in the VPC and attaching them to the EC2 instances based on the requirement; and launching AWS EC2 Cloud Instances using Amazon Images (Linux/ Ubuntu) and configuring launched instances with respect to specific applications.
 * Actively managed, improved, and monitored cloud infrastructure on AWS; EC2, S3, RDS, backups, patches, and auto-scaling. Configured AWS VPC with public and private subnets, configured routing tables, internet gateway, ACLs, and Security groups.
 * Created and implemented Chef cookbooks for deployment and used Chef recipes to create deployments directly into Amazon EC2 instances.
 * Managed Kubernetes, running nodes, container snapshots, and images, and used Kubernetes to provide a platform for automating deployment, scaling, and operations of application containers across clusters of hosts.
@@ -143,6 +143,7 @@ An ardent, proactive, result oriented professional in Software Development Opera
 * Smart Devices, Internet-of-Things, Machine Learning, Artificial Intelligence, and Renewable Energy.
 * Soccer, Volleyball, Tennis, Research Writing, Volunteering, and Travelling.
 
+
 ----
 
 ### **Languages**
@@ -150,6 +151,7 @@ An ardent, proactive, result oriented professional in Software Development Opera
 
 * English (native speaker)
 * French (full professional proficiency)
+ 
  
 ----
 
