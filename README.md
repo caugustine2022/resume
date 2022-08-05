@@ -21,7 +21,7 @@ An ardent professional in Software Development Operations Engineering, Cloud Com
 | Win 7/8/10/11 / Server 2016/2019 | Linux Distributions: RedHat / CentOS / Ubuntu / Debian / Oracle Linux / Kali Linux | MacOS | Android | iOS | 
 
 #### *Cloud/DevOps Tools:* 
-| Development Operations: CI / CD Pipelines | Public Cloud Platform: AWS | AWS Solution Architectures: EC2 / ELB / RDS / S3 / EBS / SNS / CloudWatch / Route 53 / VPC / Elastic IP | Container Platform: Kubernetes / Docker | Continuous Integration/ Deployment: Jenkins / Chef / Ansible | Configuration Management: Ansible / Puppet / Chef | Continuous Monitoring: Kubernetes | Infrastructure Provisioning: Terraform | Infrastructure Automation: Gradle / Maven / Terraform / Chef / Puppet | Version Control: Git/GitHub / Gitlab / Bitbucket | Testing/Deployment: Golang / Go / Python / Python-Django / JavaScript | Ticket Tracking: Jira / Confluence / ServiceNow | Load Balancer: HAProxy / Nginx | Code Quality Integration: SonarQube | Scrum/Agile Project Management: Jira-Kanban board | Web/App Server: Apache / Tomcat / Nginx / Gunicorn | Resources/Network Monitoring: Nagios / Splunk / Prometheus | Virtualization: Oracle VM VirtualBox | Network Protocols: DNS / DHCP / SMTP / FTP / VPN / TCP/IP / UDP / VoIP / NTP / NFS / HTTP/S / IPSEC / BGP | SSL/TLS | SSH |
+| Development Operations: CI / CD Pipelines | Public Cloud Platform: AWS | AWS Resources: EC2 / ELB / RDS / S3 / EBS / SNS / CloudWatch / Route 53 / VPC / Elastic IP | Containerization/Orchestration: Docker / Kubernetes | Continuous Integration/ Deployment: Jenkins / Chef / Ansible | Configuration Management: Ansible / Puppet / Chef | Infrastructure Provisioning: Terraform | Infrastructure Automation: Gradle / Maven / Terraform / Chef / Puppet / CloudFormation | Version Control: Git/GitHub / Gitlab / Bitbucket | Testing/Deployment: Golang / Go / Python / Python-Django | Ticket Tracking: Jira / Confluence / ServiceNow | Load Balancer: HAProxy / Nginx | Code Quality Integration: SonarQube | Scrum/Agile Project Management: Jira-Kanban board | Web/App Servers: Apache / Tomcat / Nginx / Gunicorn | Logging/Monitoring: Nagios / Splunk / Prometheus / CloudWatch / Grafana | Virtualization: Oracle VM VirtualBox | Network Protocols: DNS / DHCP / SMTP / FTP / VPN / TCP/IP / UDP / VoIP / NTP / NFS / HTTP/S / IPSEC / BGP | SSL/TLS | SSH |
 
 #### *Security Tools:*
 | Forensics/Network Analysis: Wireshark / NetWitness Investigator / Splunk | Vulnerability Management: Nessus / Nmap | Penetration Testing: Kali Linux | Firewalls: pfSense / Checkpoint | Endpoint Security: BitLocker / McFee / Symantec |
@@ -30,7 +30,7 @@ An ardent professional in Software Development Operations Engineering, Cloud Com
 | ISO27K Series | NIST SP 800-53 | PCI DSS | COBIT | FISMA | FedRAMP / STIG | HITRUST | HIPAA |
 
 #### *Scripting Languages:*
-| Python | Bash | Batch/PowerShell | Groovy |  
+| Python | Bash | Batch/PowerShell | Groovy | YAML |  
 
 
 ----
@@ -45,8 +45,7 @@ An ardent professional in Software Development Operations Engineering, Cloud Com
 ##### *April 2021 - Present / Bear, DE*
 
 * Worked closely with subject matter experts and the client's team to understand requirements, establish priorities, and project scope, and manage expectations and project delivery.
-* Installed, configured, and administered the SonarQube for code quality check and generated reports for different projects; and as well integrated them into Jenkins.  
-* Installed and configured Jenkins master and Jenkins slave nodes, built CI/CD pipeline, and managed the infrastructure as code using Ansible; created and implemented Ansible scripts to automatically update system components, saving 30% administrator's time; and integrated Nagios with PagerDuty and wrote Ansible playbook to automate the server's onboardings and the configurations.
+* Installed, configured, and administered the SonarQube for code quality check and generated reports for different projects; and as well integrated them into Jenkins.  * Installed and configured Jenkins master and Jenkins slave nodes, built CI/CD pipeline, and managed the infrastructure as code using Ansible; configured Ansible and Ansible Tower as configuration management tool, to automate repetitive tasks, quickly deploys critical applications, and proactively manages change, saving 30% administrator’s time. Then, integrated Nagios with PagerDuty and wrote Ansible playbook to automate the server’s onboardings and the configurations.
 * Monitored system activities like CPU, Memory, Disk, and Swap space usage to avoid any performance issues, ensuring the highest 24-hour/7-day week critical system availability.
 * Assisted in designing monitoring and alerting strategies that identify early symptoms that can be addressed before outages occur using monitoring tools like; Nagios, PagerDuty, and Splunk.
 * Assisted in defining the technical/solution architecture software development delivery and provided hands-on technical direction working with other developers to review code and resolve issues.
@@ -60,8 +59,8 @@ An ardent professional in Software Development Operations Engineering, Cloud Com
 
 ##### *March 2019 - April 2021 / Bear, DE*
 
-* Worked with and used the AWS resources (EC2, ELB, RDS, EBS, EFS, S3 Bucket & Glacier, VPC, SNS, LightSail, CloudShell, CloudWatch, CloudFormation), and serverless technologies (Lambda, API Gateway); with other cloud technology platforms and tools; like Jenkins, Ansible, Docker, Nagios, Kubernetes, Terraform, GitHub, etc...
-* Built fully automated CI/CD pipelines using Jenkins, Ansible, Terraform, Docker, and Kubernetes to deploy applications.
+* Worked with and used the AWS resources (EC2, ELB, RDS, EBS, EFS, S3 Bucket & Glacier, VPC, SNS, LightSail, CloudShell, CloudWatch, CloudFormation), and serverless technologies (Lambda, API Gateway); with other cloud technology platforms and tools; like Jenkins, Ansible, Docker, Nagios, Kubernetes, Terraform, GitHub.
+* Built fully automated CI/CD pipelines using Jenkins, Ansible, Terraform, Docker, and Kubernetes to deploy applications. Created custom Docker images with Docker File and pulled images from Docker hub and docker repositories.
 * Deployed a multi-tier infrastructure on AWS using Terraform where the application was configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database, and the CloudWatch alarm and S3 bucket were configured to monitor performances and store log messages respectively.
 * Worked with subnets, Network Address Translation (NAT), Internet Gateway (IGW), Route Tables, Network Access Control List (NACL), Security Groups, ELB, and EC2; and built well-architected VPCs with proper networking configurations and high availability.
 * Installed, configured, and managed monitoring tools such as Nagios for resource/network monitoring, and implemented security with IAM (roles, users, and permissions) and Key Management Service (KMS).
