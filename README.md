@@ -44,16 +44,16 @@ An ardent, proactive, result oriented professional in Software Development Opera
 
 ##### *April 2021 - Present / Bear, DE*
 
-* Worked closely with subject matter experts and the client's team to understand requirements, establish priorities, and project scope, and manage expectations and project delivery.
-* Installed, configured, and administered the SonarQube for code quality check and generated reports for different projects; and as well integrated them into Jenkins.  
-* Installed and configured Jenkins master and slave nodes and set up jobs on master to run on slaves; built CI/CD pipeline, and managed the infrastructure as code using Ansible; configured Ansible and Ansible Tower as configuration management tool, to automate repetitive tasks, quickly deploys critical applications, and proactively manages change, saving 30% administrator’s time. Then, integrated Nagios with PagerDuty and wrote Ansible playbook to automate the server’s onboardings and the configurations.
-* Installed and configured Jenkins master and slave nodes and set up jobs on master to run on slaves; built CI/CD pipeline, and managed the infrastructure as code using Ansible; configured Ansible and Ansible Tower as configuration management tool, to automate repetitive tasks, quickly deploys critical applications, and proactively manages change, saving 30% administrator’s time. Then, integrated Nagios with PagerDuty and wrote Ansible playbook to automate the server’s onboardings and the configurations. 
-* Installed, configured, and managed monitoring tools such as Nagios for logging/monitoring, and implemented security with IAM (roles, users, and permissions) and Key Management Service (KMS).
-* Monitored system activities like CPU, memory, disk, and swap space usage to avoid any performance issues, ensuring the highest 24-hour/7-day week critical system availability.
+* Worked closely with subject matter experts and the client's team to understand requirements, establish priorities and project scope, and manage expectations and project delivery.
+* Installed, configured, and administered the SonarQube for code quality check, generated reports for different projects, and integrated them into Jenkins. 
+* Installed and configured Jenkins master and slave nodes and set up jobs on the master to run on slaves; built CI/CD pipeline and managed the infrastructure as code using Ansible; configured Ansible and Ansible Tower as a configuration management tool to automate repetitive tasks, quickly deploys critical applications, and proactively manages change, saving 30% administrator’s time. Then, integrated Nagios with PagerDuty and wrote an Ansible playbook to automate the server’s onboardings and configurations. 
+* Installed, configured, and managed monitoring tools such as Nagios for logging/monitoring and implemented security with IAM (roles, users, and permissions) and Key Management Service (KMS).
+* Monitored system activities like CPU, memory, disk, and swap space usage to avoid performance issues, ensuring the highest 24-hour/7-day critical system availability.
 * Assisted in designing monitoring and alerting strategies that identify early symptoms that can be addressed before outages occur using monitoring tools like; Nagios, PagerDuty, and Splunk.
 * Assisted in defining the technical/solution architecture software development delivery and provided hands-on technical direction working with other developers to review code and resolve issues.
-* Worked with the development teams in the root-cause analysis of complex problems involving multiple parties, networks, hardware, and software that relate to scaling and performance. 
-* Undertook routine preventative measures and implemented, maintained, and monitored the network security, intrusion detection, service usage/costs and propose more efficient and cost-effective solutions.
+* Worked with the development teams in the root-cause analysis of complex problems involving multiple parties, networks, hardware, and software related to scaling and performance. 
+* Undertook routine preventative measures; implemented, maintained, and monitored the network security, intrusion detection, and service usage costs and proposed more efficient and cost-effective solutions.
+
 
 
 ### Data Service Group Inc.
@@ -62,14 +62,14 @@ An ardent, proactive, result oriented professional in Software Development Opera
 
 ##### *March 2019 - April 2021 / Bear, DE*
 
-* Worked with and used the AWS resources (EC2, ELB, RDS, EBS, EFS, S3 Bucket & Glacier, VPC, SNS, LightSail, CloudShell, CloudWatch, CloudFormation), and serverless technologies (Lambda, API Gateway). Built fully automated CI/CD pipelines using Jenkins, Ansible, Docker, Nagios, Kubernetes, Terraform, and GitHub to deploy applications. 
-* Created custom Docker images with Docker File and pulled images from Docker hub and docker repositories. Created docker-compose.yaml file templates to deploy images in docker containers managed by Docker Swarm. 
-* Deployed a multi-tier infrastructure on AWS using Terraform where the application was configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database, and the CloudWatch alarm and S3 bucket were configured to monitor performances and store log messages respectively.
-* Performed S3 buckets creation, and policies on the Identity and Access Management (IAM) role-based policies and customizing the JSON template; created VPCs and brought instances under them based on the requirement; then, created Public and private subnets in the VPC and attaching them to the EC2 instances based on the requirement; and launching AWS EC2 Cloud Instances using Amazon Images (Linux/ Ubuntu) and configuring launched instances with respect to specific applications.
-* Actively managed, improved, and monitored cloud infrastructure on AWS; EC2, S3, RDS, backups, patches, and auto-scaling. Configured AWS VPC with public and private subnets, configured routing tables, internet gateway, ACLs, and Security groups.
-* Created and implemented Chef cookbooks for deployment and used Chef recipes to create deployments directly into Amazon EC2 instances.
+* Worked with and used the AWS resources (EC2, ELB, RDS, EBS, EFS, S3 Bucket & Glacier, VPC, SNS, LightSail, CloudShell, CloudWatch, CloudFormation), and serverless technologies (Lambda, API Gateway). Built fully automated CI/CD pipelines to deploy applications using Jenkins, Ansible, Docker, Nagios, Kubernetes, Terraform, and GitHub. 
+* Created custom Docker images with Docker File and pulled images from Docker hub and docker repositories. Created docker-compose.yaml file templates to deploy images in docker containers managed by Docker Swarm.
+* Deployed a multi-tier infrastructure on AWS using Terraform. The application was configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database. The CloudWatch alarm and S3 bucket were configured to monitor performances and store log messages.
+* Performed S3 buckets creation and policies on the Identity and Access Management (IAM) role-based policies and customizing the JSON template; created VPCs and brought instances under them based on the requirement; then created Public and private subnets in the VPC and attached them to the EC2 instances based on the requirement, and launching AWS EC2 Cloud Instances using Amazon Images (Linux/ Ubuntu) and configuring launched instances concerning specific applications.
+* Actively managed, improved, and monitored cloud infrastructure on AWS; EC2, S3, RDS, backups, patches, and auto-scaling. Configured AWS VPC with public and private subnets, configured routing tables, internet gateway, ACLs, and Security groups. Created and implemented Chef cookbooks for deployment and used Chef recipes to create deployments directly into Amazon EC2 instances.
 * Managed Kubernetes, running nodes, container snapshots, and images, and used Kubernetes to provide a platform for automating deployment, scaling, and operations of application containers across clusters of hosts.
-* Created Ansible YAML, Playbooks, and Roles for application deployments; and developed, debugged, and tested Python, BashShell, Groovy, YAML, and PowerShell scripts to automate deployments across multiple environments. Assisted in managing the business continuity in cloud-based environments, including server, file backup, and recovery, preparing and testing disaster recovery procedures; and helped Junior developers on the team with technical issue resolution.
+* Created Ansible YAML, Playbooks, and Roles for application deployments; and developed, debugged, and tested Python, BashShell, Groovy, YAML, and PowerShell scripts to automate deployments across multiple environments. Assisted in managing the business continuity in cloud-based environments, including server, file backup, and recovery, preparing and testing disaster recovery procedures, and helped Junior developers on the team with technical issue resolution
+
 
 
 ### Data Service Group Inc.
@@ -79,12 +79,12 @@ An ardent, proactive, result oriented professional in Software Development Opera
 ##### *April 2017 - March 2019 / Bear, DE*
 
 * Created, installed, and configured Linux virtual servers (RedHat, CentOS, Ubuntu, Debian, Kali Linux, oracle Linux) on Oracle VM VirtualBox using Vagrant cloud and Windows Virtual code.
-* Performed periodic system performance tuning, monitored, vulnerability assessments, system updates, Patch management, and analyzed application logs.
-* Managed physical, virtual, and network storage (HD, LVM, NFS, SAMBA, NAS); and installed, configured, and managed LAMP (Linux/Apache/MySQL/PHP) stacks.
+* Performed periodic system performance tuning, monitored vulnerability assessments, system updates, Patch management, and analyzed application logs.
+* Managed physical, virtual, and network storage (HD, LVM, NFS, SAMBA, NAS); installed, configured, and managed LAMP (Linux/Apache/MySQL/PHP) stacks.
 * Containerized an e-commerce application built with Python-Django; and set up Django with Postgres, Nginx, and Gunicorn on the Ubuntu server.
-* Performed user/group administration, file/directory security, authentication, and access management, making use of SSH, and Firewalls.
-* Wrote crontab for scheduling automatics repetitive jobs and executing shell scripts; configured SELinux detection security software, and hardened operating systems using IPtables and filesystem access control lists (ACLs).
-* Configured and managed network services (HTTP, NFS, SCP, NTP); troubleshot booting issues, and identified and resolved the service failures affecting boot.
+* Performed user/group administration, file/directory security, authentication, and access management, using SSH and Firewalls.
+* Wrote crontab for scheduling automatics repetitive jobs and executing shell scripts; configured SELinux detection security software and hardened operating systems using IPtables and filesystem access control lists (ACLs).
+* Configured and managed network services (HTTP, NFS, SCP, NTP); troubleshot booting issues and identified and resolved the service failures affecting boot.
 * Collected system information to aid in troubleshooting, documenting resources, monitoring for any behavior modifications and intrusion, and configuring the system to send log messages to the system’s centralized host.
 * Resolved package management dependency issues and collaborated with the development and operation team to troubleshoot and resolve issues.
 * Presented weekly system status reports and maintained documentation reports.
@@ -111,7 +111,7 @@ An ardent, proactive, result oriented professional in Software Development Opera
 ----
 
 2020-2024 *(expected)*
-:   **Doctor of Philosophy (Ph.D.) Degree, Major: Information Technology, with Emphasis in Cybersecurity**; University of the Cumberlands - Williamsburg, KY
+:   **Doctor of Philosophy (Ph.D.) Degree, Major: Information Technology, with Concentration in Information Systems Security**; University of the Cumberlands - Williamsburg, KY
 
 2019-2020
 :   **Master of Science (M.Sc.) Degree, Major: Information Systems Security**; University of the Cumberlands - Williamsburg, KY
@@ -123,7 +123,7 @@ An ardent, proactive, result oriented professional in Software Development Opera
 :   **Bachelor of Science (B.Sc.) Degree, Major: Information Technology**; University of Massachusetts Lowell - Lowell, MA
     
 1998-2001
-:   **Bachelor of Technology (B.Tech.) Degree, Double Major: Telecommunications and Computer Engineering**; National Polytechnic University Institute - Bamenda, CM / Our Saviour Institute of Science, Agriculture & Technology – Enugu, NG
+:   **Bachelor of Science (B.S.) Degree, Major: Electrical/Electronic Engineering, with Concentration in Electronics/Telecommunications and Computer Engineering**; National Polytechnic University Institute - Bamenda, CM / Our Saviour Institute of Science, Agriculture & Technology – Enugu, NG
 
 
 ----
