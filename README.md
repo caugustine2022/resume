@@ -2,7 +2,6 @@
 ### *MS, CDPSE* 
 ----
 
-
 #### *👉 💥 | Cloud/DevOps Engineer ⚡ Jr. Cybersecurity Researcher | …✍️*
 ----
 
@@ -88,6 +87,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 * Collected system information to aid in troubleshooting, documenting resources, monitoring for any behavior modifications and intrusion, and configuring the system to send log messages to the system’s centralized host.
 * Resolved package management dependency issues and collaborated with the development and operation team to troubleshoot and resolve issues.
 * Presented weekly system status reports and maintained documentation reports.
+
 
 
 ### Tar Technologies LLC.
