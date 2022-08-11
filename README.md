@@ -11,7 +11,7 @@
 ### **Professional Summary**
 ----
 
-An ardent, proactive, result-oriented professional in Cloud Computing and Software Development Operations Engineering, with over 6+ years of experience in the Information Technology industry solving complex problems with creative solutions, supporting software development and deployment operations in different environments. Expertise in Security and Software Development Operations, Site Reliability, Cloud Infrastructure, Linux Systems Administration, and an ISACA Certified Data Privacy Solutions Engineer. Having excelling skills in build and release management, software configuration management, cloud implementation and configurations, continuous integration and deployment, infrastructure provisioning and automation, containerization, and orchestrations. In addition, hands-on expertise in development operations tools and methodologies such as Git/GitHub, Docker, Kubernetes, Jenkins, Ansible, Terraform, and on-premises deployment, with added proficiency in Python, Bash, Groovy, YAML, and Shell Scripting. Finally, cutting-edge training and skills in identity access management, endpoint security, network security, data governance, risk management, and compliances, with a deep passion for enterprise-wide security management. Persistent, detailed-oriented with excellent interpersonal and team-working skills, and passionate about contributing my technical and analytical skills to ensure operational efficiency.  
+An ardent, proactive, result-oriented professional in Cloud Computing and Software Development Operations Engineering, with over 6+ years of experience in the Information Technology industry solving complex problems with creative solutions, supporting software development and deployment operations in different environments. Expertise in Security and Software Development Operations, Site Reliability, Cloud Infrastructure, Linux Systems Administration, and an ISACA Certified Data Privacy Solutions Engineer. Having excelling skills in build and release management, software configuration management, cloud implementation and configurations, continuous integration, continuous deployment, infrastructure provisioning and automation, containerization, and orchestrations. In addition, hands-on expertise in development operations tools and methodologies such as Git/GitHub, Docker, Kubernetes, Jenkins, Ansible, Terraform, and on-premises deployment, with added proficiency in Python, Bash, Groovy, YAML, and Shell Scripting. Finally, cutting-edge training and skills in identity access management, endpoint security, network security, data governance, risk management, and compliances, with a deep passion for enterprise-wide security management. Persistent, detailed-oriented with excellent interpersonal and team-working skills, and passionate about contributing my technical and analytical skills to ensure operational efficiency.  
 
 ----
 
@@ -19,19 +19,19 @@ An ardent, proactive, result-oriented professional in Cloud Computing and Softwa
 ----
 
 #### *Operating Systems Platforms:*
-| Win 7/8/10/11 / Server 2016/2019 | Linux Distributions: RedHat / CentOS / Ubuntu / Debian / Oracle Linux / Kali Linux | MacOS | Android | iOS | 
+Windows: | Win 7/8/10/11 / Server 2016/2019 | Unix/Linux Distributions: | MacOS | RedHat / CentOS / Ubuntu / Debian / Oracle Linux / Kali Linux | 
 
 #### *Cloud/DevOps Tools:* 
-| Cloud Platform: AWS | AWS Resources: EC2 / ELB / RDS / S3 / EBS / SNS / VPC / CloudWatch / Route 53 / Elastic IP | Configuration Management: Ansible / Puppet / Chef | Containerization/Orchestration: Docker / Kubernetes | Continuous Integration/Deployment: Jenkins / Chef / Ansible | Infrastructure Provisioning: Terraform | Infrastructure Automation: Gradle / Maven / Terraform / Chef / Puppet / CloudFormation | Version Control: Git/GitHub / Gitlab / BitBucket | Testing/Deployment: Golang / Go / Python / Python-Django | Ticket Tracking: Jira / Confluence / ServiceNow | Load Balancer: HAProxy / Nginx | Code Quality Integration: SonarQube | Scrum/Agile: Jira-Kanban board | Web/App Servers: Apache / Tomcat / Nginx / Gunicorn | Logging/Monitoring: Nagios / Splunk / Prometheus / CloudWatch / Grafana | Virtualization: Oracle VM VirtualBox | Network Protocols: DNS / DHCP / SMTP / FTP / VPN / TCP/IP / UDP / VoIP / NTP / NFS / HTTP/S / IPSEC / BGP | SSL/TLS | SSH |
+| Cloud Platform: AWS | AWS Resources: EC2 / ELB / RDS / S3 / EBS / SNS / VPC / CloudWatch / Route 53 / Elastic IP | Configuration Management: Ansible / Puppet / Chef | Containerization/Orchestration: Docker / Kubernetes | Continuous Integration/Deployment: Jenkins / Chef / Ansible | Infrastructure Provisioning: Terraform | Infrastructure Automation: Gradle / Maven / Terraform / Chef / Puppet / CloudFormation | Version Control: Git/GitHub / Gitlab / BitBucket | Testing/Deployment: Golang / Go / Python / Python-Django | Ticket Tracking: Jira / Confluence / ServiceNow | Load Balancer: HAProxy / Nginx | Code Quality Integration: SonarQube | Scrum/Agile: Jira-Kanban board | Web/App Servers: Apache / Tomcat / Nginx / Gunicorn | Logging/Monitoring: Nagios / Splunk / Prometheus / CloudWatch / Grafana | Package Management: | Nexus / JFrog | Virtualization: Oracle VM VirtualBox | Network Protocols: | DNS / DHCP / FTP / VPN / TCP/IP / UDP / NTP / NFS / HTTP/S / IPSEC / BGP | SSL/TLS | SSH |
 
 #### *Security Tools:*
-| Forensics/Network Analysis: Wireshark / NetWitness Investigator / Splunk | Vulnerability Management: Nessus / Nmap | Penetration Testing: Kali Linux | Firewalls: pfSense / Checkpoint | Endpoint Security: BitLocker / McFee / Symantec |
+| Analytics: | Wireshark / NetWitness Investigator / Splunk | Vulnerability Management: Nessus / Nmap | Penetration Testing: Kali Linux | Firewalls: pfSense / Checkpoint | Endpoint Security: BitLocker / McFee / Symantec |
 
 #### *Regulatory Standards:*
-| ISO27K Series | NIST SP 800-53 | PCI DSS | COBIT | FISMA | FedRAMP / STIG | HITRUST | HIPAA |
+| ISO27K Series | NIST SP 800-53 | PCI DSS | COBIT | FISMA | FedRAMP | HITRUST | HIPAA |
 
 #### *Scripting Languages:*
-| Python | Bash | Batch/PowerShell | Groovy | YAML |  
+| Python | Bash | Shell Script | Groovy | YAML |  
 
 
 ----
