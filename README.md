@@ -4,7 +4,7 @@
 
 ----
 
-#### *👉 💥 | Cloud/DevOps Engineer ⚡ Jr. Cybersecurity Researcher | …✍️*
+#### *👉 💥 | DevOps (Development Operations) Engineer ⚡ Jr. Cybersecurity Researcher | …✍️*
 ----
 
 
