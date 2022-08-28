@@ -75,7 +75,7 @@ An ardent, proactive, result-oriented professional in Development Operations Eng
 
 ### Data Service Group Inc.
 
-#### Linux Systems Engineer
+#### DevOps Linux Systems Engineer
 
 ##### *April 2017 - March 2019 / Bear, DE*
 
