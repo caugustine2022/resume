@@ -97,8 +97,8 @@ An ardent, proactive, result-oriented professional in Development Operations Eng
 
 ##### *January 2016 - March 2017 / Washington, DC*
 
-* Assisted in implementing a multilayer security system for the clients, including enhanced anti-virus, anti-spam, and anti-spyware software, reducing malware risk by 35% and helping increase positive customer feedback.
-* Assisted in patching security vulnerabilities, and implemented driver’s functionalities updates on Windows/Linux servers and workstations company-wide using WSUS, with 99% success.
+* Assisted in implementing a multilayer security system for various clients, including enhanced anti-virus, anti-spam, and anti-spyware software, reducing malware risk by 35% and helping increase positive customer feedback.
+* Assisted in patching security vulnerabilities and implementing driver’s functionalities updates on Windows/Linux servers and workstations company-wide using WSUS, with 99% success.
 * Assisted in writing and documenting updated security plans to meet the ISO 27K and the NIST 800.53 standards.
 * Helped slash risks by 30% and lowered malware threats by 40%, installing updates, using ad blockers, applying BitLocker administration, and monitoring.
 * Maintained and supported the internal security systems including anti-virus, IDS/IPS, identity access management, log management, patch management systems; Office 365, Azure, and firewalls security; and successfully reduced the number of identified computer malware by 40%.
