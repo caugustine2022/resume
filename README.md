@@ -41,7 +41,7 @@ An ardent, proactive, result-oriented professional in Development Operations Eng
 
 ### Data Service Group Inc.
 
-#### DevOps Site Reliability Engineer
+#### DevOps/Site Reliability Engineer
 
 ##### *April 2021 - Present / Bear, DE*
 
@@ -59,23 +59,23 @@ An ardent, proactive, result-oriented professional in Development Operations Eng
 
 ### Data Service Group Inc.
 
-#### AWS Cloud DevOps Engineer
+#### Associate Software Engineer (AWS Cloud & DevOps)
 
 ##### *March 2019 - April 2021 / Bear, DE*
 
 * Worked with and used the AWS resources (EC2, ELB, RDS, EBS, EFS, S3 Bucket & Glacier, VPC, SNS, LightSail, CloudShell, CloudWatch, CloudFormation), and serverless technologies (Lambda, API Gateway). Built fully automated CI/CD pipelines to deploy applications using Jenkins, Ansible, Docker, Nagios, Kubernetes, Terraform, and GitHub. 
-* Created custom Docker images with Docker File and pulled images from Docker hub and docker repositories. Created docker-compose.yml file templates to deploy images in docker containers managed by Docker Swarm.
-* Deployed a multi-tier infrastructure on AWS using Terraform. The application was configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database. The CloudWatch alarm and S3 bucket were configured to monitor performances and store log messages.
-* Performed S3 buckets creation and policies on the Identity and Access Management (IAM) role-based policies and customizing the JSON template; created VPCs and brought instances under them based on the requirement; then created Public and private subnets in the VPC and attached them to the EC2 instances based on the requirement, and launching AWS EC2 Cloud Instances using Amazon Images (Linux/ Ubuntu) and configuring launched instances concerning specific applications.
+* Deployed multi-tier infrastructures on AWS using Terraform; application configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database. The CloudWatch alarm and S3 bucket are configured to monitor performances and log message storage.
+* Performed S3 buckets creation and policies on the Identity Access Management (IAM) role-based policies and customizing the JSON template; created VPCs and brought instances under them based on the requirement; then created Public and private subnets in the VPC and attached them to the EC2 instances based on the requirement then launching AWS EC2 Cloud Instances using Amazon Images (Linux/Ubuntu) and configuring launched instances concerning specific applications.
 * Actively managed, improved, and monitored cloud infrastructure on AWS; EC2, S3, RDS, backups, patches, and auto-scaling. Configured AWS VPC with public and private subnets, configured routing tables, internet gateway, ACLs, and Security groups. Created and implemented Chef cookbooks for deployment and used Chef recipes to create deployments directly into Amazon EC2 instances.
-* Managed Kubernetes, running nodes, container snapshots, and images, and used Kubernetes to provide a platform for automating deployment, scaling, and operations of application containers across clusters of hosts.
+* Created custom Docker images with Docker file and pulled images from Docker hub and docker repositories. Created docker-compose.yml file templates to deploy images in docker containers managed by Docker Swarm. 
+* Managed Kubernetes running nodes, and container snapshots/images; used Kubernetes to provide a platform for automating deployment/scaling, and operations of containerized applications across clusters of the host.
 * Created Ansible YAML, Playbooks, and Roles for application deployments; and developed, debugged, and tested Python, BashShell, Groovy, YAML, and PowerShell scripts to automate deployments across multiple environments. Assisted in managing the business continuity in cloud-based environments, including server, file backup, and recovery, preparing and testing disaster recovery procedures, and helped Junior developers on the team with technical issue resolution
 
 
 
 ### Data Service Group Inc.
 
-#### DevOps Linux Systems Engineer
+#### Linux Systems Engineer
 
 ##### *April 2017 - March 2019 / Bear, DE*
 
