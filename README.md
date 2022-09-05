@@ -59,7 +59,7 @@ An ardent, proactive, result-oriented professional in Development Operations Eng
 
 ### Data Service Group Inc.
 
-#### Associate Software Engineer (AWS Cloud & DevOps)
+#### Associate AWS Cloud DevOps Software Engineer
 
 ##### *March 2019 - April 2021 / Bear, DE*
 
