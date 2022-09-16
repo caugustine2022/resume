@@ -32,7 +32,7 @@ An ardent, proactive, result-oriented professional in Development Operations Eng
 | ISO27K Series | NIST SP 800-53 | PCI DSS | COBIT | FISMA | FedRAMP | HITRUST | HIPAA |
 
 #### *Programming/Scripting Languages:*
-| Python | Bash | Groovy | HCL | YAML | PowerShell |  
+| Bash | Python | Groovy | HCL | YAML | PowerShell |  
 
 
 ----
