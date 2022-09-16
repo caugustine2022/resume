@@ -4,7 +4,7 @@
 
 ----
 
-#### *👉 💥 | DevOps (Development Operations) Engineer ⚡ Jr. Cybersecurity Researcher | …✍️*
+#### *👉 💥 | Sr. DevOps (Development Operations) Engineer ⚡ Jr. Cybersecurity Researcher | …✍️*
 ----
 
 
@@ -30,7 +30,7 @@ An ardent, proactive, result-oriented professional in Development Operations Eng
 #### *Regulatory Standards:*
 | ISO27K Series | NIST SP 800-53 | PCI DSS | COBIT | FISMA | FedRAMP | HITRUST | HIPAA |
 
-#### *Scripting Languages:*
+#### *Programming/Scripting Languages:*
 | Python | Bash | Groovy | HCL | YAML | PowerShell |  
 
 
@@ -59,7 +59,7 @@ An ardent, proactive, result-oriented professional in Development Operations Eng
 
 ### Data Service Group Inc.
 
-#### Associate Cloud DevOps Software Engineer
+#### Cloud DevOps Software Engineer
 
 ##### *March 2019 - April 2021 / Bear, DE*
 
@@ -84,7 +84,7 @@ An ardent, proactive, result-oriented professional in Development Operations Eng
 * Managed physical, virtual, and network storage (HD, LVM, NFS, NAS); installed, configured, and managed LAMP (Linux/Apache/MySQL/PHP) stacks.
 * Containerized an e-commerce application built with Python-Django; and set up Django with Postgres, Nginx, and Gunicorn on the Ubuntu server.
 * Performed user/group administration, file/directory security, authentication, and access management, using SSH and Firewalls.
-* Wrote crontab for scheduling automatics repetitive jobs and executing shell scripts; configured SELinux detection security software and hardened operating systems using iptables and filesystem access control lists (ACLs).
+* Wrote crontab for scheduling automatics repetitive jobs and executing bash shell scripts; configured SELinux detection security software and hardened operating systems using iptables and filesystem access control lists (ACLs).
 * Configured and managed network services (HTTP, NFS, SCP, NTP); troubleshot booting issues and identified and resolved the service failures affecting boot.
 * Collected system information to aid in troubleshooting, documenting resources, monitoring for any behavior modifications and intrusion, and configuring the system to send log messages to the system’s centralized host.
 * Resolved package management dependency issues and collaborated with the development and operation team to troubleshoot and resolve issues.
