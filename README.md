@@ -23,7 +23,7 @@ An ardent, proactive, result-oriented professional in Development Operations Eng
 | Windows: | Win 7/8/10/11 / Server 2016/2019 | Unix/Linux Distributions: | MacOS | RedHat / CentOS / Ubuntu / Debian / Oracle Linux / Kali Linux | 
 
 #### *Cloud/DevOps Tools:* 
-| Cloud Platform: AWS | AWS Resources: EC2 / ELB / RDS / S3 / EBS / SNS / VPC / CloudWatch / Route 53 / Elastic IP | Configuration Management: Ansible / Puppet / Chef | Containerization/Orchestration: Docker / Kubernetes | Continuous Integration/Deployment: Jenkins / Chef / Ansible | Provision Infrastructure as Code: Terraform / AWS CloudFormation | Infrastructure Automation: Gradle / Maven / Terraform / Chef / Puppet / AWS CloudFormation | Version Control: Git/GitHub / Gitlab / BitBucket | Testing/Deployment: Golang / Go / Python / Python-Django | Ticket Tracking: Jira / Confluence / ServiceNow | Load Balancer: HAProxy / Nginx | Code Quality Integration: SonarQube / Selenium | Scrum/Agile: Jira-Kanban board | Web/App Servers: Apache / Tomcat / Nginx / Gunicorn | Logging/Monitoring: Nagios / Splunk / Prometheus / CloudWatch / Grafana | Package Management: | Nexus / JFrog | Virtualization: Oracle VM VirtualBox | Network Protocols: | DNS / DHCP / FTP / VPN / TCP/IP / UDP / NTP / NFS / HTTP/S / IPSEC / BGP | SSL/TLS | SSH |
+| Cloud Platform: AWS | AWS Resources: EC2 / ELB / RDS / S3 / EBS / SNS / VPC / CloudWatch / Route 53 / Elastic IP | Configuration Management: Ansible / Puppet / Chef | Containerization/Orchestration: Docker / Kubernetes | Continuous Integration/Deployment: Jenkins / Chef / Ansible | Provision Infrastructure as Code: Terraform / AWS CloudFormation | Infrastructure Automation: Gradle / Maven / Terraform / Chef / Puppet / AWS CloudFormation | Version Control: Git/GitHub / Gitlab / BitBucket | Testing/Deployment: Golang / Go / Python / Python-Django | Ticket Tracking: Jira / Confluence / ServiceNow | Load Balancer: HAProxy / Nginx | Code Quality Integration: SonarQube / Selenium | Scrum/Agile: Jira-Kanban board | Web/App Servers: Apache / Tomcat / Nginx / Gunicorn | Logging/Monitoring: Nagios / Splunk / Prometheus / CloudWatch / Grafana | Artifactory (Package Management): | Nexus / JFrog |: | Nexus / JFrog | Virtualization: Oracle VM VirtualBox | Network Protocols: | DNS / DHCP / FTP / VPN / TCP/IP / UDP / NTP / NFS / HTTP/S / IPSEC / BGP | SSL/TLS | SSH |
 
 #### *Security Tools:*
 | Analytics: | Wireshark / NetWitness Investigator / Splunk | Vulnerability Management: Nessus / Nmap | Penetration Testing: Kali Linux | Endpoint Security/Firewalls: | CrowdStrike | pfSense |
@@ -31,7 +31,7 @@ An ardent, proactive, result-oriented professional in Development Operations Eng
 #### *Regulatory Standards:*
 | ISO27K Series | NIST SP 800-53 | PCI DSS | COBIT | FISMA | FedRAMP | HITRUST | HIPAA |
 
-#### *Programming/Scripting Languages:*
+#### *Scripting Languages:*
 | Bash | Python | Groovy | HCL | YAML | PowerShell |  
 
 
