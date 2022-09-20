@@ -47,7 +47,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ##### *April 2021 - Present / Bear, DE*
 
 * Worked closely with subject matter experts and the client's team to understand requirements, establish priorities and project scope, and manage expectations and project delivery.
-* Installed, configured, and administered the SonarQube for code quality check, generated reports for different projects, and integrated them into Jenkins. 
+* Installed, configured, and administered the SonarQube for code quality check, generated reports for different projects, and integrated them into Jenkins; installed/configured Java, Maven, Git on Jenkins.  
 * Installed and configured Jenkins master and slave nodes and set up jobs on the master to run on slaves; built CI/CD pipeline and managed the infrastructure as code using Ansible; configured Ansible and Ansible Tower as a configuration management tool to automate repetitive tasks, quickly deploys critical applications, and proactively manage change. Then, integrated Nagios with PagerDuty and wrote an Ansible playbook to automate the server’s onboardings and configurations. 
 * Worked in a team to containerize an e-commerce application built with Python-Django; and set up Django with Postgres, Nginx, and Gunicorn on the Ubuntu server.
 * Installed, configured, and managed monitoring tools such as Nagios for logging/monitoring and implemented security with IAM (roles, users, and permissions) and Key Management Service (KMS).
