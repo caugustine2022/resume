@@ -4,7 +4,7 @@
 
 ----
 
-#### *👉 💥 | Sr. DevOps (Development Operations) Engineer ⚡ Jr. Cybersecurity Researcher | …✍️*
+#### *👉 💥 | Sr. DevOps Platform Engineer ⚡ Jr. Cybersecurity Researcher | …✍️*
 ----
 
 
