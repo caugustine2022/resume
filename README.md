@@ -51,7 +51,6 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 * Worked closely with subject matter experts and the client’s team to understand requirements, establish priorities/project scope, and manage expectations and project delivery.
 * Installed, configured, and administered the SonarQube for code quality check, generated reports for different projects, and integrated them into Jenkins, and then installed and configured Java, Maven, and Git on Jenkins. Worked on JIRA for tracking and updating the JIRA tickets and per assigned; then initiated and troubleshot Continuous Delivery builds in Jenkins via JIRA tickets.
-* Monitored system activities like CPU, memory, disk, and swap space usage to avoid performance issues, ensuring the highest 24-hour/7-day critical system availability.
 * Assisted in designing monitoring and alerting strategies that identify early symptoms that can be addressed before outages occur using monitoring tools like; Nagios, PagerDuty, and Splunk.
 * Assisted in defining the technical/solution architecture software development delivery and provided hands-on technical direction working with other developers to review codes and resolve issues.
 * Worked with the development teams in the root-cause analysis of complex problems involving multiple parties, networks, hardware, and software related to scaling and performance. 
@@ -62,7 +61,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### Data Service Group Inc.
 
-#### DevOps Engineer
+#### DevOps Software Engineer
 
 ##### *April 2020 - April 2022 / Bear, DE*
 
@@ -77,7 +76,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### Data Service Group Inc.
 
-#### AWS Cloud DevOps Engineer
+#### Cloud DevOps Engineer
 
 ##### *March 2018 - April 2020 / Bear, DE*
 
@@ -96,11 +95,13 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ##### *April 2017 - March 2018 / Bear, DE*
 
 * Created, installed, and configured Linux virtual servers (RedHat, CentOS, Ubuntu, Debian, Kali Linux, oracle Linux) on Oracle VM VirtualBox using Vagrant cloud and Windows Virtual code.
-* Performed periodic system performance tuning, monitored vulnerability assessments, system updates, patch management, and analyzed application logs.
+* Monitored system activities like CPU, memory, disk, and swap space usage to avoid performance issues, ensuring the highest 24-hour/7-day critical system availability.
 * Managed physical, virtual, and network storage (HD, LVM, NFS, NAS); installed, configured, and managed LAMP (Linux/Apache/MySQL/PHP) stacks.
 * Performed user/group administration, file/directory security, authentication, and access management, using SSH and Firewalls.
 * Wrote crontab for scheduling automatics repetitive jobs and executing bash shell scripts; configured SELinux detection security software and hardened operating systems using iptables and filesystem access control lists (ACLs).
-* Configured and managed network services (HTTP, NFS, SCP, NTP); troubleshot booting issues and identified and resolved the service failures affecting boot.
+* Configured and managed network services (HTTP, NFS, SCP, NTP); troubleshot booting issues and identified and resolved the service failures affecting boot. 
+* Performed periodic system performance tuning, monitored vulnerability assessments, system updates, patch management, and analyzed application logs.
+
 
 
 
