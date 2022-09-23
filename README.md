@@ -50,11 +50,11 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ##### *April 2022 - Present / Bear, DE*
 
 * Worked closely with subject matter experts and the client’s team to understand requirements, establish priorities/project scope, and manage expectations and project delivery.
-* Installed, configured, and administered the SonarQube for code quality check, generated reports for different projects, and integrated them into Jenkins, and then installed and configured Java, Maven, and Git on Jenkins. Worked on JIRA for tracking and updating the JIRA tickets and per assigned; then initiated and troubleshot Continuous Delivery builds in Jenkins via JIRA tickets.
+* Installed, configured, and administered the SonarQube for code quality check, generated reports for different projects, integrated them into Jenkins, and then installed and configured Java, Maven, and Git on Jenkins. Worked on JIRA for tracking and updating the JIRA tickets and per assigned; then initiated and troubleshot Continuous Delivery builds in Jenkins via JIRA tickets.
 * Assisted in designing monitoring and alerting strategies that identify early symptoms that can be addressed before outages occur using monitoring tools like; Nagios, PagerDuty, and Splunk.
 * Assisted in defining the technical/solution architecture software development delivery and provided hands-on technical direction working with other developers to review codes and resolve issues.
 * Worked with the development teams in the root-cause analysis of complex problems involving multiple parties, networks, hardware, and software related to scaling and performance. 
-* Collected system information to aid in troubleshooting, documenting resources, monitoring for any behavior modifications and intrusion, and configuring the system to send log messages to the system’s centralized host. And then, resolved package management dependency issues and collaborated with the development and operation team to troubleshoot and resolve issues.
+* Collected system information to aid in troubleshooting, documenting resources, monitoring for any behavior modifications and intrusion, and configuring the system to send log messages to the system’s centralized host. And then resolved package management dependency issues and collaborated with the development and operation team to troubleshoot and resolve issues.
 * Undertook routine preventative measures; implemented, maintained, and monitored the network security, intrusion detection, and service usage costs; proposed more efficient/cost-effective solutions.
 
 
@@ -65,11 +65,11 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ##### *April 2020 - April 2022 / Bear, DE*
 
-* Worked in a team to create custom Docker images with Docker file and pulled images from Docker hub and docker repositories, and then created docker-compose.yml file templates to deploy images in docker containers managed by Docker-Swarm. 
+* Worked in a team to create custom Docker images with Docker file, pulled images from Docker hub and docker repositories, and then created docker-compose.yml file templates to deploy images in docker containers managed by Docker-Swarm. 
 * Worked in a team to containerize e-commerce applications built with Python-Django; and set up Django with Postgres, Nginx, and Gunicorn on the Ubuntu server. Then, installed, configured, and managed monitoring tools such as Nagios for logging/monitoring and implemented security with IAM (roles, users, and permissions) and Key Management Service (KMS).
-* Installed and configured Jenkins’ master and slave nodes and set up jobs on the master to run on slaves; built CI/CD pipeline and managed the infrastructure as code using Ansible. Then, configured Ansible and Ansible Tower as configuration management tools to automate repetitive tasks, quickly deploys critical applications, and proactively manage change.
-* Integrated Nagios with PagerDuty and wrote Ansible playbook to automate the server’s onboardings and configurations. Created Ansible YAML syntax Playbooks, and Roles for application deployments; and then developed, debugged, and tested Python, Bash, Groovy, YAML, and Shell scripts to automate deployments across multiple environments. 
-* Managed Kubernetes running nodes and container snapshots/images; and then used Kubernetes to provide a platform for automating deployment/scaling and operations of containerized applications across host clusters.
+* Installed and configured Jenkins’ master and slave nodes and set up jobs on the master to run on slaves; built CI/CD pipeline and managed the infrastructure as code using Ansible. Then, Ansible and Ansible Tower were configured as configuration management tools to automate repetitive tasks, quickly deploy critical applications, and proactively manage change.
+* Integrated Nagios with PagerDuty and wrote an Ansible playbook to automate the server’s onboardings and configurations. Created Ansible YAML syntax Playbooks and Roles for application deployments; and then developed, debugged, and tested Python, Bash, Groovy, YAML, and Shell scripts to automate deployments across multiple environments. 
+* Configured Kubernetes to orchestrate the deployment, scaling, and management of Docker Containers; then managed Kubernetes charts using Helm. Created reproducible builds of the Kubernetes applications, managed Kubernetes manifest files and managed the release of Helm packages.
 * Assisted in managing the business continuity in cloud-based environments, including server, file backup, and recovery, preparing and testing disaster recovery procedures, and helped Junior developers on the team with technical issue resolution.
 
 
@@ -82,8 +82,8 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 * Worked with and used the AWS resources (EC2, ELB, RDS, EBS, EFS, S3 Bucket & Glacier, VPC, SNS, LightSail, CloudShell, CloudWatch, CloudFront, CloudFormation); and serverless technologies (Lambda, API Gateway). Built fully automated CI/CD pipelines to deploy applications using Jenkins, Ansible, Docker, Nagios, Kubernetes, Terraform, and GitHub. 
 * Deployed multi-tier infrastructures on AWS using Terraform; application configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database. The CloudWatch alarm and S3 bucket are configured to monitor performances and log message storage.
-* Performed S3 buckets creation and policies on the Identity Access Management (IAM) role-based policies and customizing the JSON template. 
-* Created VPCs and brought instances under them based on the requirement; and then created the Public and private subnets in the VPC and attached them to the EC2 instances based on the requirement then launching AWS EC2 Cloud Instances using Amazon Images (Linux/Ubuntu) and configuring launched instances concerning specific applications.
+* Performed S3 buckets creation and policies on the Identity Access Management (IAM) role-based procedures and customized the JSON template. 
+* Created VPCs and brought instances under them based on the requirement; and then created the Public and private subnets in the VPC and attached them to the EC2 instances based on the requirement, then launched AWS EC2 Cloud Instances using Amazon Images (Linux/Ubuntu) and configuring launched instances concerning specific applications.
 * Actively managed, improved, and monitored cloud infrastructure on AWS; EC2, S3, RDS, backups, patches, and auto-scaling. Configured AWS VPC with public and private subnets, configured routing tables, internet gateway, ACLs, and Security groups. Created and implemented Chef cookbooks for deployment and used Chef recipes to create deployments directly into Amazon EC2 instances.
 
 
@@ -104,7 +104,6 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 
 
-
 ### Tar Technologies LLC.
 
 #### Information Security and Privacy Risk Analyst
@@ -113,11 +112,11 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 * Assisted in implementing a multilayer security system for various clients, including enhanced anti-virus, anti-spam, and anti-spyware software, reducing malware risk by 35% and helping increase positive customer feedback.
 * Assisted in patching security vulnerabilities and implementing driver’s functionalities updates on Windows/Linux servers and workstations company-wide using WSUS, with 99% success.
-* Assisted in writing and documenting updated security plans to meet the ISO 27K and the NIST 800.53 standards.
 * Helped slash risks by 30% and lowered malware threats by 40%, installing updates, using ad blockers, applying BitLocker administration, and monitoring.
-* Maintained and supported the internal security systems including anti-virus, IDS/IPS, identity access management, log management, patch management systems; Office 365, Azure, and firewalls security; and successfully reduced the number of identified computer malware by 40%.
-* Assisted in developing and implementing effective security plans to maintain the security of computer files against unauthorized modification, destruction, and disclosure, gaining a 99% rate on overall company data security.
+* Maintained and supported the internal security systems, including anti-virus, IDS/IPS, identity access management, log management, patch management systems; Office 365, Azure, and firewalls security; and successfully reduced the number of identified computer malware by 40%.
+* Assisted in developing and implementing effective security plans to maintain the security of computer files against unauthorized modification, destruction, and disclosure, gaining a 99% rate on overall company data security, and then assisted in writing and documenting updated security plans to meet the ISO 27K and the NIST 800.53 standards.
 * Participated in the incident response processes and performed threat analysis in a 24/7 environment, mitigating and managing all threats and risks with a 90% success rate.
+
 
 
 ----
