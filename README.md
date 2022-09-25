@@ -28,7 +28,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 
 #### *Security Tools:*
-| Analytics: | Wireshark / NetWitness Investigator / SonarQube / Splunk | Vulnerability Management: Nessus / Nmap | Penetration Testing: Kali Linux | Endpoint Security/Firewalls: | CrowdStrike | pfSense |
+| Analytics: | Wireshark / NetWitness Investigator / SonarQube / Splunk | Vulnerability Management: Nessus / Nmap | Penetration Testing: Kali Linux | Endpoint Security/Firewalls: | CrowdStrike / pfSense |
 
 #### *Regulatory Standards:*
 | ISO27K Series | NIST SP 800-53 | PCI DSS | COBIT | FISMA | FedRAMP | HITRUST | HIPAA |
@@ -50,7 +50,8 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ##### *April 2022 - Present / Bear, DE*
 
 * Worked closely with subject matter experts and the client’s team to understand requirements, establish priorities/project scope, and manage expectations and project delivery.
-* Installed, configured, and administered the SonarQube for code quality check, generated reports for different projects, integrated them into Jenkins, and then installed and configured Java, Maven, and Git on Jenkins. Worked on JIRA for tracking and updating the JIRA tickets and per assigned; then initiated and troubleshot Continuous Delivery builds in Jenkins via JIRA tickets.
+* Installed, configured, and administered the SonarQube for code quality check, generated reports for different projects, integrated them into Jenkins, and then installed and configured Java, Maven, and Git on Jenkins. 
+* Worked on JIRA for tracking and updating the JIRA tickets and per assigned; then initiated and troubleshot Continuous Delivery builds in Jenkins via JIRA tickets.
 * Assisted in designing monitoring and alerting strategies that identify early symptoms that can be addressed before outages occur using monitoring tools like; Nagios, PagerDuty, and Splunk.
 * Assisted in defining the technical/solution architecture software development delivery and provided hands-on technical direction working with other developers to review codes and resolve issues.
 * Worked with the development teams in the root-cause analysis of complex problems involving multiple parties, networks, hardware, and software related to scaling and performance. 
