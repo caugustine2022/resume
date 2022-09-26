@@ -67,10 +67,12 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ##### *April 2020 - April 2022 / Bear, DE*
 
 * Worked in a team to create custom Docker images with Docker file, pulled images from Docker hub and docker repositories, and then created docker-compose.yml file templates to deploy images in docker containers managed by Docker-Swarm. 
-* Worked in a team to containerize e-commerce applications built with Python-Django; and set up Django with Postgres, Nginx, and Gunicorn on the Ubuntu server. Then, installed, configured, and managed monitoring tools such as Nagios for logging/monitoring and implemented security with IAM (roles, users, and permissions) and Key Management Service (KMS).
-* Installed and configured Jenkins’ master and slave nodes and set up jobs on the master to run on slaves; built CI/CD pipeline and managed the infrastructure as code using Ansible. Then, Ansible and Ansible Tower were configured as configuration management tools to automate repetitive tasks, quickly deploy critical applications, and proactively manage change.
+* Worked in a team to containerize e-commerce applications built with Python-Django; and set up Django with Postgres, Nginx, and Gunicorn on the Ubuntu server. 
+* Built fully automated CI/CD pipelines to deploy applications using Jenkins, Ansible, Docker, Nagios, Kubernetes, Terraform, and GitHub. 
+* Installed and configured Jenkins’ master and agent nodes and set up jobs on the master to run on agents; built CI/CD pipeline and managed the infrastructure as code using Ansible. 
+* Configured Ansible and Ansible Tower as configuration management tools to automate repetitive tasks, quickly deploy critical applications, and proactively manage change.
 * Integrated Nagios with PagerDuty and wrote an Ansible playbook to automate the server’s onboardings and configurations. Created Ansible YAML syntax Playbooks and Roles for application deployments; and then developed, debugged, and tested Python, Bash, Groovy, YAML, and Shell scripts to automate deployments across multiple environments. 
-* Configured Kubernetes to orchestrate the deployment, scaling, and management of Docker Containers; then managed Kubernetes charts using Helm. Created reproducible builds of the Kubernetes applications, managed Kubernetes manifest files and managed the release of Helm packages.
+* Configured Kubernetes to orchestrate the deployment, scaling, and management of Docker Containers; then managed Kubernetes charts using Helm. Created reproducible builds of the Kubernetes applications, managed Kubernetes manifest files, and managed the release of Helm packages.
 * Assisted in managing the business continuity in cloud-based environments, including server, file backup, and recovery, preparing and testing disaster recovery procedures, and helped Junior developers on the team with technical issue resolution.
 
 
@@ -81,11 +83,12 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ##### *March 2018 - April 2020 / Bear, DE*
 
-* Worked with and used the AWS resources (EC2, ELB, RDS, EBS, EFS, S3 Bucket & Glacier, VPC, SNS, LightSail, CloudShell, CloudWatch, CloudFront, CloudFormation); and serverless technologies (Lambda, API Gateway). Built fully automated CI/CD pipelines to deploy applications using Jenkins, Ansible, Docker, Nagios, Kubernetes, Terraform, and GitHub. 
+* Worked with and used the AWS resources (EC2, ELB, RDS, EBS, EFS, S3 Bucket & Glacier, VPC, SNS, LightSail, CloudShell, CloudWatch, CloudFront, CloudFormation); and serverless technologies (Lambda, API Gateway). 
 * Deployed multi-tier infrastructures on AWS using Terraform; application configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database. The CloudWatch alarm and S3 bucket are configured to monitor performances and log message storage.
 * Performed S3 buckets creation and policies on the Identity Access Management (IAM) role-based procedures and customized the JSON template. 
-* Created VPCs and brought instances under them based on the requirement; and then created the Public and private subnets in the VPC and attached them to the EC2 instances based on the requirement, then launched AWS EC2 Cloud Instances using Amazon Images (Linux/Ubuntu) and configuring launched instances concerning specific applications.
-* Actively managed, improved, and monitored cloud infrastructure on AWS; EC2, S3, RDS, backups, patches, and auto-scaling. Configured AWS VPC with public and private subnets, configured routing tables, internet gateway, ACLs, and Security groups. Created and implemented Chef cookbooks for deployment and used Chef recipes to create deployments directly into Amazon EC2 instances.
+* Installed, configured, and managed monitoring tools such as Nagios for logging/monitoring and implemented security with IAM (roles, users, and permissions) and Key Management Service (KMS).
+* Created VPCs and brought instances under them based on the requirement; and then, created the Public and private subnets in the VPC and attached them to the EC2 instances based on the requirement, then launched AWS EC2 Cloud Instances using Amazon Images (Linux/Ubuntu) and configuring launched instances concerning specific applications.
+* Actively managed, improved, and monitored cloud infrastructure on AWS; EC2, S3, RDS, backups, patches, and auto-scaling. Configured AWS VPC with public and private subnets, configured routing tables, internet gateway, ACLs, and Security groups. Created and implemented Chef cookbooks for deployment and used Chef recipes to create deployments directly into Amazon EC2 instances. 
 
 
 
