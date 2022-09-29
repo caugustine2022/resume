@@ -64,7 +64,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 #### DevOps Engineer (FTE)
 
-##### *April 2020 - April 2022 / Bear, DE*
+##### *April 2020 - March 2022 / Bear, DE*
 
 * Worked in a team to create custom Docker images with Docker file, pulled images from Docker hub and docker repositories, and then created docker-compose.yml file templates to deploy images in docker containers managed by Docker-Swarm. 
 * Worked in a team to containerize e-commerce applications built with Python-Django; and set up Django with Postgres, Nginx, and Gunicorn on the Ubuntu server. 
@@ -81,7 +81,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 #### Linux Cloud Engineer (FTE)
 
-##### *March 2018 - April 2020 / Bear, DE*
+##### *March 2018 - April 2019 / Bear, DE*
 
 * Worked with and used the AWS resources (EC2, ELB, RDS, EBS, EFS, S3 Bucket & Glacier, VPC, SNS, LightSail, CloudShell, CloudWatch, CloudFront, CloudFormation); and serverless technologies (Lambda, API Gateway). 
 * Deployed multi-tier infrastructures on AWS using Terraform; application configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database. The CloudWatch alarm and S3 bucket are configured to monitor performances and log message storage.
