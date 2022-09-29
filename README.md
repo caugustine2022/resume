@@ -79,7 +79,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### Data Service Group Inc.
 
-#### Linux Cloud Engineer (FTE)
+#### AWS Cloud Engineer (FTE)
 
 ##### *March 2018 - April 2019 / Bear, DE*
 
