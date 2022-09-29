@@ -92,11 +92,11 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 
 
-### Data Service Group Inc.
+### Newfield Wireless Inc. | NETSCOUT
 
 #### UNIX/Linux Systems Engineer
 
-##### *April 2017 - March 2018 / Bear, DE*
+##### *April 2017 - December 2018 / Berkeley, CA*
 
 * Created, installed, and configured Linux virtual servers (RedHat, CentOS, Ubuntu, Debian, Kali Linux, oracle Linux) on Oracle VM VirtualBox using Vagrant cloud and Windows Virtual code.
 * Monitored system activities like CPU, memory, disk, and swap space usage to avoid performance issues, ensuring the highest 24-hour/7-day critical system availability.
