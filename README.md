@@ -11,7 +11,7 @@
 ### **Professional Summary**
 ----
 
-An ardent, proactive, result-oriented professional in Software Development Operations and Security Engineering, with over 6+ years of experience in the computing industry providing innovative solutions to complex technical problems supporting various software development and deployment operations in different environments. Experienced in all phases of Software Development Life Cycle, Development Operations Life Cycle, Quality Assurance Life Cycle, User Acceptance Testing, Build and Release Management, Software Configuration Management, Linux Systems Administration, Continuous Integration, Continuous Deployment, Cloud Infrastructure; Configurations, Implementations, Automation, Security, and an ISACA Certified Data Privacy Solutions Engineer. Moreover, hands-on experience in tools and methodologies such as Git/GitHub, Amazon Web Services, Jenkins, Maven, SonarQube, Selenium, Ansible, Chef, Tomcat, Docker, Kubernetes, Terraform, Linux, and on-premises deployment; with added scripting proficiency in Bash, Python, Groovy, HCL, YAML, and Shell Script. Again, added skills in Identity Access Management, Endpoint Security, Network Security, Data Governance, and Risk Management. In summary, I’m persistent, detailed-oriented with excellent interpersonal and team-working skills, and passionate about contributing my technical and analytical skills to ensure operational efficiency.    
+An ardent, proactive, result-oriented professional in Software Development Operations and Security Engineering, with over 8+ years of experience in the computing industry providing innovative solutions to complex technical problems supporting various software development and deployment operations in different environments. Experienced in all phases of Software Development Life Cycle (SDLC), Build and Release Management, Software Configuration Management (SCM), Continuous Integration (CI), Continuous Delivery (CD), Cloud Computing Infrastructure, Linux Systems Administration, and an ISACA Certified Data Privacy Solutions Engineer. Moreover, hands-on experience in tools and methodologies such as Git/GitHub, Amazon Web Services, Jenkins, Maven, SonarQube, Selenium, Ansible, Chef, Tomcat, Docker, Kubernetes, Terraform, Linux, and on-premises deployment; with added scripting proficiency in Bash, Python, Groovy, HCL, YAML, and Shell Script. Again, added skills in Identity Access Management, Endpoint Security, Network Security, Data Governance, and Risk Management. In summary, I’m persistent, detailed-oriented with excellent interpersonal and team-working skills, and passionate about contributing my technical and analytical skills to ensure operational efficiency.    
 
 
 ----
@@ -83,7 +83,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ##### *March 2018 - April 2019 / Bear, DE*
 
-* Worked with and used the AWS resources (EC2, ELB, RDS, EBS, EFS, S3 Bucket & Glacier, VPC, SNS, LightSail, CloudShell, CloudWatch, CloudFront, CloudFormation); and serverless technologies (Lambda, API Gateway). 
+* Worked with and used the AWS resources (EC2, ELB, RDS, EBS, EFS, S3 Bucket, VPC, SNS, LightSail, CloudWatch, CloudFront, CloudFormation); and serverless technologies (Lambda, API Gateway). 
 * Deployed multi-tier infrastructures on AWS using Terraform; application configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database. The CloudWatch alarm and S3 bucket are configured to monitor performances and log message storage.
 * Performed S3 buckets creation and policies on the Identity Access Management (IAM) role-based procedures and customized the JSON template. 
 * Installed, configured, and managed monitoring tools such as Nagios for logging/monitoring and implemented security with IAM (roles, users, and permissions) and Key Management Service (KMS).
@@ -114,7 +114,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ##### *January 2016 - March 2017 / Washington, DC*
 
-* Assisted in implementing a multilayer security system for various clients, including enhanced anti-virus, anti-spam, and anti-spyware software, reducing malware risk by 35% and helping increase positive customer feedback.
+* Assisted in implementing a multilayer security system for various clients, including enhanced antivirus, antispam, and antispyware apps, reducing malware risk by 35% with increased customer feedback.
 * Assisted in patching security vulnerabilities and implementing driver’s functionalities updates on Windows/Linux servers and workstations company-wide using WSUS, with 99% success.
 * Helped slash risks by 30% and lowered malware threats by 40%, installing updates, using ad blockers, applying BitLocker administration, and monitoring.
 * Maintained and supported the internal security systems, including anti-virus, IDS/IPS, identity access management, log management, patch management systems; Office 365, Azure, and firewalls security; and successfully reduced the number of identified computer malware by 40%.
