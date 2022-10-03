@@ -158,7 +158,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ### **Interests/Hobbies** 
 ----
 
-* Smart Devices, Internet-of-Things, Machine Learning, Artificial Intelligence, and Renewable Energy.
+* Smart Devices, Internet-of-Things, Machine Learning, Artificial Intelligence, Cloud Computing, and Renewable Energy.
 * Soccer, Volleyball, Tennis, Research Writing, Volunteering, and Travelling.
 
 
