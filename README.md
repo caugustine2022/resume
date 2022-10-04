@@ -34,7 +34,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 | ISO27K Series | NIST SP 800-53 | PCI DSS | COBIT | FISMA | FedRAMP | HITRUST | HIPAA |
 
 #### *Scripting Languages:*
-| Bash | Python | Groovy | HCL | YAML | PowerShell |  
+| Bash | Python | Groovy | HCL | YAML | Shell Script |  
 
 
 
@@ -92,7 +92,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 
 
-### Newfield Wireless Inc. | NETSCOUT
+### Newfield Wireless Inc.
 
 #### UNIX/Linux Systems Engineer (PTE)
 
