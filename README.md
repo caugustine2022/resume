@@ -34,7 +34,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 | ISO27K Series | NIST SP 800-53 | PCI DSS | COBIT | FISMA | FedRAMP | HITRUST | HIPAA |
 
 #### *Scripting Languages:*
-| Bash | Python | Groovy | HCL | YAML | Shell Script |  
+| Bash | Python | PowerShell | Groovy | HCL | YAML | Shell Script |  
 
 
 
@@ -66,7 +66,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ##### *April 2020 - March 2022 / Bear, DE*
 
-* Worked in a team to create custom Docker images with Docker file, pulled images from Docker hub and docker repositories, and then created docker-compose.yml file templates to deploy images in docker containers managed by Docker-Swarm. 
+* Worked in a team to create custom Docker images with Docker files, pulled images from Docker hub and docker repositories, and then created docker-compose.yml file templates to deploy images in docker containers managed by Docker-Swarm. 
 * Worked in a team to containerize e-commerce applications built with Python-Django; and set up Django with Postgres, Nginx, and Gunicorn on the Ubuntu server. 
 * Built fully automated CI/CD pipelines to deploy applications using Jenkins, Ansible, Docker, Nagios, Kubernetes, Terraform, and GitHub. 
 * Installed and configured Jenkins’ main and agent nodes and set up jobs on the main to run on agents; built CI/CD pipeline and managed the infrastructure as code using Ansible. 
