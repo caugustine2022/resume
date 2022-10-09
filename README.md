@@ -24,12 +24,10 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ----
 
 #### *Operating Systems Platforms:*
-
 ###### Windows: | *Win 7/8/10/11 / Server 2016/2019* | 
 ###### Unix/Linux Distributions: | *MacOS | RedHat / CentOS / Ubuntu / Debian / Oracle Linux / Kali Linux* | 
 
 #### *Cloud/DevOps Tools:* 
-
 ###### Cloud Platform: | *AWS* | 
 ###### AWS Resources: | *EC2 / ELB / RDS / S3 / EBS / SNS / VPC / CloudWatch / Route 53 / Elastic IP* | 
 ###### Configuration Management: | *Ansible / Puppet / Chef* | 
@@ -50,18 +48,15 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ###### Network Protocols: | *DNS / DHCP / FTP / VPN / TCP/IP / UDP / NTP / NFS / HTTP/S / IPSEC / BGP / SSL/TLS / SSH* |
 
 #### *Security Tools:*
-
 ###### Analytics: | *Wireshark / NetWitness Investigator / SonarQube / Splunk* | 
 ###### Vulnerability Management: | *Nessus / Nmap* | 
 ###### Penetration Testing: | *Kali Linux* | 
 ###### Endpoint Security/Firewalls: | *CrowdStrike / pfSense* |
 
 #### *Regulatory Standards:*
-
 ###### | ISO27K Series | NIST SP 800-53 | PCI DSS | COBIT | FISMA | FedRAMP | HITRUST | HIPAA |
 
 #### *Scripting Languages:*
-
 ###### | Bash | Python | PowerShell | Groovy | HCL | YAML | Shell Script |  
 
 
@@ -74,7 +69,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### Data Service Group Inc.
 
-#### Site Reliability Engineer *(Contract)*
+#### Site Reliability Engineer /*(Contract)*
 
 ##### *April 2022 - Present / Bear, DE*
 
@@ -90,7 +85,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### Data Service Group Inc.
 
-#### DevOps Engineer *(FTE)*
+#### DevOps Engineer /*(FTE)*
 
 ##### *April 2020 - March 2022 / Bear, DE*
 
@@ -106,7 +101,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### Data Service Group Inc.
 
-#### AWS Cloud Engineer *(FTE)*
+#### AWS Cloud Engineer /*(FTE)*
 
 ##### *March 2018 - April 2019 / Bear, DE*
 
@@ -120,7 +115,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### Newfield Wireless Inc.
 
-#### UNIX/Linux Systems Engineer *(PTE)*
+#### UNIX/Linux Systems Engineer /*(PTE)*
 
 ##### *April 2017 - March 2019 / Berkeley, CA*
 
@@ -135,7 +130,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### Tar Technologies LLC.
 
-#### Information Security and Privacy Risk Analyst *(Contract)*
+#### Information Security and Privacy Risk Analyst /*(Contract)*
 
 ##### *January 2016 - March 2017 / Washington, DC*
 
