@@ -20,19 +20,19 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ----
 
 #### *Operating Systems Platforms:*
-###### Windows: *| Win 7/8/10/11 / Server 2016/2019 |* 
-###### Unix/Linux Distributions: *| MacOS | RedHat / CentOS / Ubuntu / Debian / Oracle Linux / Kali Linux |* 
+###### Windows: | *Win 7/8/10/11 / Server 2016/2019* | 
+###### Unix/Linux Distributions: | *MacOS | RedHat / CentOS / Ubuntu / Debian / Oracle Linux / Kali Linux* | 
 
 #### *Cloud/DevOps Tools:* 
 ###### Cloud Platform: | *AWS* | 
 ###### AWS Resources: | *EC2 / ELB / RDS / S3 / EBS / SNS / VPC / CloudWatch / Route 53 / Elastic IP* | 
 ###### Configuration Management: | *Ansible / Puppet / Chef* | 
 ###### Containerization/Orchestration: | *Docker / Kubernetes* | 
-###### Continuous Integration/Deployment (CI/CD): | *Jenkins / Chef / Ansible* | 
+###### Continuous Integration/Deployment (CI/CD): | *Jenkins / Ansible* | 
 ###### Infrastructure Automation (IaC): | *Terraform / AWS CloudFormation* | 
-###### Infrastructure Automation (Build): | *Gradle / Maven / Terraform / Chef / Puppet / AWS CloudFormation* | 
+###### Infrastructure Automation (Build): | *Gradle / Maven / Terraform / AWS CloudFormation* | 
 ###### Version Control: | *Git/GitHub / Gitlab / BitBucket* | 
-###### Testing/Deployment: | *Golang / Go / Python / Python-Django* | 
+###### Testing/Deployment: | *Golang/Go / Python / Python-Django* | 
 ###### Ticket Tracking: | *JIRA-Confluence / ServiceNow* | 
 ###### Load Balancer: | *HAProxy / Nginx* | 
 ###### Code Quality Integration: | *SonarQube/SonarCloud / Selenium* | 
