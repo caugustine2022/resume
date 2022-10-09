@@ -18,8 +18,8 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ----
 ----
-### **Skills Highlights**
 
+### **Skills Highlights**
 ----
 ----
 
