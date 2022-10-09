@@ -24,30 +24,30 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ###### Unix/Linux Distributions: *| MacOS | RedHat / CentOS / Ubuntu / Debian / Oracle Linux / Kali Linux |* 
 
 #### *Cloud/DevOps Tools:* 
-###### Cloud Platform: *AWS |* 
-###### AWS Resources: *| EC2 / ELB / RDS / S3 / EBS / SNS / VPC / CloudWatch / Route 53 / Elastic IP |* 
-###### Configuration Management: *| Ansible / Puppet / Chef |* 
-###### Containerization/Orchestration: *Docker / Kubernetes |* 
-###### Continuous Integration/Deployment (CI/CD): *| Jenkins / Chef / Ansible |* 
-###### Infrastructure Automation (IaC): *| Terraform / AWS CloudFormation |* 
-###### Infrastructure Automation (Build): *| Gradle / Maven / Terraform / Chef / Puppet / AWS CloudFormation |* 
-###### Version Control: *| Git/GitHub / Gitlab / BitBucket |* 
-###### Testing/Deployment: *| Golang / Go / Python / Python-Django |* 
-###### Ticket Tracking: *| JIRA-Confluence / ServiceNow |* 
-###### Load Balancer: *| HAProxy / Nginx |* 
-###### Code Quality Integration: *| SonarQube/SonarCloud / Selenium |* 
-###### Scrum/Agile: *| JIRA-Kanban board |* 
-###### Web/App Servers: *| Apache / Tomcat / Nginx / Gunicorn |* 
-###### Logging/Monitoring: *| Nagios / Splunk / Prometheus / CloudWatch / Grafana |* 
-###### Artifactory (Package Management): *| Nexus / JFrog / S3 |* 
-###### Virtualization: *| Oracle VM VirtualBox |* 
-###### Network Protocols: *| DNS / DHCP / FTP / VPN / TCP/IP / UDP / NTP / NFS / HTTP/S / IPSEC / BGP | SSL/TLS | SSH |*
+###### Cloud Platform: | *AWS* | 
+###### AWS Resources: | *EC2 / ELB / RDS / S3 / EBS / SNS / VPC / CloudWatch / Route 53 / Elastic IP* | 
+###### Configuration Management: | *Ansible / Puppet / Chef* | 
+###### Containerization/Orchestration: | *Docker / Kubernetes* | 
+###### Continuous Integration/Deployment (CI/CD): | *Jenkins / Chef / Ansible* | 
+###### Infrastructure Automation (IaC): | *Terraform / AWS CloudFormation* | 
+###### Infrastructure Automation (Build): | *Gradle / Maven / Terraform / Chef / Puppet / AWS CloudFormation* | 
+###### Version Control: | *Git/GitHub / Gitlab / BitBucket* | 
+###### Testing/Deployment: | *Golang / Go / Python / Python-Django* | 
+###### Ticket Tracking: | *JIRA-Confluence / ServiceNow* | 
+###### Load Balancer: | *HAProxy / Nginx* | 
+###### Code Quality Integration: | *SonarQube/SonarCloud / Selenium* | 
+###### Scrum/Agile: | *JIRA-Kanban board* | 
+###### Web/App Servers: | *Apache / Tomcat / Nginx / Gunicorn* | 
+###### Logging/Monitoring: | *Nagios / Splunk / Prometheus / CloudWatch / Grafana* | 
+###### Artifactory (Package Management): | *Nexus / JFrog / S3* | 
+###### Virtualization: | *Oracle VM VirtualBox* | 
+###### Network Protocols: | *DNS / DHCP / FTP / VPN / TCP/IP / UDP / NTP / NFS / HTTP/S / IPSEC / BGP | SSL/TLS | SSH* |
 
 #### *Security Tools:*
-###### Analytics: *| Wireshark / NetWitness Investigator / SonarQube / Splunk |* 
-###### Vulnerability Management: *| Nessus / Nmap |* 
-###### Penetration Testing: *| Kali Linux |* 
-###### Endpoint Security/Firewalls: *| CrowdStrike / pfSense |*
+###### Analytics: | *Wireshark / NetWitness Investigator / SonarQube / Splunk* | 
+###### Vulnerability Management: | *Nessus / Nmap* | 
+###### Penetration Testing: | *Kali Linux* | 
+###### Endpoint Security/Firewalls: | *CrowdStrike / pfSense* |
 
 #### *Regulatory Standards:*
 ###### | ISO27K Series | NIST SP 800-53 | PCI DSS | COBIT | FISMA | FedRAMP | HITRUST | HIPAA |
