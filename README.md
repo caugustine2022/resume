@@ -119,7 +119,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 * Performed user/group administration, file/directory security, authentication, and access management, using SSH and Firewalls.
 * Wrote crontab for scheduling automatics repetitive jobs and executing bash shell scripts; configured SELinux detection security software and hardened operating systems using iptables and filesystem access control lists (ACLs).
 * Configured and managed network services (HTTP, NFS, SCP, NTP); troubleshot booting issues and identified and resolved the service failures affecting boot. 
-* Performed periodic system performance tuning, monitored vulnerability assessments, analyzed application logs and used Ansible as configuration management tool for patch managment and system updates.
+* Performed periodic system performance tuning, monitored vulnerability assessments, analyzed application logs, and used Ansible as a configuration management tool for system updates and patch management.
 
 
 ### Tar Technologies LLC.
