@@ -24,6 +24,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ----
 
 #### *Operating Systems Platforms:*
+####
 ###### Windows: | *Win 7/8/10/11 / Server 2016/2019* | 
 ###### Unix/Linux Distributions: | *MacOS | RedHat / CentOS / Ubuntu / Debian / Oracle Linux / Kali Linux* | 
 
