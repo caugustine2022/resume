@@ -22,12 +22,14 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ### **Skills Highlights**
 ----
 ----
-#### **
+
 #### *Operating Systems Platforms:*
+
 ###### Windows: | *Win 7/8/10/11 / Server 2016/2019* | 
 ###### Unix/Linux Distributions: | *MacOS | RedHat / CentOS / Ubuntu / Debian / Oracle Linux / Kali Linux* | 
 
 #### *Cloud/DevOps Tools:* 
+
 ###### Cloud Platform: | *AWS* | 
 ###### AWS Resources: | *EC2 / ELB / RDS / S3 / EBS / SNS / VPC / CloudWatch / Route 53 / Elastic IP* | 
 ###### Configuration Management: | *Ansible / Puppet / Chef* | 
@@ -48,15 +50,18 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ###### Network Protocols: | *DNS / DHCP / FTP / VPN / TCP/IP / UDP / NTP / NFS / HTTP/S / IPSEC / BGP / SSL/TLS / SSH* |
 
 #### *Security Tools:*
+
 ###### Analytics: | *Wireshark / NetWitness Investigator / SonarQube / Splunk* | 
 ###### Vulnerability Management: | *Nessus / Nmap* | 
 ###### Penetration Testing: | *Kali Linux* | 
 ###### Endpoint Security/Firewalls: | *CrowdStrike / pfSense* |
 
 #### *Regulatory Standards:*
+
 ###### | ISO27K Series | NIST SP 800-53 | PCI DSS | COBIT | FISMA | FedRAMP | HITRUST | HIPAA |
 
 #### *Scripting Languages:*
+
 ###### | Bash | Python | PowerShell | Groovy | HCL | YAML | Shell Script |  
 
 
