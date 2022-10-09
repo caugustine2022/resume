@@ -1,4 +1,4 @@
-# Augustine Ngen, {\*MS, CDPSE*}[1] 
+# Augustine Ngen, * MS, CDPSE * 
 
 
 ----
