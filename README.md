@@ -20,43 +20,40 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ----
 
 #### *Operating Systems Platforms:*
-###### Windows: | Win 7/8/10/11 / Server 2016/2019 | 
-###### Unix/Linux Distributions: | MacOS | RedHat / CentOS / Ubuntu / Debian / Oracle Linux / Kali Linux | 
-
+###### Windows: *| Win 7/8/10/11 / Server 2016/2019 |* 
+###### Unix/Linux Distributions: *| MacOS | RedHat / CentOS / Ubuntu / Debian / Oracle Linux / Kali Linux |* 
 
 #### *Cloud/DevOps Tools:* 
 ###### Cloud Platform: *AWS |* 
-###### AWS Resources: *EC2 / ELB / RDS / S3 / EBS / SNS / VPC / CloudWatch / Route 53 / Elastic IP |* 
-###### Configuration Management: *Ansible / Puppet / Chef |* 
+###### AWS Resources: *| EC2 / ELB / RDS / S3 / EBS / SNS / VPC / CloudWatch / Route 53 / Elastic IP |* 
+###### Configuration Management: *| Ansible / Puppet / Chef |* 
 ###### Containerization/Orchestration: *Docker / Kubernetes |* 
-###### Continuous Integration/Deployment (CI/CD): *Jenkins / Chef / Ansible |* 
-###### Infrastructure Automation (IaC): *Terraform / AWS CloudFormation |* 
-###### Infrastructure Automation (Build): *Gradle / Maven / Terraform / Chef / Puppet / AWS CloudFormation |* 
-###### Version Control: *Git/GitHub / Gitlab / BitBucket |* 
-###### Testing/Deployment: *Golang / Go / Python / Python-Django |* 
-###### Ticket Tracking: *JIRA-Confluence / ServiceNow |* 
-###### Load Balancer: *HAProxy / Nginx |* 
-###### Code Quality Integration: *SonarQube/SonarCloud / Selenium |* 
-###### Scrum/Agile: *JIRA-Kanban board |* 
-###### Web/App Servers: *Apache / Tomcat / Nginx / Gunicorn |* 
-###### Logging/Monitoring: *Nagios / Splunk / Prometheus / CloudWatch / Grafana |* 
-###### Artifactory (Package Management): *Nexus / JFrog / S3 |* 
-###### Virtualization: *Oracle VM VirtualBox |* 
-###### Network Protocols: *DNS / DHCP / FTP / VPN / TCP/IP / UDP / NTP / NFS / HTTP/S / IPSEC / BGP | SSL/TLS | SSH |*
-
+###### Continuous Integration/Deployment (CI/CD): *| Jenkins / Chef / Ansible |* 
+###### Infrastructure Automation (IaC): *| Terraform / AWS CloudFormation |* 
+###### Infrastructure Automation (Build): *| Gradle / Maven / Terraform / Chef / Puppet / AWS CloudFormation |* 
+###### Version Control: *| Git/GitHub / Gitlab / BitBucket |* 
+###### Testing/Deployment: *| Golang / Go / Python / Python-Django |* 
+###### Ticket Tracking: *| JIRA-Confluence / ServiceNow |* 
+###### Load Balancer: *| HAProxy / Nginx |* 
+###### Code Quality Integration: *| SonarQube/SonarCloud / Selenium |* 
+###### Scrum/Agile: *| JIRA-Kanban board |* 
+###### Web/App Servers: *| Apache / Tomcat / Nginx / Gunicorn |* 
+###### Logging/Monitoring: *| Nagios / Splunk / Prometheus / CloudWatch / Grafana |* 
+###### Artifactory (Package Management): *| Nexus / JFrog / S3 |* 
+###### Virtualization: *| Oracle VM VirtualBox |* 
+###### Network Protocols: *| DNS / DHCP / FTP / VPN / TCP/IP / UDP / NTP / NFS / HTTP/S / IPSEC / BGP | SSL/TLS | SSH |*
 
 #### *Security Tools:*
-###### Analytics: *Wireshark / NetWitness Investigator / SonarQube / Splunk |* 
-###### Vulnerability Management: *Nessus / Nmap |* 
-###### Penetration Testing: *Kali Linux |* 
-###### Endpoint Security/Firewalls: *CrowdStrike / pfSense |*
+###### Analytics: *| Wireshark / NetWitness Investigator / SonarQube / Splunk |* 
+###### Vulnerability Management: *| Nessus / Nmap |* 
+###### Penetration Testing: *| Kali Linux |* 
+###### Endpoint Security/Firewalls: *| CrowdStrike / pfSense |*
 
 #### *Regulatory Standards:*
 ###### | ISO27K Series | NIST SP 800-53 | PCI DSS | COBIT | FISMA | FedRAMP | HITRUST | HIPAA |
 
 #### *Scripting Languages:*
 ###### | Bash | Python | PowerShell | Groovy | HCL | YAML | Shell Script |  
-
 
 
 ----
@@ -80,7 +77,6 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 * Undertook routine preventative measures; implemented, maintained, and monitored the network security, intrusion detection, and service usage costs; proposed more efficient/cost-effective solutions.
 
 
-
 ### Data Service Group Inc.
 
 #### DevOps Engineer (FTE)
@@ -97,7 +93,6 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 * Assisted in managing the business continuity in cloud-based environments, including server, file backup, and recovery, preparing and testing disaster recovery procedures, and helped Junior developers on the team with technical issue resolution.
 
 
-
 ### Data Service Group Inc.
 
 #### AWS Cloud Engineer (FTE)
@@ -110,7 +105,6 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 * Installed, configured, and managed monitoring tools such as Nagios for logging/monitoring and implemented security with IAM (roles, users, and permissions) and Key Management Service (KMS).
 * Created VPCs and brought instances under them based on the requirement; and then, created the Public and private subnets in the VPC and attached them to the EC2 instances based on the requirement, then launched AWS EC2 Cloud Instances using Amazon Images (Linux/Ubuntu) and configuring launched instances concerning specific applications.
 * Actively managed, improved, and monitored cloud infrastructure on AWS; EC2, S3, RDS, backups, patches, and auto-scaling. Configured AWS VPC with public and private subnets, configured routing tables, internet gateway, ACLs, and Security groups. Created and implemented Chef cookbooks for deployment and used Chef recipes to create deployments directly into Amazon EC2 instances. 
-
 
 
 ### Newfield Wireless Inc.
@@ -128,7 +122,6 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 * Performed periodic system performance tuning, monitored vulnerability assessments, system updates, patch management, and analyzed application logs.
 
 
-
 ### Tar Technologies LLC.
 
 #### Information Security and Privacy Risk Analyst (Contract)
@@ -141,7 +134,6 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 * Maintained and supported the internal security systems, including anti-virus, IDS/IPS, identity access management, log management, patch management systems; Office 365, Azure, and firewalls security; and successfully reduced the number of identified computer malware by 40%.
 * Assisted in developing and implementing effective security plans to maintain the security of computer files against unauthorized modification, destruction, and disclosure, gaining a 99% rate on overall company data security, and then assisted in writing and documenting updated security plans to meet the ISO 27K and the NIST 800.53 standards.
 * Participated in the incident response processes and performed threat analysis in a 24/7 environment, mitigating and managing all threats and risks with a 90% success rate.
-
 
 
 ----
