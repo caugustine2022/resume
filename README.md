@@ -63,7 +63,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### Data Service Group Inc.
 
-#### Site Reliability Engineer (*Contract*)
+#### Site Reliability Engineer *(Contract)*
 
 ##### *April 2022 - Present / Bear, DE*
 
@@ -79,7 +79,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### Data Service Group Inc.
 
-#### DevOps Engineer (*FTE*)
+#### DevOps Engineer *(FTE)*
 
 ##### *April 2020 - March 2022 / Bear, DE*
 
@@ -95,7 +95,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### Data Service Group Inc.
 
-#### AWS Cloud Engineer (*FTE*)
+#### AWS Cloud Engineer *(FTE)*
 
 ##### *March 2018 - April 2019 / Bear, DE*
 
@@ -109,7 +109,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### Newfield Wireless Inc.
 
-#### UNIX/Linux Systems Engineer (*PTE*)
+#### UNIX/Linux Systems Engineer *(PTE)*
 
 ##### *April 2017 - March 2019 / Berkeley, CA*
 
@@ -124,7 +124,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### Tar Technologies LLC.
 
-#### Information Security and Privacy Risk Analyst (*Contract*)
+#### Information Security and Privacy Risk Analyst *(Contract)*
 
 ##### *January 2016 - March 2017 / Washington, DC*
 
