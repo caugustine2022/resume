@@ -3,8 +3,10 @@
 
 
 ----
+----
 
 #### *👉 💥 | Sr. DevOps Engineer ⚡ Jr. Cybersecurity Researcher | …✍️*
+----
 ----
 
 
@@ -15,8 +17,9 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 
 ----
-
+----
 ### **Skills Highlights**
+
 ----
 ----
 
@@ -57,6 +60,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ###### | Bash | Python | PowerShell | Groovy | HCL | YAML | Shell Script |  
 
 
+----
 ----
 
 ### **Professional Experience**
@@ -139,8 +143,10 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 
 ----
+----
 
 ### **Education**
+----
 ----
 
 2020-2024 *(expected)*
@@ -160,8 +166,10 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 
 ----
+----
 
 ### **Certification**
+----
 ----
 
 2021-03
@@ -169,8 +177,10 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 
 ----
+----
 
 ### **Interests/Hobbies** 
+----
 ----
 
 * Smart Devices, Internet-of-Things, Machine Learning, Artificial Intelligence, Cloud Computing, and Renewable Energy.
@@ -178,14 +188,17 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 
 ----
+----
 
 ### **Languages**
+----
 ----
 
 * English (native speaker)
 * French (full professional proficiency)
  
  
+----
 ----
 
 ##### 👉 Email: <augustine.ngen@gmail.com> ⚡ Phone: +1 (617) 905 4323 ⚡ Home Address: Boston, MA ⚡ LinkedIn: <https://www.linkedin.com/in/augustinengen/> …✍️ 
