@@ -1,4 +1,5 @@
 ----
+----
 # Augustine Ngen 
 ## *MS, CDPSE* 
 
@@ -200,6 +201,8 @@ An ardent, proactive, result-oriented professional in Software Development Opera
  
 ----
 ----
+----
 
 ##### 👉 Email: <augustine.ngen@gmail.com> ⚡ Phone: +1 (617) 905 4323 ⚡ Home Address: Quincy, MA ⚡ LinkedIn: <https://www.linkedin.com/in/augustinengen/> …✍️ 
+----
 ----
