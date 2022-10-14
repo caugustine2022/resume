@@ -88,7 +88,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 #### DevOps Engineer /*(FTE)*
 
-##### *April 2020 - March 2022 / Bear, DE*
+##### *April 2019 - March 2022 / Bear, DE*
 
 * Worked in a team to create custom Docker images with Docker files, pulled images from Docker hub and docker repositories, and then created docker-compose.yml file templates to deploy images in docker containers managed by Docker-Swarm. 
 * Worked in a team to containerize e-commerce applications built with Python-Django; and set up Django with Postgres, Nginx, and Gunicorn on the Ubuntu server. 
