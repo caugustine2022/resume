@@ -33,7 +33,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ###### AWS Resources: | *EC2 / ELB / RDS / S3 / EBS / SNS / VPC / CloudWatch / Route 53 / Elastic IP* | 
 ###### Configuration Management: | *Ansible / Puppet / Chef* | 
 ###### Containerization/Orchestration: | *Docker / Kubernetes* | 
-###### Continuous Integration/Deployment (CI/CD): | *Jenkins / Ansible* | 
+###### Continuous Integration (CI) and Continuous Delivery (CD): | *Jenkins / Ansible* | 
 ###### Infrastructure Automation (IaC): | *Terraform / AWS CloudFormation* | 
 ###### Infrastructure Automation (Build): | *Gradle / Maven / Terraform / AWS CloudFormation* | 
 ###### Version Control: | *Git/GitHub / Gitlab / BitBucket* | 
@@ -173,8 +173,11 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ----
 ----
 
+2023-04 (Work-In-Progress)
+: **(ISC)2 (CCSP)** – Certified Cloud Security Professional.
+
 2021-03
-: **ISACA®’s (CDPSE)** – Certified Data Privacy Solutions Engineer
+: **ISACA®’s (CDPSE)** – Certified Data Privacy Solutions Engineer.
 
 
 ----
