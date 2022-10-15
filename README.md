@@ -35,7 +35,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ###### Continuous Integration (CI)/Continuous Delivery (CD): | *Jenkins / Ansible* | 
 ###### Infrastructure Automation (IaC): | *Terraform / AWS CloudFormation* | 
 ###### Infrastructure Automation (Build): | *Gradle / Maven / Terraform / AWS CloudFormation* | 
-###### Version Control: | *Git/GitHub / Gitlab / BitBucket* | 
+###### Source Code Management: | *Git/GitHub / Gitlab* | 
 ###### Testing/Deployment: | *Golang/Go / Python / Python-Django* | 
 ###### Ticket Tracking: | *JIRA-Confluence / ServiceNow* | 
 ###### Load Balancer: | *HAProxy / Nginx* | 
