@@ -71,7 +71,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 #### Site Reliability Engineer //*(Contract)*
 
-##### *April 2022 - Present / Bear, DE*
+##### *April 2022 - Present | Bear, DE*
 
 * Worked closely with subject matter experts and the client’s team to understand requirements, establish priorities/project scope, and manage expectations and project delivery.
 * Installed, configured, and administered the SonarQube for code quality check, generated reports for different projects, integrated them into Jenkins, and then installed and configured Java, Maven, and Git on Jenkins. 
@@ -87,7 +87,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 #### DevOps Engineer //*(Full-Time)*
 
-##### *April 2019 - March 2022 / Bear, DE*
+##### *April 2019 - March 2022 | Bear, DE*
 
 * Worked in a team to create custom Docker images with Docker files, pulled images from Docker hub and docker repositories, and then created docker-compose.yml file templates to deploy images in docker containers managed by Docker-Swarm. 
 * Worked in a team to containerize e-commerce applications built with Python-Django; and set up Django with Postgres, Nginx, and Gunicorn on the Ubuntu server. 
@@ -103,7 +103,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 #### AWS Cloud Engineer //*(Full-Time)*
 
-##### *March 2018 - April 2019 / Bear, DE*
+##### *March 2018 - April 2019 | Bear, DE*
 
 * Worked with and used the AWS resources (EC2, ELB, RDS, EBS, EFS, S3 Bucket, VPC, SNS, LightSail, CloudWatch, CloudFront, CloudFormation); and serverless technologies (Lambda, API Gateway). 
 * Deployed multi-tier infrastructures on AWS using Terraform; application configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database. The CloudWatch alarm and S3 bucket are configured to monitor performances and log message storage.
@@ -117,7 +117,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 #### UNIX/Linux Systems Engineer //*(Part-Time)*
 
-##### *April 2017 - March 2019 / Berkeley, CA*
+##### *April 2017 - March 2019 | Berkeley, CA*
 
 * Created, installed, and configured Linux virtual servers (RedHat, CentOS, Ubuntu, Debian, Kali Linux, oracle Linux) on Oracle VM VirtualBox using Vagrant cloud and Windows Virtual code.
 * Monitored system activities like CPU, memory, disk, and swap space usage to avoid performance issues, ensuring the highest 24-hour/7-day critical system availability.
@@ -132,7 +132,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 #### Information Security and Privacy Risk Analyst //*(Contract)*
 
-##### *January 2016 - March 2017 / Washington, DC*
+##### *January 2016 - March 2017 | Washington, DC*
 
 * Assisted in implementing a multilayer security system for various clients, including enhanced antivirus, antispam, and antispyware apps, reducing malware risk by 35% with increased customer feedback.
 * Assisted in patching security vulnerabilities and implementing driver’s functionalities updates on Windows/Linux servers and workstations company-wide using WSUS, with 99% success.
