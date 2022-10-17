@@ -120,8 +120,8 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ##### *April 2017 - March 2019 | Berkeley, CA*
 
 * Created, installed, and configured Linux virtual servers (RedHat, CentOS, Ubuntu, Debian, Kali Linux, oracle Linux) on Oracle VM VirtualBox using Vagrant cloud and Windows Virtual code.
-* Monitored system activities like CPU, memory, disk, and swap space usage to avoid performance issues, ensuring the highest 24-hour/7-day critical system availability.
-* Managed physical, virtual, and network storage (HD, LVM, NFS, NAS); installed, configured, and managed LAMP (Linux/Apache/MySQL/PHP) stacks.
+* Monitored system activities like CPU, memory, disk, and swap space usage to avoid performance issues, ensuring the highest 24-hour/7-day critical system availability; also patched server kernel using Ansible.
+* Managed physical, virtual, and network storage, verified uptime and disk usage info using Ansible; installed, configured, and managed LAMP (Linux/Apache/MySQL/PHP) stacks using Ansible playbook.
 * Performed user/group administration, file/directory security, authentication, and access management, using SSH and Firewalls.
 * Wrote crontab for scheduling automatics repetitive jobs and executing bash shell scripts; configured SELinux detection security software and hardened operating systems using iptables and filesystem access control lists (ACLs).
 * Configured and managed network services (HTTP, NFS, SCP, NTP); troubleshot booting issues and identified and resolved the service failures affecting boot. 
