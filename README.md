@@ -69,7 +69,8 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### Data Service Group Inc.
 
-#### Site Reliability Engineer (SRE) //*(Contract)*
+#### Site Reliability Engineer (SRE) 
+//*(Contract)*
 
 ##### *April 2022 - Present | Bear, DE*
 
@@ -149,7 +150,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ----
 ----
 
-2020-2024 *(expected)*
+2020-2024 *(Expected)*
 :   **Doctor of Philosophy (Ph.D.) Degree, Major: Information Technology, with a Concentration in Information Systems Security**; University of the Cumberlands - Williamsburg, KY
 
 2019-2020
