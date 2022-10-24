@@ -69,8 +69,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### Data Service Group Inc.
 
-#### Site Reliability Engineer (SRE) 
-//*(Contract)*
+#### Site Reliability Engineer (SRE) //*(Contract)*
 
 ##### *April 2022 - Present | Bear, DE*
 
