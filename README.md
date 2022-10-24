@@ -13,7 +13,7 @@
 ### **Professional Summary**
 ----
 
-An ardent, proactive, result-oriented professional in Software Development Operations and Security Engineering, with over 6+ years of experience in the computing industry providing innovative solutions to complex technical problems supporting various software development and deployment operations in different environments. Experienced in all phases of Software Development Life Cycle (SDLC), Software Configuration Management (SCM), Continuous Integration (CI), Continuous Delivery (CD), Build and Release Management, Cloud Computing Infrastructure, Linux Systems Administration, and an ISACA Certified Data Privacy Solutions Engineer. Furthermore, hands-on experience in tools and methodologies such as Git/GitHub, AWS, Jenkins, Docker, Kubernetes, Terraform, Maven, Golang/Go, SonarQube, Ansible, Tomcat, Nexus, JFrog, JIRA-Confluence, Nagios, Splunk, HAProxy, and on-premises deployment; with added scripting proficiency in Bash, Python, Groovy, HCL, YAML, and Shell Script. Moreover, added skills in Identity Access Management, Endpoint Security, Network Security, Data Governance, and Risk Management. In summary, persistent, detailed-oriented with excellent interpersonal and team-working skills, and passionate about contributing my technical and analytical skills to ensure operational efficiency.      
+An ardent, proactive, result-oriented professional in Software Development Operations and Security Engineering, with over 6+ years of experience in the computing industry providing innovative solutions to complex technical problems supporting various software development and deployment operations in different environments. Experienced in all phases of Software Development Life Cycle (SDLC), Software Configuration Management (SCM), Continuous Integration (CI), Continuous Delivery (CD), Build and Release Management, Cloud Computing Infrastructure, Linux Systems Engineering, and ISACA Certified Data Privacy Solutions Engineer. Furthermore, hands-on experience in tools and methodologies such as Git/GitHub, AWS, Jenkins, Docker, Kubernetes, Terraform, Maven, Golang/Go, SonarQube, Ansible, Tomcat, Nexus, JFrog, JIRA-Confluence, Prometheus, Nagios, Splunk, HAProxy, and on-premises deployment; with added scripting proficiency in Bash, Python, Groovy, HCL, YAML, and Shell Script. Moreover, added skills in Identity Access Management, Endpoint Security, Network Security, Data Governance, and Risk Management. In summary, persistent, detailed-oriented with excellent interpersonal and team-working skills, and passionate about contributing my technical and analytical skills to ensure operational efficiency.      
 
 
 ----
@@ -76,7 +76,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 * Worked closely with subject matter experts and the client’s team to understand requirements, establish priorities/project scope, and manage expectations and project delivery.
 * Installed, configured, and administered the SonarQube for code quality check, generated reports for different projects, integrated them into Jenkins, and then installed and configured Java, Maven, and Git on Jenkins. 
 * Worked on JIRA for tracking and updating the JIRA tickets and per assigned; then initiated and troubleshot Continuous Delivery builds in Jenkins via JIRA tickets.
-* Assisted in designing monitoring and alerting strategies that identify early symptoms that can be addressed before outages occur using monitoring tools like; Nagios, PagerDuty, and Splunk.
+* Assisted in designing monitoring and alerting strategies that identify early symptoms that can be addressed before outages occur using monitoring tools like; Prometheus, Nagios, and Splunk.
 * Assisted in defining the technical/solution architecture software development delivery and provided hands-on technical direction working with other developers to review codes and resolve issues.
 * Worked with the development teams in the root-cause analysis of complex problems involving multiple parties, networks, hardware, and software related to scaling and performance. 
 * Collected system information to aid in troubleshooting, documenting resources, monitoring for any behavior modifications and intrusion, and configuring the system to send log messages to the system’s centralized host. And then resolved package management dependency issues and collaborated with the development and operation team to troubleshoot and resolve issues.
@@ -115,7 +115,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### Newfield Wireless Inc.
 
-#### UNIX/Linux Systems Engineer //*(Part-Time)*
+#### UNIX/Linux Systems Engineer //*(Contract)*
 
 ##### *April 2017 - March 2019 | Berkeley, CA*
 
