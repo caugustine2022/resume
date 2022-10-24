@@ -85,7 +85,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### Data Service Group Inc.
 
-#### DevOps Engineer //*(Full-Time)*
+#### DevOps Engineer //*(Contract)*
 
 ##### *April 2019 - March 2022 | Bear, DE*
 
@@ -101,7 +101,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### Data Service Group Inc.
 
-#### AWS Cloud Engineer //*(Full-Time)*
+#### AWS Cloud Engineer //*(Contract)*
 
 ##### *March 2018 - April 2019 | Bear, DE*
 
