@@ -110,7 +110,8 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 * Performed S3 buckets creation and policies on the Identity Access Management (IAM) role-based procedures and customized the JSON template. 
 * Installed, configured, and managed monitoring tools such as Nagios for logging/monitoring and implemented security with IAM (roles, users, and permissions) and Key Management Service (KMS).
 * Created VPCs and brought instances under them based on the requirement; and then, created the Public and private subnets in the VPC and attached them to the EC2 instances based on the requirement, then launched AWS EC2 Cloud Instances using Amazon Images (Linux/Ubuntu) and configuring launched instances concerning specific applications.
-* Actively managed, improved, and monitored cloud infrastructure on AWS; EC2, S3, RDS, backups, patches, and auto-scaling. Configured AWS VPC with public and private subnets, configured routing tables, internet gateway, ACLs, and Security groups.  
+* Actively managed, improved, and monitored cloud infrastructure on AWS; EC2, S3, RDS, backups, patches, and auto-scaling. Configured AWS VPC with public and private subnets, configured routing tables, internet gateway, ACLs, and Security groups.
+* Actively participated in the daily and weekly scrum meetings to ensure workflow efficiency.  
 
 
 ### Newfield Wireless Inc.
