@@ -91,7 +91,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 * Worked in a team to create custom Docker images with Docker files, pulled images from Docker hub and docker repositories, and then created docker-compose.yml file templates to deploy images in docker containers managed by Docker-Swarm. 
 * Worked in a team to containerize e-commerce applications built with Python-Django; and set up Django with Postgres, Nginx, and Gunicorn on the Ubuntu server. 
-* Assisted in building a CI/CD pipeline involving Jenkins, Ansible, Docker, Nagios, Kubernetes, Terraform, and GitHub for complete automation from commit to deployment of applications. 
+* Assisted in building a DevOps CI/CD pipeline involving Jenkins, Ansible, Docker, Nagios, Kubernetes, Terraform, and GitHub for complete automation from commit to deployment of applications. 
 * Installed and configured Jenkins’ main and agent nodes and set up jobs on the main to run on agents; built CI/CD pipeline and managed the infrastructure as code using Ansible. 
 * Configured Ansible and Ansible Tower as configuration management tools to automate repetitive tasks, quickly deploy critical applications, and proactively manage change.
 * Integrated Nagios with PagerDuty and wrote an Ansible playbook to automate the server’s onboardings and configurations. Created Ansible YAML syntax Playbooks and Roles for application deployments; and then developed, debugged, and tested Python, Bash, Groovy, YAML, and Shell scripts to automate deployments across multiple environments. 
