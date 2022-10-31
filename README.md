@@ -129,6 +129,16 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 * Performed periodic system performance tuning, monitored vulnerability assessments, analyzed application logs, and used Ansible as a configuration management tool for system updates and patch management.
 
 
+### Test IO | San Francisco, CA
+
+#### Software Tester //*(Part-Time)*
+ 
+##### *June 2015 - May 2017 | San Francisco, CA*
+
+* Identified, documented, and reported bugs, errors, interoperability flaws, security vulnerabilities assessment lifecycle, and other security risks.
+* Tested product’s functionality, performance, reliability, and stability and resulted in a 90% success rate.
+
+
 ### Tar Technologies LLC.
 
 #### Information Security and Privacy Risk Analyst //*(Contract)*
