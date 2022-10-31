@@ -129,7 +129,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 * Performed periodic system performance tuning, monitored vulnerability assessments, analyzed application logs, and used Ansible as a configuration management tool for system updates and patch management.
 
 
-### Test IO | San Francisco, CA
+### test IO | San Francisco, CA
 
 #### Software QA Tester //*(Part-Time)*
  
