@@ -133,7 +133,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 #### Information Security and Privacy Risk Analyst //*(Contract)*
 
-##### *January 2016 - March 2017 | Washington, DC*
+##### *April 2015 - March 2017 | Washington, DC*
 
 * Assisted in implementing a multilayer security system for various clients, including enhanced antivirus, antispam, and antispyware apps, reducing malware risk by 35% with increased customer feedback.
 * Assisted in patching security vulnerabilities and implementing driver’s functionalities updates on Windows/Linux servers and workstations company-wide using WSUS, with 99% success.
