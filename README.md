@@ -131,7 +131,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### Test IO | San Francisco, CA
 
-#### Software Tester //*(Part-Time)*
+#### Software QA Tester //*(Part-Time)*
  
 ##### *June 2015 - May 2017 | San Francisco, CA*
 
