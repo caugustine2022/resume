@@ -5,7 +5,7 @@
 ----
 ----
 
-#### *👉 💥 | SRE Cloud/DevOps Engineer ⚡ PhD-Student Cybersecurity Researcher | …✍️*
+#### *👉 💥 | SRE Cloud/DevOps Engineer ⚡ Cybersecurity PhD Research-Candidate | …✍️*
 ----
 ----
 
