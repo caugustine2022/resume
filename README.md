@@ -41,7 +41,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ###### Load Balancer: | *HAProxy / Nginx* | 
 ###### Code Quality Integration: | *SonarQube/SonarCloud / Selenium* | 
 ###### Scrum/Agile: | *JIRA-Kanban board* | 
-###### Database: | *PostgreSQL / MongoDB* |
+###### Database: | *PostgreSQL* |
 ###### Web/App Servers: | *Apache / Tomcat / Nginx / Gunicorn* | 
 ###### Logging/Monitoring: | *Nagios / Splunk / Prometheus /  Grafana / Datadog / CloudWatch* | 
 ###### Artifactory (Package Management): | *Nexus / JFrog / S3* | 
