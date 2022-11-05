@@ -40,16 +40,17 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ###### Ticket Tracking: | *JIRA-Confluence / ServiceNow* | 
 ###### Load Balancer: | *HAProxy / Nginx* | 
 ###### Code Quality Integration: | *SonarQube/SonarCloud / Selenium* | 
-###### Scrum/Agile: | *JIRA-Kanban board* | 
+###### Collaboration: | *JIRA-Kanban board/Confluence * | 
 ###### Database: | *PostgreSQL / MySQL / MongoDB* |
 ###### Web/App Servers: | *Apache Tomcat / Nginx / Gunicorn* | 
 ###### Logging/Monitoring: | *Nagios / Splunk / Prometheus /  Grafana / Lens / Datadog / AWS CloudWatch* | 
 ###### Artifactory (Package Management): | *Nexus / JFrog / Helm / S3* | 
 ###### Virtualization: | *Oracle VM VirtualBox* | 
 ###### Network Protocols: | *DNS / DHCP / FTP / VPN / TCP/IP / UDP / NTP / NFS / HTTP/S / IPSEC / BGP / SSL/TLS / SSH* |
+###### SDLC: | *Waterfall / Agile / DevOps* |
 
 #### *Security Tools:*
-###### Analytics: | *Wireshark / NetWitness Investigator / SonarQube / Splunk* | 
+###### Analytics: | *Wireshark / NetWitness Investigator / SonarQube / Splunk / CloudHealth* | 
 ###### Vulnerability Management: | *Nessus / Nmap* | 
 ###### Penetration Testing: | *Kali Linux* | 
 ###### Endpoint Security/Firewalls: | *CrowdStrike / pfSense* |
