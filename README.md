@@ -43,8 +43,8 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ###### Scrum/Agile: | *JIRA-Kanban board* | 
 ###### Database: | *PostgreSQL* |
 ###### Web/App Servers: | *Apache / Tomcat / Nginx / Gunicorn* | 
-###### Logging/Monitoring: | *Nagios / Splunk / Prometheus /  Grafana / Datadog / CloudWatch* | 
-###### Artifactory (Package Management): | *Nexus / JFrog / S3* | 
+###### Logging/Monitoring: | *Nagios / Splunk / Prometheus /  Grafana / Lens / Datadog / CloudWatch* | 
+###### Artifactory (Package Management): | *Nexus / JFrog / Helm / S3* | 
 ###### Virtualization: | *Oracle VM VirtualBox* | 
 ###### Network Protocols: | *DNS / DHCP / FTP / VPN / TCP/IP / UDP / NTP / NFS / HTTP/S / IPSEC / BGP / SSL/TLS / SSH* |
 
