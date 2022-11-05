@@ -137,7 +137,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ##### *June 2015 - May 2017 | San Francisco, CA*
 
 * Identified, documented, and reported bugs, errors, interoperability flaws, security vulnerabilities assessment lifecycle, and other security risks.
-* Tested product’s functionality, performance, reliability, and stability and resulted in a 90% success rate.
+* Tested product’s functionality, performance, reliability, and stability, resulting in a 90% success rate.
 
 
 ### Tar Technologies LLC.
