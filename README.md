@@ -42,7 +42,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ###### Code Quality Integration: | *SonarQube/SonarCloud / Selenium* | 
 ###### Scrum/Agile: | *JIRA-Kanban board* | 
 ###### Database: | *PostgreSQL* |
-###### Web/App Servers: | *Apache / Tomcat / Nginx / Gunicorn* | 
+###### Web/App Servers: | *Apache Tomcat / Nginx / Gunicorn* | 
 ###### Logging/Monitoring: | *Nagios / Splunk / Prometheus /  Grafana / Lens / Datadog / CloudWatch* | 
 ###### Artifactory (Package Management): | *Nexus / JFrog / Helm / S3* | 
 ###### Virtualization: | *Oracle VM VirtualBox* | 
