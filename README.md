@@ -69,7 +69,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ----
 ----
 
-### Data Service Group Inc.
+### DataService Group INC. 
 
 #### Site Reliability Engineer (SRE) //*(Contract)*
 
@@ -85,7 +85,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 * Undertook routine preventative measures; implemented, maintained, and monitored the network security, intrusion detection, and service usage costs; proposed more efficient/cost-effective solutions.
 
 
-### Data Service Group Inc.
+### DataService Group INC. 
 
 #### DevOps Engineer //*(Contract)*
 
@@ -101,7 +101,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 * Assisted in managing the business continuity in cloud-based environments, including server, file backup, and recovery, preparing and testing disaster recovery procedures, and helped Junior developers on the team with technical issue resolution.
 
 
-### Data Service Group Inc.
+### DataService Group INC. 
 
 #### AWS Cloud Engineer //*(Contract)*
 
@@ -116,7 +116,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 * Actively participated in the daily and weekly scrum meetings to ensure workflow efficiency.  
 
 
-### Newfield Wireless Inc.
+### Newfield Wireless INC.
 
 #### UNIX/Linux Systems Engineer //*(Contract)*
 
