@@ -29,7 +29,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 #### *Cloud/DevOps Tools:* 
 ###### Cloud Platform: | *AWS* | 
-###### AWS Resources: | *EC2 / ELB / RDS / S3 / EBS / SNS / VPC / EKS / CloudWatch / Route 53 / Elastic IP* | 
+###### AWS Resources: | *EC2 / ELB / RDS / S3 Bucket / EBS / SNS / VPC / EKS / CloudWatch / Route 53 / Elastic IP* | 
 ###### Configuration Management: | *Ansible / Puppet / Chef* | 
 ###### Containerization/Orchestration: | *Docker / Kubernetes* | 
 ###### Continuous Integration (CI)/Continuous Delivery (CD): | *Jenkins / Ansible* | 
@@ -44,7 +44,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ###### Database: | *PostgreSQL / MySQL / MongoDB* |
 ###### Web/App Servers: | *Apache Tomcat / Nginx / Gunicorn* | 
 ###### Logging/Monitoring: | *Nagios / Splunk / Prometheus /  Grafana / Lens / Datadog / AWS CloudWatch* | 
-###### Artifactory (Package Management): | *Nexus / JFrog / Helm / S3* | 
+###### Artifactory (Package Management): | *Nexus / JFrog / Helm / S3 Bucket* | 
 ###### Virtualization: | *Oracle VM VirtualBox* | 
 ###### Network Protocols: | *DNS / DHCP / FTP / VPN / TCP/IP / UDP / NTP / NFS / HTTP/S / IPSEC / BGP / SSL/TLS / SSH* |
 ###### SDLC: | *Waterfall / Agile / DevOps* |
