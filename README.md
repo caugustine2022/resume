@@ -175,7 +175,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 :   **Bachelor of Science (B.Sc.) Degree, Major: Information Technology**; University of Massachusetts Lowell - Lowell, MA
     
 1998-2001
-:   **Bachelor of Science (B.S.) Degree, Major: Electrical/Electronic Engineering, with Concentration in Electronics/Telecommunications and Computer Engineering**; National Polytechnic University Institute - Bamenda, CM / Our Saviour Institute of Science, Agriculture & Technology – Enugu, NG
+:   **Bachelor of Science (B.Sc.) Degree, Major: Electrical/Electronic Engineering, with Concentrations in Electronics/Telecommunications and Computer Engineering**; National Polytechnic University Institute - Bamenda, CM / Our Saviour Institute of Science, Agriculture & Technology – Enugu, NG
 
 
 ----
