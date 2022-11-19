@@ -91,7 +91,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ##### *April 2019 - March 2022 | Bear, DE*
 
-* Installed, configured, maintained, and monitored new and existing CI/CD tools and infrastructure on Linux and/or Windows server environments.
+* Installed, configured, maintained, and monitored new and existing CI/CD tools and infrastructure on Linux and Windows server environments, on-premise, and in the cloud.
 * Worked in a team to create custom Docker images with Docker files, pulled images from Docker hub and docker repositories, and then created docker-compose.yml file templates to deploy images in docker containers managed by Docker-Swarm. 
 * Worked in a team to containerize e-commerce applications built with Python-Django; and set up Django with Postgres, Nginx, and Gunicorn on the Ubuntu server. 
 * Assisted in building a DevOps CI/CD pipeline involving Jenkins, Ansible, Docker, Nagios, Kubernetes, Terraform, and GitHub for complete automation from committing to deploying applications. 
