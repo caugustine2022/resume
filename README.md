@@ -40,7 +40,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ###### Ticket Tracking: | *JIRA-Confluence / ServiceNow* | 
 ###### Load Balancer: | *HAProxy / Nginx* | 
 ###### Code Quality Integration: | *SonarQube/SonarCloud / Selenium* | 
-###### Collaboration: | *JIRA-Kanban board/Confluence * | 
+###### Collaboration: | *JIRA-Kanban board/Confluence* | 
 ###### Database: | *PostgreSQL / MySQL / MongoDB* |
 ###### Web/App Servers: | *Apache Tomcat / Nginx / Gunicorn* | 
 ###### Logging/Monitoring: | *Nagios / Splunk / Prometheus /  Grafana / Lens / Datadog / AWS CloudWatch* | 
