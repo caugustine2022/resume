@@ -44,7 +44,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ###### Database: | *PostgreSQL / MySQL / MongoDB* |
 ###### Web/App Servers: | *Apache Tomcat / Nginx / Gunicorn* | 
 ###### Logging/Monitoring: | *Nagios / Splunk / Prometheus /  Grafana / Lens / Datadog / AWS CloudWatch* | 
-###### Artifactory (Package Management): | *Nexus / JFrog / Helm / S3 Bucket* | 
+###### Artifactory (Package Management): | *Nexus / JFrog / Helm / ECR / S3 Bucket* | 
 ###### Virtualization: | *Oracle VM VirtualBox* | 
 ###### Network Protocols: | *DNS / DHCP / FTP / VPN / TCP/IP / UDP / NTP / NFS / HTTP/S / IPSEC / BGP / SSL/TLS / SSH* |
 ###### SDLC: | *Waterfall / Agile / DevOps* |
