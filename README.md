@@ -29,7 +29,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 #### *Cloud/DevOps Tools:* 
 ###### Cloud Platform: | *AWS* | 
-###### AWS Resources: | *EC2 / ELB / RDS / S3 Bucket / EBS / SNS / VPC / EKS / CloudWatch / Route 53 / Elastic IP* | 
+###### AWS Resources: | *EC2 / ELB / RDS / S3 Bucket / EBS / SNS / VPC / EKS / ECR / CloudWatch / Route53* | 
 ###### Configuration Management: | *Ansible / Puppet / Chef* | 
 ###### Containerization/Orchestration: | *Docker / Kubernetes* | 
 ###### Continuous Integration (CI)/Continuous Delivery (CD): | *Jenkins / Ansible* | 
@@ -108,7 +108,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ##### *March 2018 - April 2019 | Bear, DE*
 
-* Worked with AWS resources such as (EC2, ELB, RDS, EBS, EFS, S3 Bucket, VPC, EKS, SES, SNS, LightSail, CloudWatch, CloudFront, CloudFormation); and serverless technologies (Lambda, API Gateway). 
+* Worked with AWS resources such as EC2, ELB, IAM, KMS, Cognito, RDS, DynamoDB, EBS, EFS, S3, VPC, EKS, ECR, SES, SNS, Route53, Beanstalk, CloudWatch, CloudFront, CloudTrail, Lambda, API Gateway.  
 * Deployed multi-tier infrastructures on AWS using Terraform; application configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database. The CloudWatch alarm and S3 bucket are configured to monitor performances and log message storage.
 * Performed S3 buckets creation and policies on the Identity Access Management (IAM) role-based procedures and customized the JSON template. 
 * Installed, configured, and managed monitoring tools such as Nagios for logging/monitoring and implemented security with IAM (roles, users, and permissions) and Key Management Service (KMS).
