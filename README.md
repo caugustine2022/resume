@@ -29,7 +29,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 #### *Cloud/DevOps Tools:* 
 ###### Cloud Platform: | *AWS* | 
-###### AWS Resources: | *EC2 / ELB / RDS / S3 Bucket / EBS / SNS / VPC / EKS / ECR / CloudWatch / Route53* | 
+###### AWS Resources: | *EC2 / ELB / IAM / RDS / S3 Bucket / EBS / SNS / VPC / EKS / ECR / CloudWatch / Route53* | 
 ###### Configuration Management: | *Ansible / Puppet / Chef* | 
 ###### Containerization/Orchestration: | *Docker / Kubernetes* | 
 ###### Continuous Integration (CI)/Continuous Delivery (CD): | *Jenkins / Ansible* | 
