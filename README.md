@@ -120,7 +120,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### Newfield Wireless INC.
 
-#### UNIX/Linux Systems Engineer //*(Contract)*
+#### Linux Systems Engineer //*(Contract)*
 
 ##### *April 2017 - March 2019 | Berkeley, CA*
 
