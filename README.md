@@ -94,7 +94,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 * Installed, configured, maintained, and monitored new and existing CI/CD tools and infrastructure on Linux and Windows server environments, on-premise, and in the cloud.
 * Worked in a team to create custom Docker images with Docker files, pulled images from Docker hub and docker repositories, and then created docker-compose.yml file templates to deploy images in docker containers managed by Docker-Swarm. 
 * Worked in a team to containerize e-commerce applications built with Python-Django; and set up Django with Postgres, Nginx, and Gunicorn on the Ubuntu server.
-* Worked in a team responsible for IAM from a service and operational perspective; services included Privileged Access Management (PAM), exclusively on protecting and limiting privileged accounts access.   
+* Worked in a team responsible for IAM from a service and operational perspective; services included Privileged Access Management (PAM), exclusively on protecting and limiting privileged accounts' access.   
 * Assisted in building a DevOps CI/CD pipeline involving Jenkins, Ansible, Docker, Nagios, Kubernetes, Terraform, and GitHub for complete automation from committing to deploying applications. 
 * Installed and configured Jenkins’ main and agent nodes and set up jobs on the main to run on agents; built CI/CD pipeline and managed the infrastructure as code using Ansible. 
 * Configured Ansible and Ansible Tower as configuration management tools to automate repetitive tasks, quickly deploy critical applications, and proactively manage change.
