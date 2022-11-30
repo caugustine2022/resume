@@ -168,16 +168,16 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 :   **Doctor of Philosophy (Ph.D.) Degree, Major: Information Technology, with a Concentration in Information Systems Security**; University of the Cumberlands - Williamsburg, KY
 
 2019-2020
-:   **Master of Science (M.Sc.) Degree, Major: Information Systems Security**; University of the Cumberlands - Williamsburg, KY
+:   **Master of Science (M.S.) Degree, Major: Information Systems Security**; University of the Cumberlands - Williamsburg, KY
     
 2014-2016
-:   **Master of Science (M.Sc.) Degree, Major: Health and Medical Informatics**; Brandeis University - Waltham, MA
+:   **Master of Science (M.S.) Degree, Major: Health and Medical Informatics**; Brandeis University - Waltham, MA
     
 2012-2014
-:   **Bachelor of Science (B.Sc.) Degree, Major: Information Technology**; University of Massachusetts Lowell - Lowell, MA
+:   **Bachelor of Science (B.S.) Degree, Major: Information Technology**; University of Massachusetts Lowell - Lowell, MA
     
 1998-2001
-:   **Bachelor of Science (B.Sc.) Degree, Major: Electrical/Electronic Engineering, with Concentrations in Electronics/Telecommunications and Computer Engineering**; National Polytechnic University Institute - Bamenda, CM / Our Saviour Institute of Science, Agriculture & Technology – Enugu, NG
+:   **Bachelor of Science (B.S.) Degree, Major: Electrical/Electronic Engineering, with Concentrations in Electronics/Telecommunications and Computer Engineering**; National Polytechnic University Institute - Bamenda, CM / Our Saviour Institute of Science, Agriculture & Technology – Enugu, NG
 
 
 ----
