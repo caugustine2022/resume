@@ -5,7 +5,7 @@
 ----
 ----
 
-#### *👉 💥 | Cloud SRE DevOps/DevSecOps Engineer ⚡ Cybersecurity PhD Research-Candidate | …✍️*
+#### *👉 💥 | Cloud Security SRE/DevOps Engineer ⚡ Cybersecurity PhD Research-Candidate | …✍️*
 ----
 ----
 
@@ -87,7 +87,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### DataService Group INC. 
 
-#### DevOps/DevSecOps and Software Tools Engineer //*(Contract)*
+#### DevOps/Software Tools Engineer //*(Contract)*
 
 ##### *April 2019 - March 2022 | Bear, DE*
 
