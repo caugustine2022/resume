@@ -137,10 +137,10 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ##### *April 2016 - March 2017 | Berkeley, CA*
 
-*	Monitored systems performance using the (top, sar, ps, vmstat, netstat, iostat, and cpuinfo) commands to check the CPU utilization, memory usage, and network traffic, ensuring the highest 24/7 critical system availability.
+*	Monitored systems performance using the (top, sar, ps, vmstat, netstat, iostat, and cpuinfo) commands to check the CPU utilization, memory usage, and network traffic, ensuring a 24/7 critical system availability.
 *	Created, configured, and diagnosed user and group permissions to facilitate System security. 
 *	Regulated access to system resources by configuring the Access Control List (ACL) and SUDO.
-*	Wrote crontabs and configured firewall using iptables and SELinux for system security
+*	Wrote crontabs and configured firewall using iptables and SELinux for system security.
 *	Configured, tracked, and completed assigned tasks via the JIRA-Confluence ticketing system.
 
 
