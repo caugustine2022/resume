@@ -91,7 +91,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ##### *April 2019 - March 2022 | Bear, DE*
 
-* Installed, configured, maintained, and monitored new and existing CI/CD tools and infrastructure on Linux and Windows server environments, on-premise, and in the cloud.
+* Installed, configured, maintained, and monitored new and existing CI/CD tools and the infrastructure on the Linux and Windows server environments, on-premise, and in the cloud.
 * Worked in a team to create custom Docker images with Docker files, pulled images from Docker hub and docker repositories, and then created docker-compose.yml file templates to deploy images in docker containers managed by Docker-Swarm. 
 * Worked in a team to containerize e-commerce applications built with Python-Django; and set up Django with Postgres, Nginx, and Gunicorn on the Ubuntu server.
 * Worked in a team responsible for IAM from a service and operational perspective; services included Privileged Access Management (PAM), exclusively on protecting and limiting privileged accounts' access.   
@@ -118,26 +118,37 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 * Actively participated in the daily and weekly scrum meetings to ensure workflow efficiency.  
 
 
-### Newfield Wireless INC.
+### DataService Group INC. 
 
 #### Linux Systems Engineer //*(Contract)*
 
-##### *April 2017 - March 2019 | Berkeley, CA*
+##### *April 2017 - April 2018 | Bear, DE*
 
-* Created, installed, and configured Linux virtual servers (RedHat, CentOS, Ubuntu, Debian, Kali Linux, oracle Linux) on Oracle VM VirtualBox using Vagrant Cloud and Windows Virtual Studio Code.
-* Monitored system activities like CPU, memory, disk, and swap space usage to avoid performance issues, ensuring the highest 24-hour/7-day critical system availability; also patched server kernel using Ansible.
-* Managed physical, virtual, and network storage, verified uptime and disk usage info using Ansible; installed, configured, and managed LAMP (Linux/Apache/MySQL/PHP) stacks using Ansible playbook.
-* Performed user/group administration, file/directory security, authentication, and access management, using SSH and Firewalls.
-* Wrote crontabs and scheduled automatics repetitive tasks, configured SELinux detection security software and hardened operating systems using iptables and filesystem access control lists (ACLs).
-* Configured and managed network services (HTTP, NFS, SCP, NTP); troubleshot booting issues and identified and resolved the service failures affecting boot. 
-* Performed periodic system performance tuning, monitored vulnerability assessments, analyzed application logs, and used Ansible as a configuration management tool for system updates and patch management.
+*	Created, installed, and configured Linux virtual servers (RedHat, CentOS, Ubuntu, Debian, Kali Linux, oracle Linux) on Oracle VM VirtualBox using Vagrant Cloud and Windows Virtual Studio Code.
+*	Worked with source control tools like Git/GitHub, on Linux environments migrated subversion repositories to Git, and used Git bash to push the changes to the Ansible engine.
+*	Managed physical, virtual, and network storage, verified uptime and disk usage info using Ansible; installed, configured, and managed LAMP (Linux/Apache/MySQL/PHP) stacks using Ansible playbook.
+*	Configured and managed network services (HTTP, NFS, SCP, NTP); troubleshot booting issues and identified and resolved the service failures affecting boot. 
+*	Performed system performance tuning, monitored vulnerability assessments, analyzed application logs, and used Ansible as a configuration management tool for system updates and patch management.
+
+
+### Newfield Wireless INC.
+
+#### Unix Linux Systems Administrator //*(Full-Time)*
+
+##### *April 2016 - March 2017 | Berkeley, CA*
+
+*	Monitored systems performance using the (top, sar, ps, vmstat, netstat, iostat, and cpuinfo) commands to check the CPU utilization, memory usage, and network traffic, ensuring the highest 24/7 critical system availability.
+*	Created, configured, and diagnosed user and group permissions to facilitate System security. 
+*	Regulated access to system resources by configuring the Access Control List (ACL) and SUDO.
+*	Wrote crontabs and configured firewall using iptables and SELinux for system security
+*	Configured, tracked, and completed assigned tasks via the JIRA-Confluence ticketing system.
 
 
 ### test IO | San Francisco, CA
 
 #### Software Tester //*(Part-Time)*
  
-##### *June 2015 - May 2017 | San Francisco, CA*
+##### *June 2014 - May 2016 | San Francisco, CA*
 
 * Identified, documented, and reported bugs, errors, interoperability flaws, security vulnerabilities assessment lifecycle, and other security risks.
 * Tested product’s functionality, performance, reliability, and stability, resulting in a 90% success rate.
@@ -147,7 +158,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 #### Information Security and Privacy Risk Analyst //*(Contract)*
 
-##### *April 2015 - March 2017 | Washington, DC*
+##### *April 2014 - March 2016 | Washington, DC*
 
 * Assisted in implementing a multilayer security system for various clients, including enhanced antivirus, antispam, and antispyware apps, reducing malware risk by 35% with increased customer feedback.
 * Assisted in patching security vulnerabilities and implementing driver’s functionalities updates on Windows/Linux servers and workstations company-wide using WSUS, with 99% success.
