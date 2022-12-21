@@ -160,11 +160,11 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ##### *April 2014 - March 2016 | Washington, DC*
 
-* Assisted in implementing a multilayer security system for various clients, including enhanced antivirus, antispam, and antispyware apps, reducing malware risk by 35% with increased customer feedback.
+* Assisted in implementing a multilayer security system for various clients, including enhanced antivirus, antispam, and antispyware apps, reducing malware risk by 90% with increased customer feedback.
 * Assisted in patching security vulnerabilities and implementing driver’s functionalities updates on Windows/Linux servers and workstations company-wide using WSUS, with 99% success.
-* Helped slash risks by 30% and lowered malware threats by 40%, installing updates, using ad blockers, applying BitLocker administration, and monitoring.
-* Maintained and supported the internal security systems, including anti-virus, IDS/IPS, identity access management, log management, patch management systems; Office 365, Azure, and firewalls security; and successfully reduced the number of identified computer malware by 40%.
-* Assisted in developing and implementing effective security plans to maintain the security of computer files against unauthorized modification, destruction, and disclosure, gaining a 99% rate on overall company data security, and then assisted in writing and documenting updated security plans to meet the ISO 27K and the NIST 800.53 standards.
+* Helped slash risks and malware threats by 60% analyzing systems security, threats, patch management, and vulnerability scan using Nessus; while producing metrics, reports, and recommendations.
+* Maintained and supported the internal security systems, including firewalls, IDS/IPS, identity access management, log management, and patch management systems, with a 90% success rate.
+* Assisted in developing and implementing effective security plans to maintain the security of computer files against unauthorized modification, destruction, and disclosure; then, assisted in updating and  documenting security plans to meet the ISO 27K, and the NIST 800.53 standards, with 99% data security.
 * Participated in the incident response processes and performed threat analysis in a 24/7 environment, mitigating and managing all threats and risks with a 90% success rate.
 
 
