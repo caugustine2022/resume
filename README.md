@@ -69,11 +69,13 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ----
 ----
 
-### DataService Group INC. 
+### DataService Group INC. | Bear, DE 
 
 #### DevSecOps/Site Reliability Engineer //*(Contract)*
 
-##### *April 2022 - Present | Bear, DE*
+##### *April 2022 - Present*
+
+##### *Avgerage Hrs/Wk: 32-40*
 
 * Worked closely with subject matter experts and the client’s team to understand requirements, establish priorities/project scope, and manage expectations and project delivery.
 * Installed, configured, and administered the SonarQube for code quality check, generated reports for different projects, integrated them into Jenkins, and then installed and configured Java, Maven, and Git on Jenkins. 
@@ -85,11 +87,13 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 * Undertook routine preventative measures; implemented, maintained, and monitored the network security, intrusion detection, and service usage costs; proposed more efficient/cost-effective solutions.
 
 
-### DataService Group INC. 
+### DataService Group INC. | Bear, DE 
 
 #### DevOps/Software Tools Engineer //*(Contract)*
 
-##### *April 2019 - March 2022 | Bear, DE*
+##### *April 2019 - March 2022*
+
+##### *Avgerage Hrs/Wk: 40*
 
 * Installed, configured, maintained, and monitored new and existing CI/CD tools and the infrastructure on the Linux and Windows server environments, on-premise, and in the cloud.
 * Worked in a team to create custom Docker images with Docker files, pulled images from Docker hub and docker repositories, and then created docker-compose.yml file templates to deploy images in docker containers managed by Docker-Swarm. 
@@ -103,11 +107,13 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 * Assisted in managing the business continuity in cloud-based environments, including server, file backup, and recovery, preparing and testing disaster recovery procedures, and helped Junior developers on the team with technical issue resolution.
 
 
-### DataService Group INC. 
+### DataService Group INC. | Bear, DE 
 
 #### AWS Cloud Engineer //*(Contract)*
 
 ##### *March 2018 - April 2019 | Bear, DE*
+
+##### *Avgerage Hrs/Wk: 32*
 
 * Worked with AWS resources such as EC2, ELB, IAM, KMS, Cognito, RDS, DynamoDB, EBS, EFS, S3, VPC, EKS, ECR, SES, SNS, Route53, Beanstalk, CloudWatch, CloudFront, CloudTrail, Lambda, API Gateway.  
 * Deployed multi-tier infrastructures on AWS using Terraform; application configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database. The CloudWatch alarm and S3 bucket are configured to monitor performances and log message storage.
@@ -118,11 +124,13 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 * Actively participated in the daily and weekly scrum meetings to ensure workflow efficiency.  
 
 
-### DataService Group INC. 
+### DataService Group INC. | Bear, DE 
 
 #### Linux Systems Engineer //*(Contract)*
 
-##### *April 2017 - April 2018 | Bear, DE*
+##### *April 2017 - April 2018*
+
+##### *Avgerage Hrs/Wk: 40*
 
 *	Created, installed, and configured Linux virtual servers (RedHat, CentOS, Ubuntu, Debian, Kali Linux, oracle Linux) on Oracle VM VirtualBox using Vagrant Cloud and Windows Virtual Studio Code.
 *	Worked with source control tools like Git/GitHub, on Linux environments migrated subversion repositories to Git, and used Git bash to push the changes to the Ansible engine.
@@ -131,11 +139,13 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 *	Performed system performance tuning, monitored vulnerability assessments, analyzed application logs, and used Ansible as a configuration management tool for system updates and patch management.
 
 
-### Newfield Wireless INC.
+### Newfield Wireless INC. | Berkeley, CA
 
 #### Unix Linux Systems Administrator //*(Full-Time)*
 
-##### *April 2016 - March 2017 | Berkeley, CA*
+##### *April 2016 - March 2017*
+
+##### *Avgerage Hrs/Wk: 32-40*
 
 *	Monitored systems performance using the (top, sar, ps, vmstat, netstat, iostat, and cpuinfo) commands to check the CPU utilization, memory usage, and network traffic, ensuring a 24/7 critical system availability.
 *	Created, configured, and diagnosed user and group permissions to facilitate System security. 
@@ -144,21 +154,23 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 *	Configured, tracked, and completed assigned tasks via the JIRA-Confluence ticketing system.
 
 
-### test IO | San Francisco, CA
+### test IO | San Francisco, CA.
 
-#### Software Tester //*(Part-Time)*
+#### Software Tester //*(Freelance)*
  
-##### *June 2014 - May 2016 | San Francisco, CA*
+##### *June 2014 - May 2016*
 
 * Identified, documented, and reported bugs, errors, interoperability flaws, security vulnerabilities assessment lifecycle, and other security risks.
 * Tested product’s functionality, performance, reliability, and stability, resulting in a 90% success rate.
 
 
-### Tar Technologies LLC.
+### Tar Technologies LLC. | Washington, DC
 
 #### Information Security and Privacy Risk Analyst //*(Contract)*
 
-##### *April 2014 - March 2016 | Washington, DC*
+##### *April 2014 - March 2016*
+
+##### *Avgerage Hrs/Wk: 40-60*
 
 * Assisted in implementing a multilayer security system for various clients, including enhanced antivirus, antispam, and antispyware apps, reducing malware risk by 90% with increased customer feedback.
 * Assisted in patching security vulnerabilities and implementing driver’s functionalities updates on Windows/Linux servers and workstations company-wide using WSUS, with 99% success.
