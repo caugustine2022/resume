@@ -39,7 +39,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ###### Testing/Deployment: | *Go/Golang / Python / Python-Django* | 
 ###### Ticket Tracking: | *JIRA-Confluence / ServiceNow* | 
 ###### Load Balancer: | *HAProxy / Nginx* | 
-###### Code Quality Integration: | *SonarQube/SonarCloud / Selenium* | 
+###### Code Quality Analysics/Integration: | SonarQube/SonarCloud / Selenium | 
 ###### Collaboration: | *JIRA-Kanban board/Confluence* | 
 ###### Database: | *PostgreSQL / MySQL / MongoDB* |
 ###### Web/App Servers: | *Apache Tomcat / Nginx / Gunicorn* | 
@@ -50,9 +50,11 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ###### SDLC: | *Waterfall / Agile / DevOps* |
 
 #### *Security Tools:*
-###### Analytics: | *Wireshark / NetWitness Investigator / SonarQube / Splunk / CloudHealth* | 
-###### Vulnerability Management: | *Nessus / Nmap* | 
-###### Penetration Testing: | *Kali Linux* | 
+###### SIEM/Network Analytics: | Wireshark / NetWitness Investigator / SonarQube / Splunk / CloudHealth | 
+###### Container Security: | Sysdig Secure / StackRox |
+###### Vulnerability Management/Dynamic Application Security Testing (DAST): | Nessus / OWASP ZAP | 
+###### Penetration Testing: | Kali Linux / Nmap / Metasploit | 
+###### Identity Access Managemnet (IAM): | OneLogin / AuthO / Okta |
 ###### Endpoint Security/Firewalls: | *CrowdStrike / pfSense* |
 
 #### *Regulatory Standards:*
