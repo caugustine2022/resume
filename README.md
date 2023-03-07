@@ -50,7 +50,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ###### SDLC: | *Waterfall / Agile / DevOps* |
 
 #### *Security Tools:*
-###### SIEM/Network Analytics: | Wireshark / NetWitness Investigator / SonarQube / Splunk / CloudHealth | 
+###### Security Information & Event Management (SIEM)/Network Analytics: | Wireshark / NetWitness Investigator / SonarQube / Splunk / CloudHealth | 
 ###### Container Security: | Sysdig Secure / StackRox |
 ###### Vulnerability Management/Dynamic Application Security Testing (DAST): | Nessus / OWASP ZAP | 
 ###### Penetration Testing: | Kali Linux / Nmap / Metasploit | 
@@ -77,7 +77,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ##### *April 2022 - Present*
 
-##### *Avgerage Hrs/Wk: 32-40*
+##### *Avgerage Hrs/Wk: 32*
 
 * Worked closely with subject matter experts and the client’s team to understand requirements, establish priorities/project scope, and manage expectations and project delivery.
 * Installed, configured, and administered the SonarQube for code quality check, generated reports for different projects, integrated them into Jenkins, and then installed and configured Java, Maven, and Git on Jenkins. 
@@ -147,7 +147,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ##### *April 2016 - March 2017*
 
-##### *Avgerage Hrs/Wk: 32-40*
+##### *Avgerage Hrs/Wk: 32*
 
 *	Monitored systems performance using the (top, sar, ps, vmstat, netstat, iostat, and cpuinfo) commands to check the CPU utilization, memory usage, and network traffic, ensuring a 24/7 critical system availability.
 *	Created, configured, and diagnosed user and group permissions to facilitate System security. 
@@ -212,7 +212,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ----
 ----
 
-2023-04 (Work-In-Progress)
+2023-12 (Work-In-Progress)
 : **(ISC)2 (CCSP)** – Certified Cloud Security Professional.
 
 2021-03
