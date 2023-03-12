@@ -73,11 +73,11 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### DataService Group INC. | Bear, DE 
 
-#### DevSecOps/Site Reliability Engineer //*(Contract)*
+#### Site Reliability Engineer //*(Contract)*
 
 ##### *April 2022 - Present*
 
-##### *Avgerage Hrs/Wk: 32*
+##### *Average Hrs/Wk: 32*
 
 * Worked closely with subject matter experts and the client’s team to understand requirements, establish priorities/project scope, and manage expectations and project delivery.
 * Installed, configured, and administered the SonarQube for code quality check, generated reports for different projects, integrated them into Jenkins, and then installed and configured Java, Maven, and Git on Jenkins. 
@@ -91,11 +91,11 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### DataService Group INC. | Bear, DE 
 
-#### DevOps/Software Tools Engineer //*(Contract)*
+#### Software DevOps Engineer //*(Contract)*
 
 ##### *April 2019 - March 2022*
 
-##### *Avgerage Hrs/Wk: 40*
+##### *Average Hrs/Wk: 40*
 
 * Installed, configured, maintained, and monitored new and existing CI/CD tools and the infrastructure on the Linux and Windows server environments, on-premise, and in the cloud.
 * Worked in a team to create custom Docker images with Docker files, pulled images from Docker hub and docker repositories, and then created docker-compose.yml file templates to deploy images in docker containers managed by Docker-Swarm. 
@@ -111,11 +111,11 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### DataService Group INC. | Bear, DE 
 
-#### AWS Cloud Engineer //*(Contract)*
+#### Cloud DevOps Engineer //*(Contract)*
 
 ##### *March 2018 - April 2019 | Bear, DE*
 
-##### *Avgerage Hrs/Wk: 32*
+##### *Average Hrs/Wk: 32*
 
 * Worked with AWS resources such as EC2, ELB, IAM, KMS, Cognito, RDS, DynamoDB, EBS, EFS, S3, VPC, EKS, ECR, SES, SNS, Route53, Beanstalk, CloudWatch, CloudFront, CloudTrail, Lambda, API Gateway.  
 * Deployed multi-tier infrastructures on AWS using Terraform; application configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database. The CloudWatch alarm and S3 bucket are configured to monitor performances and log message storage.
@@ -132,7 +132,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ##### *April 2017 - April 2018*
 
-##### *Avgerage Hrs/Wk: 40*
+##### *Average Hrs/Wk: 40*
 
 *	Created, installed, and configured Linux virtual servers (RedHat, CentOS, Ubuntu, Debian, Kali Linux, oracle Linux) on Oracle VM VirtualBox using Vagrant Cloud and Windows Virtual Studio Code.
 *	Worked with source control tools like Git/GitHub, on Linux environments migrated subversion repositories to Git, and used Git bash to push the changes to the Ansible engine.
@@ -147,7 +147,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ##### *April 2016 - March 2017*
 
-##### *Avgerage Hrs/Wk: 32*
+##### *Average Hrs/Wk: 32*
 
 *	Monitored systems performance using the (top, sar, ps, vmstat, netstat, iostat, and cpuinfo) commands to check the CPU utilization, memory usage, and network traffic, ensuring a 24/7 critical system availability.
 *	Created, configured, and diagnosed user and group permissions to facilitate System security. 
@@ -172,7 +172,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ##### *April 2014 - March 2016*
 
-##### *Avgerage Hrs/Wk: 40-60*
+##### *Average Hrs/Wk: 40-60*
 
 * Assisted in implementing a multilayer security system for various clients, including enhanced antivirus, antispam, and antispyware apps, reducing malware risk by 90% with increased customer feedback.
 * Assisted in patching security vulnerabilities and implementing driver’s functionalities updates on Windows/Linux servers and workstations company-wide using WSUS, with 99% success.
