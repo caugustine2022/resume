@@ -168,7 +168,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### Tar Technologies LLC. | Washington, DC
 
-#### Information Security and Privacy Risk Analyst //*(Contract)*
+#### Information Security & Privacy Risk Analyst //*(Contract)*
 
 ##### *April 2014 - March 2016*
 
