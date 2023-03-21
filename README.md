@@ -61,7 +61,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ###### | ISO27K Series | NIST SP 800-53 | PCI DSS | COBIT | FISMA | FedRAMP | HITRUST | HIPAA |
 
 #### *Scripting Languages:*
-###### | Bash | Python | PowerShell | Groovy | HCL | YAML | Shell Script |  
+###### | Bash / PowerShell / Python / Groovy / HCL / YAML |   
 
 
 ----
