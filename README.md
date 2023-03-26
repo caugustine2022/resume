@@ -117,9 +117,9 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ##### *Average Hrs/Wk: 32*
 
-* Worked with AWS resources such as EC2, ELB, IAM, KMS, Cognito, RDS, DynamoDB, EBS, EFS, S3, VPC, EKS, ECR, SES, SNS, Route53, Beanstalk, CloudWatch, CloudFront, CloudTrail, Lambda, API Gateway.  
+* Worked with AWS resources such as EC2, ELB, IAM, KMS, Cognito, RDS, DynamoDB, EBS, EFS, S3, VPC, EKS, ECR, SES, SNS, Route53, LightSail, Beanstalk, CloudWatch, CloudFront, CloudTrail, Lambda, API Gateway.  
 * Deployed multi-tier infrastructures on AWS using Terraform; application configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database. The CloudWatch alarm and S3 bucket are configured to monitor performances and log message storage.
-* Performed S3 buckets creation and policies on the Identity Access Management (IAM) role-based procedures and customized the JSON template. 
+* Performed S3 buckets creation and policies on the Identity Access Management (IAM) role-based procedures; customized the JSON template and created virtual machines using LightSail. 
 * Installed, configured, and managed monitoring tools such as Nagios for logging/monitoring and implemented security with IAM (roles, users, and permissions) and Key Management Service (KMS).
 * Created VPCs and brought instances under them based on the requirement; and then, created the Public and private subnets in the VPC and attached them to the EC2 instances based on the requirement, then launched AWS EC2 Cloud Instances using Amazon Images (Linux/Ubuntu) and configuring launched instances concerning specific applications.
 * Actively managed, improved, and monitored cloud infrastructure on AWS; EC2, S3 bucket, RDS, backups, patches, and auto-scaling. Configured AWS VPC with public and private subnets, configured routing tables, internet gateway, Access Control List (ACLs), and Security groups.
