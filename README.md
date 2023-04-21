@@ -5,7 +5,7 @@
 ----
 ----
 
-#### *👉 💥 | Cloud Security SRE/DevOps Engineer ⚡ Cybersecurity PhD Research-Candidate | …✍️*
+#### *👉 💥 | Cloud Security DevOps Engineer ⚡ Cybersecurity PhD Research-Candidate | …✍️*
 ----
 ----
 
@@ -13,7 +13,7 @@
 ### **Professional Summary**
 ----
 
-An ardent, proactive, result-oriented professional in Software Development Operations and Security Engineering, with over 6+ years of experience in the computing industry providing innovative solutions to complex technical problems supporting various software development and deployment operations in different environments. Experienced in all phases of Software Development Life Cycle (SDLC), Software Configuration Management (SCM), Continuous Integration (CI), Continuous Delivery (CD), Build and Release Management, Cloud Computing Infrastructure, Linux Systems Engineering, and ISACA Certified Data Privacy Solutions Engineer. Furthermore, hands-on experience in tools and methodologies such as Git/GitHub, AWS, Jenkins, Docker, Kubernetes, Terraform, Maven, Go/Golang, SonarQube, Ansible, Tomcat, Nexus, JFrog, JIRA-Confluence, Prometheus, Grafana, Nagios, Splunk, HAProxy, and on-premises deployment; with added scripting proficiency in Bash, Groovy, HCL, YAML, and Python. Moreover, added skills in Identity Access Management, Endpoint Security, Network Security, Data Governance, and Risk Management. In summary, persistent, detailed-oriented with excellent interpersonal and team-working skills, and passionate about contributing my technical and analytical skills to ensure operational efficiency.        
+An ardent, proactive, result-oriented professional in Software Development Operations and Security Engineering, with over 6+ years of experience in the computing industry providing innovative solutions to complex technical problems supporting, automating, and optimizing mission-critical software development and deployment operations in different environments. Experienced in all phases of Software Development Life Cycle (SDLC), Software Configuration Management (SCM), Build and Release Management, Cloud Computing Infrastructure, Linux Systems Engineering, Continuous Integration, and Continuous Delivery (CI/CD) Pipeline. Hands-on experience in tools and methodologies such as Git/GitHub, Jenkins, Docker, Kubernetes, Terraform, Maven, Go/Golang, SonarQube, Ansible, Tomcat, Nexus, JFrog, JIRA-Confluence, Prometheus, Grafana, Nagios, Splunk, HAProxy, and on-premises deployment; with added scripting proficiency in Bash, Groovy, HCL, YAML, and Python. Moreover, added skills in Identity Access Management, Endpoint Security, Network Security, Data Governance, and Risk Management. In summary, persistent, detailed-oriented with excellent interpersonal and team-working skills, and passionate about contributing my technical and analytical skills to ensure operational efficiency.         
 
 
 ----
@@ -73,7 +73,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### DataService Group INC. | Bear, DE 
 
-#### Site Reliability Engineer //*(Contract/Consultant)*
+#### DevOps Site Reliability Engineer //*(Contract/Consultant)*
 
 ##### *April 2022 - Present*
 
