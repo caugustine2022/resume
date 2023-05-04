@@ -5,7 +5,7 @@
 ----
 ----
 
-#### *👉 💥 | Cloud DevOps/SecOps Engineer ⚡ Cybersecurity PhD Research-Candidate | …✍️*
+#### *👉 💥 | Cloud, DevOps/SecOps Engineer ⚡ Cybersecurity PhD Research-Candidate | …✍️*
 ----
 ----
 
