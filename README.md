@@ -105,7 +105,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 #### Cloud DevOps Engineer //*(Contract/Consultant)*
 
-##### *March 2018 - April 2019*
+##### *May 2017 - April 2019*
 
 ##### *Average Hrs/Wk: 40*
 
