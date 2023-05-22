@@ -73,13 +73,13 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### DataService Group INC. | Bear, DE 
 
-#### DevOps Site Reliability Engineer //*(Contract/Consultant)*
+#### DevOps Site Reliability Engineer //*(Contract) - Remote*
 
 ##### *April 2022 - Present*
 
 ##### *Average Hrs/Wk: 40*
 
-* Installed, configured, and administered the SonarQube for code quality check, generated reports for different projects, integrated them into Jenkins; Installed/configured Java, Maven, and Git on Jenkins.
+* Installed, configured, and administered the SonarQube for code quality checks, generated reports for different projects, integrated them into Jenkins. Installed and configured Java, Maven, and Git on Jenkins.
 * Assisted in designing monitoring and alerting strategies that identify early symptoms that can be addressed before outages occur using monitoring tools like; Splunk, Nagios, and Datadog.
 * Monitored system metrics using Prometheus and Grafana and analyzed logs using ELK (Elasticsearch, Logstash, and Kibana) Stack to troubleshoot issues. 
 * Assisted in defining the technical/solution architecture software development delivery and provided hands-on technical insight, working with other developers to review codes and resolve issues.
@@ -88,7 +88,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### DataService Group INC. | Bear, DE 
 
-#### Software DevOps Engineer //*(Contract/Consultant)*
+#### Software DevOps Engineer //*(Contract) - Hybrid*
 
 ##### *April 2019 - March 2022*
 
@@ -103,7 +103,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### iCare Medical Systems | Texas City, TX 
 
-#### Cloud DevOps Engineer //*(Contract/Consultant)*
+#### Cloud DevOps Engineer //*(Contract) - Remote*
 
 ##### *May 2017 - April 2019*
 
@@ -117,7 +117,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### Newfield Wireless INC. | Berkeley, CA
 
-#### Unix Linux Systems Administrator //*(Contract/Consultant)*
+#### Unix Linux Systems Administrator //*(Contract) - Remote*
 
 ##### *April 2016 - March 2018*
 
@@ -141,7 +141,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### Tar Technologies LLC. | Washington, DC
 
-#### Information Security and Privacy Risk Analyst //*(Contract/Consultant)*
+#### Information Security and Privacy Risk Analyst //*(Contract) - Remote*
 
 ##### *April 2014 - March 2016*
 
@@ -188,17 +188,6 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 2021-03
 : **ISACA®’s (CDPSE)** – Certified Data Privacy Solutions Engineer.
-
-
-----
-----
-
-### **Interests/Hobbies** 
-----
-----
-
-* Smart Devices, Internet-of-Things, Machine Learning, Artificial Intelligence, Cloud Computing, and Renewable Energy.
-* Soccer, Volleyball, Tennis, Research Writing, Volunteering, and Travelling.
 
 
 ----
