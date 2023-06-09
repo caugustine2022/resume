@@ -117,7 +117,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### Newfield Wireless INC. | Berkeley, CA
 
-#### Unix Linux Systems Administrator //*(Contract) - Remote*
+#### Linux Systems Administrator/Engineer //*(Contract) - Remote*
 
 ##### *April 2016 - March 2018*
 
