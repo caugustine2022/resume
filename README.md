@@ -13,7 +13,7 @@
 ### **Professional Summary**
 ----
 
-An ardent, proactive, result-oriented professional in Software Development Operations and Security Engineering, with over 6+ years of experience in the computing industry providing innovative solutions to complex technical problems supporting, automating, and optimizing mission-critical software development and deployment operations in different environments. Experienced in all phases of Software Development Life Cycle (SDLC), Software Configuration Management (SCM), Continuous Integration and Continuous Delivery (CI/CD) Pipeline, Cloud Computing Infrastructure, and proficiency in Linux/Unix System Administration. Hands-on experience in tools and methodologies such as Git/GitHub, Jenkins, Docker, Ansible, Terraform, Kubernetes, SonarQube, Tomcat, Nexus, JIRA-Confluence, Prometheus, Grafana, Splunk, HAProxy, and on-premises deployment; with added scripting proficiency in Bash, Groovy, HCL, YAML, and Python. Finally, added skills in Identity Access Management, Endpoint Security, Network Security, Risk Management, and Data Governance.          
+An ardent, proactive, result-oriented professional in Software Development Operations and Security Engineering, with over 6+ years of experience in the computing industry providing innovative solutions to complex technical problems supporting, automating, and optimizing mission-critical software development and deployment operations in different environments. Experienced in all phases of Software Development Life Cycle (SDLC), Software Configuration Management (SCM), Continuous Integration and Continuous Delivery (CI/CD) Pipeline, Cloud Computing Infrastructure, and proficiency in Linux Systems Administration. Hands-on experience in tools and methodologies such as Git/GitHub, Jenkins, Docker, Ansible, Terraform, Kubernetes, SonarQube, Tomcat, Nexus, JIRA-Confluence, Prometheus, Grafana, Splunk, HAProxy, and on-premises deployment; with added scripting proficiency in Bash, Groovy, HCL, YAML, and Python. Finally, added skills in Identity Access Management, Endpoint Security, Network Security, Risk Management, and Data Governance.          
 
 
 ----
@@ -73,17 +73,17 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### DataService Group INC. | Bear, DE 
 
-#### DevOps Site Reliability Engineer //*(Contract) - Remote*
+#### DevOps SRE/Security Engineer //*(Contract) - Remote*
 
 ##### *April 2022 - Present*
 
 ##### *Average Hrs/Wk: 40*
 
-* Installed, configured, and administered the SonarQube for code quality checks, generated reports for different projects, integrated them into Jenkins. Installed and configured Java, Maven, and Git on Jenkins.
-* Assisted in designing monitoring and alerting strategies that identify early symptoms that can be addressed before outages occur using monitoring tools like; Splunk, Nagios, and Datadog.
-* Monitored system metrics using Prometheus and Grafana and analyzed logs using ELK (Elasticsearch, Logstash, and Kibana) Stack to troubleshoot issues. 
-* Assisted in defining the technical/solution architecture software development delivery and provided hands-on technical insight, working with other developers to review codes and resolve issues.
-* Collected system information to aid in troubleshooting, documenting resources, and monitoring for any behavior modifications and intrusion. 
+* Designed, implemented, and managed CI/CD pipelines using GitHub CI/CD and Jenkins for automated builds, testing, and deployments, reducing deployment time by 60% and increasing system reliability.
+* Developed infrastructure automation using Ansible, and infrastructure as code using Terraform, enabling efficient configuration management across multiple environments, thereby achieving streamlined infrastructure management and version control.
+* Implemented monitoring solutions, leveraging ELK (Elasticsearch, Logstash, and Kibana) stack and Prometheus, to ensure proactive identification and resolution of system issues.
+* Conducted regular security assessments and vulnerability scans with tools like Nessus and Wireshark, addressing identified risks and ensuring compliance with industry standards, and overall system security.
+* Assisted in incident response activities, investigating security incidents, and implementing corrective measures to prevent future occurrences.
 
 
 ### DataService Group INC. | Bear, DE 
@@ -94,11 +94,13 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ##### *Average Hrs/Wk: 40*
 
-* Worked in a team to create custom Docker images with Docker files, pulled images from Docker hub and docker repositories, and then created docker-compose.yml file templates to deploy images in docker containers managed by Docker-Swarm. 
-* Worked in a team to containerize e-commerce applications built with Python-Django, and set up Django with Postgres, Nginx, and Gunicorn on the Ubuntu server. 
-* Installed and configured Jenkins’ main and agent nodes and set up jobs on the main to run on agents; Built CI/CD pipeline and managed the infrastructure as code using Ansible.
-* Configured Ansible and Ansible Tower as configuration management tools to automate repetitive tasks, quickly deploy critical applications, and proactively manage change.
-* Integrated Nagios with PagerDuty and wrote an Ansible playbook to automate the server’s onboardings and configurations. Created Ansible YAML syntax Playbooks and roles for application deployments. Then, configured Kubernetes to orchestrate the deployment, scaling, and management of Docker Containers and then managed Kubernetes charts using Helm. 
+* Designed and implemented robust CI/CD pipelines, collaborated with development teams to optimize build processes, and improve code quality, resulting in faster and more reliable software releases.
+* Managed and enhanced the CI/CD infrastructure using Jenkins, GitHub CI/CD, SonarQube for code quality checks, and other tools to automate build, test, and deployment processes.
+* Automated infrastructure provisioning and configuration management using tools such as Ansible, ensuring consistent environments across development, testing, and production.
+* Implemented containerization solutions with Docker, enabling portability and scalability of applications. Then, orchestrated container deployments and managed Kubernetes clusters for efficient application scaling and management.
+* Implemented infrastructure as code using Terraform, enabling consistent provisioning and management of cloud resources.
+* Monitored system performance and implemented proactive measures for performance optimization and issue resolution with tools like Splunk, ELK stack, Prometheus, and Grafana.
+* Worked closely with security teams to ensure secure coding practices and implemented necessary security controls throughout the deployment pipeline.
 
 
 ### iCare Medical Systems | Texas City, TX 
