@@ -81,7 +81,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 * Designed, implemented, and managed CI/CD pipelines using GitHub CI/CD and Jenkins for automated builds, testing, and deployments, reducing deployment time by 60% and increasing system reliability.
 * Developed infrastructure automation using Ansible, and infrastructure as code using Terraform, enabling efficient configuration management across multiple environments, thereby achieving streamlined infrastructure management and version control.
-* Implemented monitoring solutions, leveraging ELK (Elasticsearch, Logstash, and Kibana) stack and Prometheus, to ensure proactive identification and resolution of system issues.
+* Implemented monitoring solutions, leveraging ELK (Elasticsearch, Logstash, and Kibana) stack, Prometheus, and Grafana, to ensure proactive identification and resolution of system issues.
 * Conducted regular security assessments and vulnerability scans with tools like Nessus and Wireshark, addressing identified risks and ensuring compliance with industry standards, and overall system security.
 * Assisted in incident response activities, investigating security incidents, and implementing corrective measures to prevent future occurrences.
 
