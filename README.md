@@ -50,7 +50,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ###### SDLC: | *Waterfall / Agile / DevOps* |
 
 #### *Security Tools:*
-###### Security Information & Event Management (SIEM)/Network Analytics: | *Wireshark / NetWitness Investigator / SonarQube / Splunk / CloudHealth | 
+###### Security Information & Event Management (SIEM)/Network Analytics: | *Wireshark / NetWitness Investigator / SonarQube / Splunk / CloudHealth* | 
 ###### Vulnerability Management/Dynamic Application Security Testing (DAST): | *Nessus* | 
 ###### Penetration Testing: | *Kali Linux / Nmap* | 
 ###### Identity Access Management (IAM): | *OneLogin / AuthO / Okta* |
