@@ -30,7 +30,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 #### *Cloud/DevOps Tools:* 
 ###### Cloud Platform: | *AWS* | 
 ###### AWS Resources: | *EC2 / ELB / IAM / RDS / S3 Bucket / EBS / SNS / VPC / EKS / ECR / CloudWatch / Route53* | 
-###### Configuration Management: | *Ansible / Puppet / Chef* | 
+###### Configuration Management: | *Ansible* | 
 ###### Containerization/Orchestration: | *Docker / Kubernetes* | 
 ###### Continuous Integration (CI)/Continuous Delivery (CD): | *Jenkins / Ansible* | 
 ###### Infrastructure Automation (IaC): | *Terraform / AWS CloudFormation* | 
@@ -39,7 +39,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ###### Testing/Deployment: | *Go/Golang / Python / Python-Django* | 
 ###### Ticket Tracking: | *JIRA-Confluence / ServiceNow* | 
 ###### Load Balancer: | *HAProxy / Nginx* | 
-###### Code Quality Analysics/Integration: | SonarQube/SonarCloud / Selenium | 
+###### Code Quality Analysics/Integration: | *SonarQube/SonarCloud / Selenium* | 
 ###### Collaboration: | *JIRA-Kanban board/Confluence* | 
 ###### Database: | *PostgreSQL / MySQL / MongoDB* |
 ###### Web/App Servers: | *Apache Tomcat / Nginx / Gunicorn* | 
@@ -50,11 +50,10 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ###### SDLC: | *Waterfall / Agile / DevOps* |
 
 #### *Security Tools:*
-###### Security Information & Event Management (SIEM)/Network Analytics: | Wireshark / NetWitness Investigator / SonarQube / Splunk / CloudHealth | 
-###### Container Security: | Sysdig Secure / StackRox |
-###### Vulnerability Management/Dynamic Application Security Testing (DAST): | Nessus / OWASP ZAP | 
-###### Penetration Testing: | Kali Linux / Nmap / Metasploit | 
-###### Identity Access Managemnet (IAM): | OneLogin / AuthO / Okta |
+###### Security Information & Event Management (SIEM)/Network Analytics: | *Wireshark / NetWitness Investigator / SonarQube / Splunk / CloudHealth | 
+###### Vulnerability Management/Dynamic Application Security Testing (DAST): | *Nessus* | 
+###### Penetration Testing: | *Kali Linux / Nmap* | 
+###### Identity Access Management (IAM): | *OneLogin / AuthO / Okta* |
 ###### Endpoint Security/Firewalls: | *CrowdStrike / pfSense* |
 
 #### *Regulatory Standards:*
@@ -79,7 +78,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ##### *Average Hrs/Wk: 40*
 
-* Designed, implemented, and managed CI/CD pipelines using GitHub CI/CD and Jenkins for automated builds, testing, and deployments, reducing deployment time by 60% and increasing system reliability.
+* Worked in a team to build and managed CI/CD pipelines using GitHub CI/CD and Jenkins for automated builds, testing, and deployments, reducing deployment time by 60% and increasing system reliability.
 * Developed infrastructure automation using Ansible, and infrastructure as code using Terraform, enabling efficient configuration management across multiple environments, thereby achieving streamlined infrastructure management and version control.
 * Implemented monitoring solutions, leveraging ELK (Elasticsearch, Logstash, and Kibana) stack, Prometheus, and Grafana, to ensure proactive identification and resolution of system issues.
 * Conducted regular security assessments and vulnerability scans with tools like Nessus and Wireshark, addressing identified risks and ensuring compliance with industry standards, and overall system security.
@@ -94,7 +93,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ##### *Average Hrs/Wk: 40*
 
-* Designed and implemented robust CI/CD pipelines, collaborated with development teams to optimize build processes, and improve code quality, resulting in faster and more reliable software releases.
+* Worked in a team to build and managed robust CI/CD pipelines; collaborated with development teams to optimize build processes, and improve code quality, resulting in faster and more reliable software releases.
 * Managed and enhanced the CI/CD infrastructure using Jenkins, GitHub CI/CD, SonarQube for code quality checks, and other tools to automate build, test, and deployment processes.
 * Automated infrastructure provisioning and configuration management using tools such as Ansible, ensuring consistent environments across development, testing, and production.
 * Implemented containerization solutions with Docker, enabling portability and scalability of applications. Then, orchestrated container deployments and managed Kubernetes clusters for efficient application scaling and management.
