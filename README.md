@@ -35,13 +35,13 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ###### Continuous Integration (CI)/Continuous Delivery (CD): | *Jenkins / Ansible* | 
 ###### Infrastructure Automation (IaC): | *Terraform / AWS CloudFormation* | 
 ###### Infrastructure Automation (Build): | *Gradle / Maven / Terraform / AWS CloudFormation* | 
-###### Source Code Management (SCM): | *Git/GitHub / Gitlab* | 
+###### Source Code Management (SCM): | *Git/GitHub / GitLab* | 
 ###### Testing/Deployment: | *Go/Golang / Python / Python-Django* | 
 ###### Ticket Tracking: | *JIRA-Confluence / ServiceNow* | 
 ###### Load Balancer: | *HAProxy / Nginx* | 
-###### Code Quality Analysics/Integration: | *SonarQube/SonarCloud / Selenium* | 
+###### Code Quality Analysis/Integration: | *SonarQube / Selenium* | 
 ###### Collaboration: | *JIRA-Kanban board/Confluence* | 
-###### Database: | *PostgreSQL / MySQL / MongoDB* |
+###### Database: | *PostgreSQL / MongoDB* |
 ###### Web/App Servers: | *Apache Tomcat / Nginx / Gunicorn* | 
 ###### Logging/Monitoring: | *Nagios / Splunk / Prometheus /  Grafana / Lens / Datadog / AWS CloudWatch* | 
 ###### Artifactory (Package Management): | *Nexus / JFrog / Helm / ECR / S3 Bucket* | 
@@ -51,16 +51,16 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 #### *Security Tools:*
 ###### Security Information & Event Management (SIEM)/Network Analytics: | *Wireshark / NetWitness Investigator / SonarQube / Splunk / CloudHealth* | 
-###### Vulnerability Management/Dynamic Application Security Testing (DAST): | *Nessus* | 
+###### Vulnerability Management: | *Nessus* | 
 ###### Penetration Testing: | *Kali Linux / Nmap* | 
-###### Identity Access Management (IAM): | *OneLogin / AuthO / Okta* |
-###### Endpoint Security/Firewalls: | *CrowdStrike / pfSense* |
+###### Identity Access Management (IAM): | *OneLogin / AuthO* |
+###### Endpoint Security/Firewalls: | *pfSense* |
 
 #### *Regulatory Standards:*
-###### | ISO27K Series | NIST SP 800-53 | PCI DSS | COBIT | FISMA | FedRAMP | HITRUST | HIPAA |
+###### | *ISO27K Series | NIST SP 800-53 | PCI DSS | COBIT | FISMA | FedRAMP | HITRUST | HIPAA* |
 
 #### *Scripting Languages:*
-###### | Bash / PowerShell / Python / Groovy / HCL / YAML |   
+###### | *Bash / PowerShell / Python / Groovy / HCL / YAML* |   
 
 
 ----
@@ -95,14 +95,14 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 * Worked in a team to build and managed robust CI/CD pipelines; collaborated with development teams to optimize build processes, and improve code quality, resulting in faster and more reliable software releases.
 * Managed and enhanced the CI/CD infrastructure using Jenkins, GitHub CI/CD, SonarQube for code quality checks, and other tools to automate build, test, and deployment processes.
-* Automated infrastructure provisioning and configuration management using tools such as Ansible, ensuring consistent environments across development, testing, and production.
+* Automated infrastructure provisioning and configuration management using tools such as Ansible, ensuring consistent development, testing, and production environments.
 * Implemented containerization solutions with Docker, enabling portability and scalability of applications. Then, orchestrated container deployments and managed Kubernetes clusters for efficient application scaling and management.
 * Implemented infrastructure as code using Terraform, enabling consistent provisioning and management of cloud resources.
-* Monitored system performance and implemented proactive measures for performance optimization and issue resolution with tools like Splunk, ELK stack, Prometheus, and Grafana.
+* Monitored system performance and implemented proactive performance optimization and issue resolution measures with tools like Splunk, ELK stack, Prometheus, and Grafana.
 * Worked closely with security teams to ensure secure coding practices and implemented necessary security controls throughout the deployment pipeline.
 
 
-### iCare Medical Systems | Texas City, TX 
+### DataService Group INC. | Bear, DE  
 
 #### Cloud DevOps Engineer //*(Contract) - Remote*
 
@@ -116,7 +116,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 * Created VPCs and brought instances under them based on the requirement; then created the Public and private subnets in the VPC and attached them to the EC2 instances based on the requirement. Then launched EC2 Instances using Amazon Images (Linux/Ubuntu) and configured launched instances concerning specific applications.
   
 
-### Newfield Wireless INC. | Berkeley, CA
+### iCare Medical Systems | Texas City, TX
 
 #### Linux Systems Administrator/Engineer //*(Contract) - Remote*
 
@@ -161,8 +161,8 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ----
 ----
 
-2020-2024 *(Expected)*
-:   **Doctor of Philosophy (Ph.D.) Degree, Major: Information Technology, with a Concentration in Information Systems Security**; University of the Cumberlands - Williamsburg, KY
+2020-2025 *(Expected)*
+:   **Doctor of Philosophy (Ph.D.) Degree, Major: Information Technology**; University of the Cumberlands - Williamsburg, KY
 
 2019-2020
 :   **Master of Science (M.S.) Degree, Major: Information Systems Security**; University of the Cumberlands - Williamsburg, KY
