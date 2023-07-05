@@ -37,11 +37,9 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ###### Infrastructure Automation (Build): | *Gradle / Maven / Terraform / AWS CloudFormation* | 
 ###### Source Code Management (SCM): | *Git/GitHub / GitLab* | 
 ###### Testing/Deployment: | *Go/Golang / Python / Python-Django* | 
-###### Ticket Tracking: | *JIRA-Confluence / ServiceNow* | 
 ###### Load Balancer: | *HAProxy / Nginx* | 
 ###### Code Quality Analysis/Integration: | *SonarQube / Selenium* | 
-###### Collaboration: | *JIRA-Kanban board/Confluence* | 
-###### Database: | *PostgreSQL / MongoDB* |
+###### Collaboration: | *JIRA-Kanban board/Confluence (Wiki)* | 
 ###### Web/App Servers: | *Apache Tomcat / Nginx / Gunicorn* | 
 ###### Logging/Monitoring: | *Nagios / Splunk / Prometheus /  Grafana / Lens / Datadog / AWS CloudWatch* | 
 ###### Artifactory (Package Management): | *Nexus / JFrog / Helm / ECR / S3 Bucket* | 
@@ -72,13 +70,13 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### DataService Group INC. | Bear, DE 
 
-#### DevOps SRE/Security Engineer //*(Contract) - Remote*
+#### SRE/SecOps Engineer //*(Contract) - Remote*
 
 ##### *April 2022 - Present*
 
 ##### *Average Hrs/Wk: 40*
 
-* Worked in a team to build and managed CI/CD pipelines using GitHub CI/CD and Jenkins for automated builds, testing, and deployments, reducing deployment time by 60% and increasing system reliability.
+* Worked in a team to build and manage CI/CD pipelines using GitHub CI/CD and Jenkins for automated builds, testing, and deployments, reducing deployment time by 60% and increasing system reliability.
 * Developed infrastructure automation using Ansible, and infrastructure as code using Terraform, enabling efficient configuration management across multiple environments, thereby achieving streamlined infrastructure management and version control.
 * Implemented monitoring solutions, leveraging ELK (Elasticsearch, Logstash, and Kibana) stack, Prometheus, and Grafana, to ensure proactive identification and resolution of system issues.
 * Conducted regular security assessments and vulnerability scans with tools like Nessus and Wireshark, addressing identified risks and ensuring compliance with industry standards, and overall system security.
@@ -93,7 +91,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ##### *Average Hrs/Wk: 40*
 
-* Worked in a team to build and managed robust CI/CD pipelines; collaborated with development teams to optimize build processes, and improve code quality, resulting in faster and more reliable software releases.
+* Worked in a team to build and manage robust CI/CD pipelines; collaborated with development teams to optimize build processes, and improve code quality, resulting in faster and more reliable software releases.
 * Managed and enhanced the CI/CD infrastructure using Jenkins, GitHub CI/CD, SonarQube for code quality checks, and other tools to automate build, test, and deployment processes.
 * Automated infrastructure provisioning and configuration management using tools such as Ansible, ensuring consistent development, testing, and production environments.
 * Implemented containerization solutions with Docker, enabling portability and scalability of applications. Then, orchestrated container deployments and managed Kubernetes clusters for efficient application scaling and management.
@@ -149,9 +147,9 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ##### *Average Hrs/Wk: 40-60*
 
 * Assisted in patching security vulnerabilities and implementing driver’s functionalities updates on Windows/Linux servers and workstations company-wide using WSUS, with 99% success.
-* Helped slash risks and malware threats by 60% analyzing systems security, threats, patch management, and vulnerability scan using Nessus; while producing metrics, reports, and recommendations.
+* Helped slash risks and malware threats by 60%, analyzing systems security, threats, patch management, and vulnerability scan using Nessus; while producing metrics, reports, and recommendations.
 * Maintained and supported the internal security systems, including firewalls, IDS/IPS, identity access management, log management, and patch management systems, with a 90% success rate.
-* Assisted in developing and implementing effective security plans to maintain the security of computer files against unauthorized modification, destruction, and disclosure; then assisted in updating and documenting security plans to meet the ISO 27K, and the NIST 800.53 standards, with 99% data security.
+* Assisted in developing and implementing effective security plans to maintain the security of computer files against unauthorized modification, destruction, and disclosure; then assisted in updating and documenting security plans to meet the ISO 27K and the NIST 800.53 standards, with 99% data security.
 
 
 ----
