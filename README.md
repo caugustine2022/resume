@@ -5,7 +5,7 @@
 ----
 ----
 
-#### *👉 💥 | Cloud, DevOps/SecOps Engineer ⚡  Information Systems Security PhD Research-Candidate | …✍️*
+#### *👉 💥 | CloudOps, DevOps/SecOps Engineer ⚡  Information Systems Security PhD Research-Candidate | …✍️*
 ----
 ----
 
@@ -70,7 +70,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### DataService Group INC. | Bear, DE 
 
-#### SRE/SecOps Engineer //*(Contract) - Remote*
+#### DevOps SRE/SecOps Engineer //*(Contract) - Remote*
 
 ##### *April 2022 - Present*
 
