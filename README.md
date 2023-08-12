@@ -5,7 +5,7 @@
 ----
 ----
 
-#### *👉 💥 | CloudOps, DevOps/SecOps Engineer ⚡  Information Systems Security PhD Research-Candidate | …✍️*
+#### *👉 💥 | CloudOps, SecOps, SRE/DevOps Engineer ⚡ Information Systems Security PhD Research-Candidate | …✍️*
 ----
 ----
 
