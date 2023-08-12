@@ -105,17 +105,19 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### DataService Group INC. | Bear, DE  
 
-#### Cloud Operations Engineer //*(Contract) - Remote*
+#### AWS Cloud Ops Engineer //*(Contract) - Remote*
 
 ##### *May 2017 - April 2019*
 
 ##### *Average Hrs/Wk: 40*
 
-* Assisted in the management and maintenance of AWS infrastructure, including provisioning, scaling, and monitoring of resources.
-* Deployed multi-tier infrastructures on AWS using Terraform; application configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database. The CloudWatch alarm and S3 bucket are configured to monitor performances and log message storage.
-* Performed S3 buckets creation and policies on the Identity Access Management (IAM) role-based procedures; Customized the JSON template and created virtual machines using LightSail.
-* Installed, configured, and managed monitoring tools such as Nagios for logging/monitoring and implemented security with IAM (roles, users, and permissions) and Key Management Service (KMS).
-* Created VPCs and brought instances under them based on the requirement; then created the Public and private subnets in the VPC and attached them to the EC2 instances based on the requirement. Then launched EC2 Instances using Amazon Images (Linux/Ubuntu) and configured launched instances concerning specific applications.
+* Collaborated with cross-functional teams to manage and maintain AWS cloud infrastructure, ensuring high availability, scalability, and security for mission-critical applications.
+* Worked in a team to set up and configure AWS resources, including EC2 instances, VPCs, S3 buckets, IAM, and RDS databases. Contributed to the deployment and management of containerized applications using Amazon ECS and Docker.
+* Implemented Infrastructure as Code (IaC) using AWS CloudFormation and Terraform to automate resource provisioning and configuration management.
+* Developed and managed CI/CD pipelines using AWS CodePipeline and Jenkins, automating software deployments and reducing time to release by 60%.
+* Orchestrated containerized applications using Amazon ECS and Kubernetes, enhancing deployment efficiency and resource utilization.
+* Established robust monitoring and alerting using AWS CloudWatch and third-party tools like (Prometheus, and Grafana), proactively identifying and resolving performance bottlenecks.
+* Collaborated with security teams to implement security best practices, conduct regular audits, and ensure compliance with industry standards.
   
 
 ### iCare Medical Systems | Texas City, TX
@@ -124,7 +126,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ##### *April 2016 - March 2018*
 
-##### *Average Hrs/Wk: 40*
+##### *Average Hrs/Wk: 32-60*
 
 *	Monitored systems performance using the (top, sar, ps, vmstat, netstat, iostat, and cpuinfo) commands to check CPU utilization, memory usage, and network traffic, ensuring a 24/7 critical system availability.
 *	Managed physical, virtual, and network storage; Configured and managed network services (HTTP, NFS, SCP, NTP); Troubleshot booting issues and resolved service failures affecting boot. Installed, configured, and managed LAMP (Linux/Apache/MySQL/PHP) Stacks using the Ansible playbook.
