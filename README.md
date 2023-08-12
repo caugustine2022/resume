@@ -70,44 +70,48 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### DataService Group INC. | Bear, DE 
 
-#### DevOps SRE/SecOps Engineer //*(Contract) - Remote*
+#### DevOps Engineer //*(Contract) - Remote*
 
-##### *April 2022 - Present*
+##### *April 2021 - Present*
 
 ##### *Average Hrs/Wk: 40*
 
-* Worked in a team to build and manage CI/CD pipelines using GitHub CI/CD and Jenkins for automated builds, testing, and deployments, reducing deployment time by 60% and increasing system reliability.
-* Developed infrastructure automation using Ansible, and infrastructure as code using Terraform, enabling efficient configuration management across multiple environments, thereby achieving streamlined infrastructure management and version control.
-* Implemented monitoring solutions, leveraging ELK (Elasticsearch, Logstash, and Kibana) stack, Prometheus, and Grafana, to ensure proactive identification and resolution of system issues.
-* Conducted regular security assessments and vulnerability scans with tools like Nessus and Wireshark, addressing identified risks and ensuring compliance with industry standards, and overall system security.
-* Assisted in incident response activities, investigating security incidents, and implementing corrective measures to prevent future occurrences.
+* Collaborated with cross-functional teams to refine and document deployment processes, enhancing consistency and reducing manual errors.
+* Developed and maintained scripts (Bash/Python) for the automation of routine tasks, leading to operational efficiency improvements.
+* Collaborated with cross-functional teams to build and manage robust CI/CD pipelines using Jenkins and GitHub, reducing deployment time by 50% and improving overall development workflow.
+* Collaborated with development teams to integrate infrastructure-as-code (IaC) principles using tools like Terraform, resulting in reproducible and version-controlled infrastructure.
+* Assisted in the setup and maintenance of version control systems (Git), ensuring efficient collaboration among development teams.
+* Contributed to the development of Ansible playbooks for configuration management, improving system configuration accuracy.
+* Orchestrated containerized applications using Kubernetes, improving scalability, resource utilization, and deployment consistency.
+* Assisted in migrating on-premises systems to cloud platforms (AWS), optimizing resource allocation, and reducing infrastructure costs by 40%.
 
 
 ### DataService Group INC. | Bear, DE 
 
-#### Software DevOps Engineer //*(Contract) - Hybrid*
+#### SRE/SecOps Engineer //*(Contract) - Remote*
 
-##### *April 2019 - March 2022*
+##### *May 2019 - March 2021*
 
 ##### *Average Hrs/Wk: 40*
 
-* Worked in a team to build and manage robust CI/CD pipelines; collaborated with development teams to optimize build processes, and improve code quality, resulting in faster and more reliable software releases.
-* Managed and enhanced the CI/CD infrastructure using Jenkins, GitHub CI/CD, SonarQube for code quality checks, and other tools to automate build, test, and deployment processes.
-* Automated infrastructure provisioning and configuration management using tools such as Ansible, ensuring consistent development, testing, and production environments.
-* Implemented containerization solutions with Docker, enabling portability and scalability of applications. Then, orchestrated container deployments and managed Kubernetes clusters for efficient application scaling and management.
-* Implemented infrastructure as code using Terraform, enabling consistent provisioning and management of cloud resources.
-* Monitored system performance and implemented proactive performance optimization and issue resolution measures with tools like Splunk, ELK stack, Prometheus, and Grafana.
-* Worked closely with security teams to ensure secure coding practices and implemented necessary security controls throughout the deployment pipeline.
+* Collaborated with cross-functional teams to design, implement, and manage cloud infrastructure and microservices architecture, enhancing system reliability and scalability.
+* Implemented robust monitoring and alerting systems (Prometheus, Grafana, ELK (Elasticsearch, Logstash, and Kibana) Stack) that increased incident response efficiency by identifying issues proactively.
+* Worked closely with the security team to conduct regular security assessments, vulnerability scanning, and penetration testing to identify and address potential security risks, resulting in a 60% reduction in security vulnerabilities.
+* Worked on incident response efforts, reducing mean-time-to-resolution (MTTR) by 30% through effective troubleshooting and collaboration with development teams.
+* Collaborated with development teams to integrate security best practices into the software development life cycle, ensuring secure code deployment.
+* Assisted in the creation and implementation of disaster recovery and business continuity plans, ensuring minimal downtime during critical incidents.
+* Participated in on-call rotations, responding to incidents and taking appropriate actions to restore services.
 
 
 ### DataService Group INC. | Bear, DE  
 
-#### Cloud DevOps Engineer //*(Contract) - Remote*
+#### Cloud Operations Engineer //*(Contract) - Remote*
 
 ##### *May 2017 - April 2019*
 
 ##### *Average Hrs/Wk: 40*
 
+* Assisted in the management and maintenance of AWS infrastructure, including provisioning, scaling, and monitoring of resources.
 * Deployed multi-tier infrastructures on AWS using Terraform; application configured on EC2 instances within three availability zones in a public subnet with a backend PostgreSQL database. The CloudWatch alarm and S3 bucket are configured to monitor performances and log message storage.
 * Performed S3 buckets creation and policies on the Identity Access Management (IAM) role-based procedures; Customized the JSON template and created virtual machines using LightSail.
 * Installed, configured, and managed monitoring tools such as Nagios for logging/monitoring and implemented security with IAM (roles, users, and permissions) and Key Management Service (KMS).
