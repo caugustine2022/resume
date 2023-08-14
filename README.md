@@ -77,18 +77,18 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ##### *Average Hrs/Wk: 40*
 
 * Collaborated with cross-functional teams to refine and document deployment processes, enhancing consistency and reducing manual errors.
-* Developed and maintained scripts (Bash/Python) for the automation of routine tasks, leading to operational efficiency improvements.
+* Developed and maintained scripts (Bash/Python) to automate routine tasks, improving operational efficiency.
 * Collaborated with cross-functional teams to build and manage robust CI/CD pipelines using Jenkins and GitHub, reducing deployment time by 50% and improving overall development workflow.
 * Collaborated with development teams to integrate infrastructure-as-code (IaC) principles using tools like Terraform, resulting in reproducible and version-controlled infrastructure.
-* Assisted in the setup and maintenance of version control systems (Git), ensuring efficient collaboration among development teams.
-* Contributed to the development of Ansible playbooks for configuration management, improving system configuration accuracy.
+* Assisted in setting up and maintaining version control systems (Git), ensuring efficient collaboration among development teams.
+* Contributed to developing Ansible playbooks for configuration management, improving system configuration accuracy.
 * Orchestrated containerized applications using Kubernetes, improving scalability, resource utilization, and deployment consistency.
 * Assisted in migrating on-premises systems to cloud platforms (AWS), optimizing resource allocation, and reducing infrastructure costs by 40%.
 
 
 ### DataService Group INC. | Bear, DE 
 
-#### SRE/SecOps Engineer //*(Contract) - Remote*
+#### SecOps/Site Reliability Engineer //*(Contract) - Remote*
 
 ##### *May 2019 - March 2021*
 
@@ -99,7 +99,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 * Worked closely with the security team to conduct regular security assessments, vulnerability scanning, and penetration testing to identify and address potential security risks, resulting in a 60% reduction in security vulnerabilities.
 * Worked on incident response efforts, reducing mean-time-to-resolution (MTTR) by 30% through effective troubleshooting and collaboration with development teams.
 * Collaborated with development teams to integrate security best practices into the software development life cycle, ensuring secure code deployment.
-* Assisted in the creation and implementation of disaster recovery and business continuity plans, ensuring minimal downtime during critical incidents.
+* Assisted in creating and implementing disaster recovery and business continuity plans, ensuring minimal downtime during critical incidents.
 * Participated in on-call rotations, responding to incidents and taking appropriate actions to restore services.
 
 
@@ -112,11 +112,12 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ##### *Average Hrs/Wk: 40*
 
 * Collaborated with cross-functional teams to manage and maintain AWS cloud infrastructure, ensuring high availability, scalability, and security for mission-critical applications.
-* Worked in a team to set up and configure AWS resources, including EC2 instances, VPCs, S3 buckets, IAM, and RDS databases. Contributed to the deployment and management of containerized applications using Amazon ECS and Docker.
+* Worked in a team to set up and configure AWS resources, including EC2 instances, VPCs, S3 buckets, IAM, and RDS databases.
+* Contributed to deploying and managing containerized applications using Amazon ECS and Docker.
 * Implemented Infrastructure as Code (IaC) using AWS CloudFormation and Terraform to automate resource provisioning and configuration management.
 * Developed and managed CI/CD pipelines using AWS CodePipeline and Jenkins, automating software deployments and reducing time to release by 60%.
 * Orchestrated containerized applications using Amazon ECS and Kubernetes, enhancing deployment efficiency and resource utilization.
-* Established robust monitoring and alerting using AWS CloudWatch and third-party tools like (Prometheus, and Grafana), proactively identifying and resolving performance bottlenecks.
+* Established robust monitoring and alerting using AWS CloudWatch and third-party tools like (Prometheus and Grafana), proactively identifying and resolving performance bottlenecks.
 * Collaborated with security teams to implement security best practices, conduct regular audits, and ensure compliance with industry standards.
   
 
