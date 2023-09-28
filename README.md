@@ -80,6 +80,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 * Developed and maintained scripts (Bash/Python) to automate routine tasks, improving operational efficiency.
 * Collaborated with cross-functional teams to build and manage robust CI/CD pipelines using Jenkins and GitHub, reducing deployment time by 50% and improving overall development workflow.
 * Collaborated with development teams to integrate infrastructure-as-code (IaC) principles using tools like Terraform, resulting in reproducible and version-controlled infrastructure.
+* Collaborated with cross-functional teams to design, implement, and manage cloud infrastructure and microservices architecture, enhancing system reliability and scalability.
 * Assisted in setting up and maintaining version control systems (Git), ensuring efficient collaboration among development teams.
 * Contributed to developing Ansible playbooks for configuration management, improving system configuration accuracy.
 * Orchestrated containerized applications using Kubernetes, improving scalability, resource utilization, and deployment consistency.
@@ -88,15 +89,15 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### DataService Group INC. | Bear, DE 
 
-#### SecOps/Site Reliability Engineer //*(Contract) - Remote*
+#### Security Operations Engineer //*(Contract) - Remote*
 
 ##### *May 2019 - March 2021*
 
 ##### *Average Hrs/Wk: 40*
 
-* Collaborated with cross-functional teams to design, implement, and manage cloud infrastructure and microservices architecture, enhancing system reliability and scalability.
 * Implemented robust monitoring and alerting systems (Prometheus, Grafana, ELK (Elasticsearch, Logstash, and Kibana) Stack) that increased incident response efficiency by identifying issues proactively.
 * Worked closely with the security team to conduct regular security assessments, vulnerability scanning, and penetration testing to identify and address potential security risks, resulting in a 60% reduction in security vulnerabilities.
+* Monitored security alerts and events in real-time, using security information and event management (SIEM) tools. Deployed and managed security patches and updates across the organization's infrastructure.
 * Worked on incident response efforts, reducing mean-time-to-resolution (MTTR) by 30% through effective troubleshooting and collaboration with development teams.
 * Collaborated with development teams to integrate security best practices into the software development life cycle, ensuring secure code deployment.
 * Assisted in creating and implementing disaster recovery and business continuity plans, ensuring minimal downtime during critical incidents.
@@ -123,7 +124,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### iCare Medical Systems | Texas City, TX
 
-#### Linux Systems Administrator/Engineer //*(Contract) - Remote*
+#### Linux Systems Administrator/Engineer //*(Contract) - Hybrid*
 
 ##### *April 2016 - March 2018*
 
