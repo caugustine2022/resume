@@ -70,7 +70,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### DataService Group INC. | Bear, DE 
 
-#### DevOps Engineer //*(Contract) - Remote*
+#### SRE/DevOps Engineer //*(Contract) - Remote*
 
 ##### *April 2021 - Present*
 
