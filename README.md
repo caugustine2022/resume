@@ -70,7 +70,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### DataService Group INC. | Bear, DE 
 
-#### Site Reliability/Development Operations Engineer //*(Contract) - Remote*
+#### Site Reliability | Development Operations Engineer //*(Contract) - Remote*
 
 ##### *April 2021 - Present*
 
@@ -191,7 +191,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ----
 
 2023-12 (Work-In-Progress)
-: **(ISC)2 (CCSP)** – Certified Cloud Security Professional.
+: **(ISC)2 (CCSP)** – Certified Information Systems Security Professional.
 
 2021-03
 : **ISACA®’s (CDPSE)** – Certified Data Privacy Solutions Engineer.
