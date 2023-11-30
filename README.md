@@ -76,15 +76,11 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ##### *Average Hrs/Wk: 40*
 
-* Collaborated with cross-functional teams to refine and document deployment processes, enhancing consistency and reducing manual errors.
-* Developed and maintained scripts (Bash/Python) to automate routine tasks, improving operational efficiency.
-* Collaborated with cross-functional teams to build and manage robust CI/CD pipelines using Jenkins and GitHub, reducing deployment time by 50% and improving overall development workflow.
-* Collaborated with development teams to integrate infrastructure-as-code (IaC) principles using tools like Terraform, resulting in reproducible and version-controlled infrastructure.
+* Collaborated with cross-functional teams to refine and document deployment processes; built and managed robust CI/CD pipelines using Jenkins and GitHub, reducing deployment time by 70%, enhancing consistency, reducing manual errors, and improving overall development workflow.
+* Collaborated with development teams to integrate infrastructure-as-code (IaC) principles using Terraform, resulting in reproducible and version-controlled infrastructure.
 * Collaborated with cross-functional teams to design, implement, and manage cloud infrastructure and microservices architecture, enhancing system reliability and scalability.
-* Assisted in setting up and maintaining version control systems (Git), ensuring efficient collaboration among development teams.
-* Contributed to developing Ansible playbooks for configuration management, improving system configuration accuracy.
-* Orchestrated containerized applications using Kubernetes, improving scalability, resource utilization, and deployment consistency.
-* Assisted in migrating on-premises systems to cloud platforms (AWS), optimizing resource allocation, and reducing infrastructure costs by 40%.
+* Assisted in setting up and maintaining version control systems (Git), ensuring efficient collaboration among development teams. Contributed to creating Ansible playbooks for configuration management, reducing manual errors, and improving systems configuration accuracy.
+* Orchestrated containerized applications using Kubernetes, improving scalability, resource utilization, and deployment consistency. Finally, assisted in migrating on-premises systems to cloud platforms (AWS), optimizing resource allocation, and reducing infrastructure costs by 60%.
 
 
 ### DataService Group INC. | Bear, DE 
@@ -95,13 +91,11 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ##### *Average Hrs/Wk: 40*
 
-* Implemented robust monitoring and alerting systems (Prometheus, Grafana, ELK (Elasticsearch, Logstash, and Kibana) Stack) that increased incident response efficiency by identifying issues proactively.
-* Worked closely with the security team to conduct regular security assessments, vulnerability scanning, and penetration testing to identify and address potential security risks, resulting in a 60% reduction in security vulnerabilities.
-* Monitored security alerts and events in real-time, using security information and event management (SIEM) tools. Deployed and managed security patches and updates across the organization's infrastructure.
-* Worked on incident response efforts, reducing mean-time-to-resolution (MTTR) by 30% through effective troubleshooting and collaboration with development teams.
-* Collaborated with development teams to integrate security best practices into the software development life cycle, ensuring secure code deployment.
-* Assisted in creating and implementing disaster recovery and business continuity plans, ensuring minimal downtime during critical incidents.
-* Participated in on-call rotations, responding to incidents and taking appropriate actions to restore services.
+* Implemented robust monitoring and alerting systems using Prometheus with Grafana, ELK (Elasticsearch, Logstash, and Kibana) Stack that increased incident response efficiency by identifying issues proactively.
+* Worked closely with the security team to conduct regular security assessments, vulnerability scanning, and penetration testing to identify and address potential security risks.
+* Monitored real-time security alerts and events using Splunk and Wireshark. Deployed and managed security patches and updates across the organization’s infrastructure.
+* Worked on incident response efforts, reducing mean-time-to-resolution (MTTR) by 40% through effective troubleshooting and collaboration with development teams.
+* Collaborated with development teams to integrate security best practices into the software development life cycle, ensuring secure code deployment. 
 
 
 ### DataService Group INC. | Bear, DE  
@@ -113,13 +107,10 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ##### *Average Hrs/Wk: 40*
 
 * Collaborated with cross-functional teams to manage and maintain AWS cloud infrastructure, ensuring high availability, scalability, and security for mission-critical applications.
-* Worked in a team to set up and configure AWS resources, including EC2 instances, VPCs, S3 buckets, IAM, and RDS databases.
-* Contributed to deploying and managing containerized applications using Amazon ECS and Docker.
-* Implemented Infrastructure as Code (IaC) using AWS CloudFormation and Terraform to automate resource provisioning and configuration management.
-* Developed and managed CI/CD pipelines using AWS CodePipeline and Jenkins, automating software deployments and reducing time to release by 60%.
-* Orchestrated containerized applications using Amazon ECS and Kubernetes, enhancing deployment efficiency and resource utilization.
-* Established robust monitoring and alerting using AWS CloudWatch and third-party tools like (Prometheus and Grafana), proactively identifying and resolving performance bottlenecks.
-* Collaborated with security teams to implement security best practices, conduct regular audits, and ensure compliance with industry standards.
+* Worked in a team to set up and configure AWS resources, including EC2 instances, VPCs, S3 buckets, IAM, and RDS databases; Contributed to the deployment and management of containerized applications using Docker; Implemented Infrastructure as Code (IaC) using Terraform to automate resource provisioning and configuration management.
+* Developed and managed CI/CD pipelines using Jenkins, automating software deployments and reducing time to release by 90%—orchestrated containerized applications using Kubernetes, enhancing deployment efficiency and resource utilization.
+* Established robust monitoring and alerting using AWS CloudWatch and Prometheus with Grafana, proactively identifying and resolving performance bottlenecks.
+* Collaborated with security teams to conduct regular audits and implemented security best practices.
   
 
 ### iCare Medical Systems | Texas City, TX
@@ -131,8 +122,8 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ##### *Average Hrs/Wk: 32-60*
 
 *	Monitored systems performance using the (top, sar, ps, vmstat, netstat, iostat, and cpuinfo) commands to check CPU utilization, memory usage, and network traffic, ensuring a 24/7 critical system availability.
-*	Managed physical, virtual, and network storage; Configured and managed network services (HTTP, NFS, SCP, NTP); Troubleshot booting issues and resolved service failures affecting boot. Installed, configured, and managed LAMP (Linux/Apache/MySQL/PHP) Stacks using the Ansible playbook.
-*	Monitored and analyzed systems metrics using tools like; Nagios and troubleshot issues using Bash and Python scripts. Wrote crontabs and configured firewall using iptables and SELinux for system security.
+*	Configured and managed network services (HTTP, NFS, SCP, NTP); Installed, configured, and managed LAMP (Linux/Apache/MySQL/PHP) Stacks using the Ansible playbook.
+*	Monitored and analyzed systems metrics using Nagios and troubleshot issues using Bash and Python scripts. Wrote crontabs and configured firewall using iptables and SELinux for system security.
 *	Performed system performance tuning, monitored vulnerability assessments, analyzed application logs, and used Ansible as a configuration management tool for system updates and patch management.
 
 
@@ -154,10 +145,10 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ##### *Average Hrs/Wk: 40-60*
 
-* Assisted in patching security vulnerabilities and implementing driver’s functionalities updates on Windows/Linux servers and workstations company-wide using WSUS, with 99% success.
-* Helped slash risks and malware threats by 60%, analyzing systems security, threats, patch management, and vulnerability scan using Nessus; while producing metrics, reports, and recommendations.
-* Maintained and supported the internal security systems, including firewalls, IDS/IPS, identity access management, log management, and patch management systems, with a 90% success rate.
-* Assisted in developing and implementing effective security plans to maintain the security of computer files against unauthorized modification, destruction, and disclosure; then assisted in updating and documenting security plans to meet the ISO 27K and the NIST 800.53 standards, with 99% data security.
+* Assisted in patching security vulnerabilities and implementing driver’s functionalities updates on Windows/Linux servers and workstations company-wide using WSUS, with 90% success.
+* Helped slash risks and malware threats by 60%, analyzing systems security, patch management, and vulnerability scans using Nessus while producing metrics reports and recommendations.
+* Maintained and supported the internal security systems, including firewalls, IDS/IPS, identity access management, log management, and patch management systems, with a 70% success rate.
+* Assisted in updating and documenting security plans to meet the ISO 27K and the NIST 800.53 standards, with 95% data security.
 
 
 ----
@@ -180,7 +171,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 :   **Bachelor of Science (B.S.) Degree, Major: Information Technology**; University of Massachusetts Lowell - Lowell, MA
     
 1998-2001
-:   **Bachelor of Science (B.S.) Degree, Major: Electrical/Electronic Engineering, with Concentrations in Electronics/Telecommunications and Computer Engineering**; National Polytechnic University Institute - Bamenda, CM / Our Saviour Institute of Science, Agriculture & Technology – Enugu, NG
+:   **Bachelor of Science (B.S.) Degree, Major: Electrical and Electronic Engineering; Option: Electronics/Telecommunications and Computer Engineering**; National Polytechnic University Institute - Bamenda, CM / Our Saviour Institute of Science, Agriculture & Technology – Enugu, NG
 
 
 ----
