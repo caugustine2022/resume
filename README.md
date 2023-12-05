@@ -182,7 +182,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ----
 
 2023-12 (Work-In-Progress)
-: **(ISC)2 (CCSP)** – Certified Information Systems Security Professional.
+: **(ISC)2 (CISSP)** – Certified Information Systems Security Professional.
 
 2021-03
 : **ISACA®’s (CDPSE)** – Certified Data Privacy Solutions Engineer.
