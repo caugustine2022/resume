@@ -5,7 +5,7 @@
 ----
 ----
 
-#### *👉 💥 | CloudOps, SecOps, SRE/DevOps Engineer ⚡ Information Technology Doctoral Research-Student | …✍️*
+#### *👉 💥 | CloudOps, SecOps, SRE/DevOps Engineer ⚡ Information Technology Ph.D. Research-Student | …✍️*
 ----
 ----
 
