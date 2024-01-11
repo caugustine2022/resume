@@ -35,8 +35,8 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ###### Continuous Integration (CI)/Continuous Delivery (CD): | *Jenkins / Ansible* | 
 ###### Infrastructure Automation (IaC): | *Terraform / AWS CloudFormation* | 
 ###### Infrastructure Automation (Build): | *Gradle / Maven / Terraform / AWS CloudFormation* | 
-###### Source Code Management (SCM): | *Git/GitHub / GitLab* | 
-###### Testing/Deployment: | *Go/Golang / Python / Python-Django* | 
+###### Source Code Management (SCM): | *Git/GitHub* | 
+###### Testing/Deployment: | *Selenium / Jenkins / Kubernetes / Ansible* | 
 ###### Load Balancer: | *HAProxy / Nginx* | 
 ###### Code Quality Analysis/Integration: | *SonarQube / Selenium* | 
 ###### Collaboration: | *JIRA-Kanban board/Confluence (Wiki)* | 
@@ -70,32 +70,31 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### DataService Group INC. | Bear, DE 
 
-#### Site Reliability | Development Operations Engineer //*(Contract) - Remote*
+#### Application Security | Site Reliability Engineer //*(Contract) - Remote*
 
 ##### *April 2021 - Present*
 
 ##### *Average Hrs/Wk: 40*
 
-* Collaborated with cross-functional teams to refine and document deployment processes; built and managed robust CI/CD pipelines using Jenkins and GitHub, reducing deployment time by 70%, enhancing consistency, reducing manual errors, and improving overall development workflow.
-* Collaborated with development teams to integrate infrastructure-as-code (IaC) principles using Terraform, resulting in reproducible and version-controlled infrastructure.
-* Collaborated with cross-functional teams to design, implement, and manage cloud infrastructure and microservices architecture, enhancing system reliability and scalability.
-* Assisted in setting up and maintaining version control systems (Git), ensuring efficient collaboration among development teams. Contributed to creating Ansible playbooks for configuration management, reducing manual errors, and improving systems configuration accuracy.
-* Orchestrated containerized applications using Kubernetes, improving scalability, resource utilization, and deployment consistency. Finally, assisted in migrating on-premises systems to cloud platforms (AWS), optimizing resource allocation, and reducing infrastructure costs by 60%.
+* Implemented robust monitoring and alerting systems using tools like; Prometheus with Grafana, and Splunk that increased incident response efficiency by identifying issues proactively.
+* Automated and integrated security processes and controls throughout our entire SDLC, from IDEs (VS code) to source control systems (Git/GitHub) to CI/CD pipelines (Jenkins) to production deployments.
+* Collaborated with DevOps, Software Engineering, and Product Management to continuously improve our application security strategies and priorities for protecting our customers and company.
+* Performed monthly security scans using the Nessus tool to verify the configuration, patch, and vulnerabilities on systems in scope. Followed up with internal and external stakeholders and kept track of vulnerabilities and remediation status.
+* Reviewed current security system configurations for correctness; monitored, reported, and investigated access to determine unauthorized access attempts; provided continuous testing of systems for situations requiring corrective action. Developed and maintained technical documentation around discovering and mitigating threats and vulnerabilities.
 
 
 ### DataService Group INC. | Bear, DE 
 
-#### Security Operations Engineer //*(Contract) - Remote*
+#### Associate Development Security Operations Engineer //*(Contract) - Remote*
 
 ##### *May 2019 - March 2021*
 
 ##### *Average Hrs/Wk: 40*
 
-* Implemented robust monitoring and alerting systems using Prometheus with Grafana, ELK (Elasticsearch, Logstash, and Kibana) Stack that increased incident response efficiency by identifying issues proactively.
-* Worked closely with the security team to conduct regular security assessments, vulnerability scanning, and penetration testing to identify and address potential security risks.
+* Monitored logs and reviewed alerts (using Prometheus with Grafana) while identifying, remediating, and escalating incidents that occur within the environment.
 * Monitored real-time security alerts and events using Splunk and Wireshark. Deployed and managed security patches and updates across the organization’s infrastructure.
-* Worked on incident response efforts, reducing mean-time-to-resolution (MTTR) by 40% through effective troubleshooting and collaboration with development teams.
-* Collaborated with development teams to integrate security best practices into the software development life cycle, ensuring secure code deployment. 
+* Used Jira to create a security vulnerability dashboard as a tracking mechanism whereby vulnerabilities are resolved in a time frame in support of the Agile methodology. Automated security testing using tools like; Nessus, and Burp Suite (dynamic application security testing (DAST) web vulnerability scanner), reducing testing time by 50%.
+* Collaborated with development teams to integrate security best practices into the software development life cycle, ensuring secure code deployment.
 
 
 ### DataService Group INC. | Bear, DE  
@@ -115,7 +114,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### iCare Medical Systems | Texas City, TX
 
-#### Linux Systems Administrator/Engineer //*(Contract) - Hybrid*
+#### Linux Systems Administrator //*(Contract) - Hybrid*
 
 ##### *April 2016 - March 2018*
 
@@ -159,7 +158,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ----
 
 2020-2025 *(Expected)*
-:   **Doctor of Philosophy (Ph.D.) Degree, Major: Information Technology; Information Systems Security Specialization**; University of the Cumberlands - Williamsburg, KY
+:   **Doctor of Philosophy (Ph.D.) Degree, Major: Information Technology; Information Security Emphasis.**; University of the Cumberlands - Williamsburg, KY
 
 2019-2020
 :   **Master of Science (M.S.) Degree, Major: Information Systems Security**; University of the Cumberlands - Williamsburg, KY
