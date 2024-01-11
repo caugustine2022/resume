@@ -158,7 +158,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 ----
 
 2020-2025 *(Expected)*
-:   **Doctor of Philosophy (Ph.D.) Degree, Major: Information Technology; Information Security Emphasis.**; University of the Cumberlands - Williamsburg, KY
+:   **Doctor of Philosophy (Ph.D.) Degree, Major: Information Technology; Information Security Emphasis**; University of the Cumberlands - Williamsburg, KY
 
 2019-2020
 :   **Master of Science (M.S.) Degree, Major: Information Systems Security**; University of the Cumberlands - Williamsburg, KY
