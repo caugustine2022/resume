@@ -91,7 +91,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ##### *Average Hrs/Wk: 40*
 
-* Monitored logs and reviewed alerts (using Prometheus with Grafana) while identifying, remediating, and escalating incidents that occur within the environment.
+* Monitored logs and reviewed alerts (using Prometheus with Grafana) while identifying, remediating, and escalating incidents that occurred within the environment.
 * Monitored real-time security alerts and events using Splunk and Wireshark. Deployed and managed security patches and updates across the organization’s infrastructure.
 * Used Jira to create a security vulnerability dashboard as a tracking mechanism whereby vulnerabilities are resolved in a time frame in support of the Agile methodology. Automated security testing using tools like; Nessus, and Burp Suite (dynamic application security testing (DAST); a web vulnerability scanner), reducing testing time by 50%.
 * Collaborated with development teams to integrate security best practices into the software development life cycle, ensuring secure code deployment.
