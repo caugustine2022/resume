@@ -70,7 +70,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### DataService Group INC. | Bear, DE 
 
-#### Application Security | Site Reliability Engineer //*(Contract) - Remote*
+#### Application Security / Site Reliability Engineer //*(Contract) - Remote*
 
 ##### *April 2021 - Present*
 
