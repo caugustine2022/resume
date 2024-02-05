@@ -70,7 +70,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### DataService Group INC. | Bear, DE 
 
-#### Application Security / Site Reliability Engineer //*(Contract) - Remote*
+#### Application Security and Site Reliability Engineer //*(Contract) - Remote*
 
 ##### *April 2021 - Present*
 
@@ -85,16 +85,18 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### DataService Group INC. | Bear, DE 
 
-#### Associate Development Security Operations Engineer //*(Contract) - Remote*
+#### Associate Cloud Security Analyst //*(Contract) - Remote*
 
 ##### *May 2019 - March 2021*
 
 ##### *Average Hrs/Wk: 40*
 
+* Assisted in monthly cycle patching in AWS for over 100+ development and production servers, swiftly addressing security vulnerabilities, and bolstering system stability across the company’s infrastructure.
 * Monitored logs and reviewed alerts (using Prometheus with Grafana) while identifying, remediating, and escalating incidents that occurred within the environment.
-* Monitored real-time security alerts and events using Splunk and Wireshark. Deployed and managed security patches and updates across the organization’s infrastructure.
-* Used Jira to create a security vulnerability dashboard as a tracking mechanism whereby vulnerabilities are resolved in a time frame in support of the Agile methodology. Automated security testing using tools like; Nessus, and Burp Suite (dynamic application security testing (DAST); a web vulnerability scanner), reducing testing time by 50%.
-* Collaborated with development teams to integrate security best practices into the software development life cycle, ensuring secure code deployment.
+* Monitored real-time security alerts and events using Splunk and Wireshark; then, developed and maintained technical documentation around discovering/mitigating threats and vulnerabilities.
+* Used Jira to create a security vulnerability dashboard as a tracking mechanism whereby vulnerabilities are resolved in a time frame in support of the Agile methodology.
+* Assisted in phishing and cyber threats defense; responded to user-engaged malicious links, isolated compromised systems, and executed threat remediation to substantially mitigate potential harm.
+* Conducted regular risk assessments and audits to identify potential threats to the cloud environment, contributing to the overall risk mitigation strategy.
 
 
 ### DataService Group INC. | Bear, DE  
