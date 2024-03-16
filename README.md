@@ -5,7 +5,7 @@
 ----
 ----
 
-#### *👉 💥 | CloudOps, SecOps, SRE/DevOps Engineer ⚡ Information Technology Ph.D. Research-Student | …✍️*
+#### *👉 💥 | Information Security and Cloud Engineer ⚡ Information Technology Ph.D. Research-Student | …✍️*
 ----
 ----
 
@@ -13,7 +13,7 @@
 ### **Professional Summary**
 ----
 
-An ardent, proactive, result-oriented professional in Software Development Operations and Security Engineering, with over 6+ years of experience in the computing industry providing innovative solutions to complex technical problems supporting, automating, and optimizing mission-critical software development and deployment operations in different environments. Experienced in all phases of Software Development Life Cycle (SDLC), Software Configuration Management (SCM), Continuous Integration and Continuous Delivery (CI/CD) Pipeline, Cloud Computing Infrastructure, and proficiency in Linux Systems Administration. Hands-on experience in tools and methodologies such as Git/GitHub, Jenkins, Docker, Ansible, Terraform, Kubernetes, SonarQube, Tomcat, Nexus, JIRA-Confluence, Prometheus, Grafana, Splunk, HAProxy, and on-premises deployment; with added scripting proficiency in Bash, Groovy, HCL, YAML, and Python. Finally, added skills in Identity Access Management, Endpoint Security, Network Security, Risk Management, and Data Governance.          
+An ardent, proactive, results-driven Information Security and Cloud Professional with over 8+ years of expertise implementing and managing robust security and scalable cloud environments. Proven track record of establishing and maintaining robust security measures while optimizing infrastructure performance and reliability. Seeking to leverage skills and expertise in cloud security architecture, automation, infrastructure management, and compliance to drive efficiency, reliability, and security initiatives to ensure the integrity and availability of digital assets of a forward-thinking and dynamic organization committed to safeguarding its critical infrastructure.          
 
 
 ----
@@ -70,7 +70,7 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### DataService Group INC. | Bear, DE 
 
-#### Application Security and Site Reliability Engineer //*(Contract) - Remote*
+#### Senior Information Security and Monitoring Analyst //*(Contract) - Remote*
 
 ##### *April 2021 - Present*
 
@@ -80,12 +80,12 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 * Automated and integrated security processes and controls throughout our entire SDLC, from IDEs (VS code) to source control systems (Git/GitHub) to CI/CD pipelines (Jenkins) to production deployments.
 * Collaborated with DevOps, Software Engineering, and Product Management to continuously improve our application security strategies and priorities for protecting our customers and company.
 * Performed monthly security scans using the Nessus tool to verify the configuration, patch, and vulnerabilities on systems in scope. Followed up with internal and external stakeholders and kept track of vulnerabilities and remediation status.
-* Reviewed current security system configurations for correctness; monitored, reported, and investigated access to determine unauthorized access attempts; provided continuous testing of systems for situations requiring corrective action. Developed and maintained technical documentation around discovering and mitigating threats and vulnerabilities.
+* Reviewed current security system configurations for correctness; monitored, reported, and investigated access to determine unauthorized access attempts; provided continuous testing of systems for situations requiring corrective action. 
 
 
 ### DataService Group INC. | Bear, DE 
 
-#### Associate Cloud Security Analyst //*(Contract) - Remote*
+#### Associate Cloud Information Security Analyst //*(Contract) - Remote*
 
 ##### *May 2019 - March 2021*
 
@@ -101,31 +101,34 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ### DataService Group INC. | Bear, DE  
 
-#### AWS Cloud Ops Engineer //*(Contract) - Remote*
+#### Cloud Infrastructure Engineer //*(Contract) - Remote*
 
 ##### *May 2017 - April 2019*
 
 ##### *Average Hrs/Wk: 40*
 
 * Collaborated with cross-functional teams to manage and maintain AWS cloud infrastructure, ensuring high availability, scalability, and security for mission-critical applications.
-* Worked in a team to set up and configure AWS resources, including EC2 instances, VPCs, S3 buckets, IAM, and RDS databases; Contributed to the deployment and management of containerized applications using Docker; Implemented Infrastructure as Code (IaC) using Terraform to automate resource provisioning and configuration management.
-* Developed and managed CI/CD pipelines using Jenkins, automating software deployments and reducing time to release by 90%—orchestrated containerized applications using Kubernetes, enhancing deployment efficiency and resource utilization.
+* Worked in a team to set up and configure AWS resources, including EC2 instances, VPCs, S3 buckets, IAM, and RDS databases. Optimized AWS resources for performance, cost, and security, leveraging services like Auto Scaling, EC2 Spot Instances, and AWS Trusted Advisor.
+* Contributed to Docker-based application deployment, used Terraform for infrastructure-as-code (IaC) to automate provisioning, managed CI/CD pipelines with Jenkins, with 90%-time reduction—Orchestrated containerized applications with Kubernetes for improved deployment efficiency.
 * Established robust monitoring and alerting using AWS CloudWatch and Prometheus with Grafana, proactively identifying and resolving performance bottlenecks.
-* Collaborated with security teams to conduct regular audits and implemented security best practices.
+* Collaborated with security teams to conduct regular audits and Implemented security best practices, including IAM policies, encryption, network ACLs, and VPC peering, to protect cloud resources from unauthorized access and data breaches.
   
 
 ### iCare Medical Systems | Texas City, TX
 
-#### Linux Systems Administrator //*(Contract) - Hybrid*
+#### Linux Operations Engineer //*(Contract) - Hybrid*
 
 ##### *April 2016 - March 2018*
 
 ##### *Average Hrs/Wk: 32-60*
 
-*	Monitored systems performance using the (top, sar, ps, vmstat, netstat, iostat, and cpuinfo) commands to check CPU utilization, memory usage, and network traffic, ensuring a 24/7 critical system availability.
-*	Configured and managed network services (HTTP, NFS, SCP, NTP); Installed, configured, and managed LAMP (Linux/Apache/MySQL/PHP) Stacks using the Ansible playbook.
-*	Monitored and analyzed systems metrics using Nagios and troubleshot issues using Bash and Python scripts. Wrote crontabs and configured firewall using iptables and SELinux for system security.
-*	Performed system performance tuning, monitored vulnerability assessments, analyzed application logs, and used Ansible as a configuration management tool for system updates and patch management.
+*	Managed high-availability CentOS and Ubuntu server infrastructure, provided tier 2 support for Linux issues, ensuring rapid problem resolution, achieving 99.9% uptime.
+*	Developed Bash and Python automation scripts; installed, configured, and managed LAMP (Linux/Apache/MySQL/PHP) Stacks using Ansible playbook, reducing manual tasks by 60%..
+*	Evaluated and recommended new technologies to improve performance and scalability.
+*	Contributed to network design, enhancing security through VLANs and firewalls.
+*	Implemented monitoring solutions (Nagios, Prometheus) for proactive system health management.
+*	Performed system performance tuning, monitored vulnerability assessments, analyzed application logs; Performed security audits, and applied patches for PCI-DSS and HIPAA compliance for instance.
+*	Mentored junior team members to foster professional growth and expertise.
 
 
 ### test IO | San Francisco, CA.
@@ -146,10 +149,10 @@ An ardent, proactive, result-oriented professional in Software Development Opera
 
 ##### *Average Hrs/Wk: 40-60*
 
-* Assisted in patching security vulnerabilities and implementing driver’s functionalities updates on Windows/Linux servers and workstations company-wide using WSUS, with 90% success.
+* Assisted in deploying security patches and driver updates across company Windows servers and workstations utilizing Windows Server Update Services, achieving a 99% success rate.
 * Helped slash risks and malware threats by 60%, analyzing systems security, patch management, and vulnerability scans using Nessus while producing metrics reports and recommendations.
 * Maintained and supported the internal security systems, including firewalls, IDS/IPS, identity access management, log management, and patch management systems, with a 70% success rate.
-* Assisted in updating and documenting security plans to meet the ISO 27K and the NIST 800.53 standards, with 95% data security.
+* Assisted in updating and documenting security plans to meet the ISO 27K and the NIST 800.53 standards, achieving 95% data security.
 
 
 ----
