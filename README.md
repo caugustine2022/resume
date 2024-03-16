@@ -13,7 +13,7 @@
 ### **Professional Summary**
 ----
 
-An ardent, proactive, results-driven Information Security and Cloud Professional with over 8+ years of expertise implementing and managing robust security and scalable cloud environments. Proven track record of establishing and maintaining robust security measures while optimizing infrastructure performance and reliability. Seeking to leverage skills and expertise in cloud security architecture, automation, infrastructure management, and compliance to drive efficiency, reliability, and security initiatives to ensure the integrity and availability of digital assets of a forward-thinking and dynamic organization committed to safeguarding its critical infrastructure.          
+An ardent, proactive, results-driven Information Security and Cloud Engineer with over 8+ years of expertise implementing and managing robust security and scalable cloud environments. Proven track record of establishing and maintaining robust security measures while optimizing infrastructure performance and reliability. Seeking to leverage skills and expertise in cloud security architecture, automation, infrastructure management, and compliance to drive efficiency, reliability, and security initiatives to ensure the integrity and availability of digital assets of a forward-thinking and dynamic organization committed to safeguarding its critical infrastructure.          
 
 
 ----
