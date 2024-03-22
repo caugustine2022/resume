@@ -5,7 +5,7 @@
 ----
 ----
 
-#### *👉 💥 | Cloud and Information Systems Security Analyst ⚡ Information Technology Ph.D. Research-Student | …✍️*
+#### *👉 💥 | Cloud and Information Systems Security Engineer ⚡ Information Technology Ph.D. Research-Student | …✍️*
 ----
 ----
 
