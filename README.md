@@ -62,7 +62,7 @@ Implement protocols, troubleshoot systems, and monitor cybersecurity threats to 
 
 ### Brigham and Women’s Hospital Inc. | Boston, MA.
 
-#### Senior Certified QA Surgical Instrumentation Specialist — OR/CSS //*(Per-Diem) - Onsite*
+#### Senior Certified QA Surgical Instrumentation Specialist — BWH OR/CSS //*(Per-Diem) - Onsite*
  
 ##### *March 2008 - Present*
 
