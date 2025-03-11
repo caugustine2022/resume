@@ -133,10 +133,13 @@ Conducted security risk evaluations to identify vulnerabilities and mitigate thr
 ----
 
 *(In Progress)*
-:  **(ISC)2** – Certified Information Systems Security Professional (CISSP) 
+:   **(ISC)2** – Certified Information Systems Security Professional (CISSP) 
+
+*(In Progress)*
+:   **ISACA®’s** – Certified Cybersecurity Operations Analyst™ (CCOA™)  
 
 MARCH 2021
-:  **ISACA®’s** – Certified Data Privacy Solutions Engineer (CDPSE)
+:   **ISACA®’s** – Certified Data Privacy Solutions Engineer™ (CDPSE®)
 
 
 ----
