@@ -52,12 +52,14 @@ Dynamic and highly skilled cybersecurity professional with a proven track record
 ##### *April 2022 - Present*
 
 Implement protocols, troubleshoot systems, and monitor cybersecurity threats to ensure IT security compliance and minimize disruptions in OR and CSS environments. Facilitate effective team communication, train staff on secure IT practices, and support system upgrades and new technology implementations.
-* 🚩 Ensure IT security compliance by implementing protocols to safeguard sensitive data and systems within the Operating Room (OR) and Clinical Support Services (CSS), adhering to HIPAA and hospital regulations.
-* 🚩 Provide desktop support by troubleshooting hardware, software, and network issues for workstations and peripherals in the OR and CSS environments, ensuring minimal operational disruptions.
-* 🚩 Monitor and address cybersecurity threats through regular vulnerability assessment scans with Nessus, incident response, and endpoint protection for OR/CSS operations systems.
-* 🚩 Act as a liaison between IT, OR, and CSS teams, facilitating clear communication and effective resolution of technical and security-related issues.
-* 🚩 Train OR/CSS staff on secure IT practices and supported IT projects, including system upgrades, testing, and technology implementation.
-* 🚩 Document and track support activities, incidents, and resolutions while maintaining accurate records for compliance and operational efficiency.  
+* 🚩 Ensure IT security compliance by implementing protocols to protect sensitive data and systems in the OR and CSS, adhering to HIPAA and hospital regulations.
+* 🚩 Monitored and mitigated cybersecurity threats through regular Nessus vulnerability assessments, incident response, and endpoint protection for OR/CSS operations.
+* 🚩 Provided desktop support by installing, configuring, and maintaining applications, hardware, and network systems while troubleshooting issues via helpdesk and project management systems to minimize disruptions.
+* 🚩 Scheduled and conducted regular software and hardware maintenance, ensuring minimal service disruptions and optimal system performance.
+* 🚩 Analyzed system logs and data usage to diagnose issues, determine root causes, and recommend operational efficiency and security improvements.
+* 🚩 Acted as a liaison between IT, OR, and CSS teams, facilitating clear communication and efficient resolution of technical and security issues.
+* 🚩 Trained OR/CSS staff on secure IT practices and supported IT projects, including system upgrades, testing, and new technology implementation. 
+ 
 
 
 ### Brigham and Women’s Hospital Inc. | Boston, MA.
