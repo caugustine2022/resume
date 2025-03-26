@@ -1,6 +1,6 @@
 ----
 ----
-# Augustine Ngen, **MSHMI, MSISS, CDPSE** 
+# Augustine Ngen, **MS, CDPSE** 
 
 ----
 ----
@@ -47,21 +47,20 @@ Dynamic and highly skilled cybersecurity professional with a proven track record
 
 ### Brigham and Women’s Hospital Inc. | Boston, MA.
 
-#### Clinical IT Support & Security Specialist Liaison — OR/CSS Operations //*(Part-Time) - Hybrid*
+#### Clinical ITS Security & Applications Systems Analyst — OR/CSS Operations //*(Part-Time) - Hybrid*
  
 ##### *April 2022 - Present*
 
-Implement protocols, troubleshoot systems, and monitor cybersecurity threats to ensure IT security compliance and minimize disruptions in OR and CSS environments. Facilitate effective team communication, train staff on secure IT practices, and support system upgrades and new technology implementations.
-* 🚩 Ensure IT security compliance by implementing protocols to protect sensitive data and systems in the OR and CSS, adhering to HIPAA and hospital regulations.
+Implement security protocols, troubleshoot systems, and monitor cybersecurity threats to ensure IT compliance and minimize disruptions in OR and CSS environments. Facilitate effective team communication, manage project timelines, train staff on secure IT practices, and support system upgrades and new technology implementations for seamless operations.
+* 🚩 Ensured IT security compliance by implementing protocols to protect sensitive data and systems in the OR and CSS, adhering to HIPAA and hospital regulations.
 * 🚩 Monitored and mitigated cybersecurity threats through regular Nessus vulnerability assessments, incident response, and endpoint protection for OR/CSS operations.
-* 🚩 Provided desktop support by installing, configuring, and maintaining applications, hardware, and network systems while troubleshooting issues via helpdesk and project management systems to minimize disruptions.
-* 🚩 Scheduled and conducted regular software and hardware maintenance, ensuring minimal service disruptions and optimal system performance.
+* 🚩 Managed application integrations and system management, including Single Sign-On (SSO) and Identity & Access Management (IAM) to enhance security and user experience.
 * 🚩 Analyzed system logs and data usage to diagnose issues, determine root causes, and recommend operational efficiency and security improvements.
-* 🚩 Acted as a liaison between IT, OR, and CSS teams, facilitating clear communication and efficient resolution of technical and security issues.
-* 🚩 Trained OR/CSS staff on secure IT practices and supported IT projects, including system upgrades, testing, and new technology implementation. 
+* 🚩 Led IT projects by managing timelines, coordinating teams, and training OR/CSS staff on secure practices while supporting system upgrades, testing, and new technology implementation for smooth execution and on-time delivery.
+* 🚩 Assessed user needs through direct discussions, translating technical requirements into actionable solutions, and promoting awareness of security and system best practices.
+* 🚩 Provided desktop support by installing, maintaining, and troubleshooting hardware, software, and network systems, ensuring optimal performance and minimal disruptions through proactive maintenance and issue resolution.  
  
-
-
+ 
 ### Brigham and Women’s Hospital Inc. | Boston, MA.
 
 #### Senior Certified QA Surgical Instrumentation Specialist — BWH OR/CSS //*(Per-Diem) - Onsite*
