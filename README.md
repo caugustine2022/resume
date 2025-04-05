@@ -13,10 +13,9 @@
 ### **Professional Summary**
 ----
 
-#### Solutions-Oriented Information Technology and Cybersecurity Professional | Ph.D. Candidate in Information Technology
-Dynamic and highly skilled cybersecurity professional with a proven track record of enhancing organizational security, optimizing IT infrastructure, and ensuring compliance with regulatory standards across private and government sectors. Expertise in conducting risk assessments, managing vulnerabilities, and implementing advanced security measures to protect critical systems and sensitive data. Proficient in utilizing cutting-edge tools such as Splunk, Nessus, and AWS services to enhance security monitoring, incident response, and operational resilience. A strategic leader with a history of managing cross-functional teams and delivering complex security projects on time and within scope. Combines deep academic knowledge with hands-on experience to craft innovative, practical solutions for tackling evolving cybersecurity challenges.
+#### Solutions-Oriented Information Technology and Cybersecurity Professional.
+Solutions-Oriented Information Technology and Cybersecurity Professional. Dynamic and highly skilled cybersecurity professional with a proven track record of enhancing organizational security, optimizing IT infrastructure, and ensuring compliance with regulatory standards across private and government sectors. Expertise in risk assessments, vulnerability management, and the implementation of advanced security measures to protect critical systems and sensitive data. Proficient in utilizing cutting-edge tools such as Splunk, Nessus, and AWS services to enhance security monitoring, incident response, and operational resilience. A strategic leader with a history of successfully managing cross-functional teams and delivering complex security projects on time and within scope. Ph.D. Candidate, leveraging deep academic knowledge and hands-on experience to craft innovative, practical solutions for tackling evolving cybersecurity challenges.
           
-
 
 ----
 ----
@@ -47,7 +46,7 @@ Dynamic and highly skilled cybersecurity professional with a proven track record
 
 ### Brigham and Women’s Hospital Inc. | Boston, MA.
 
-#### Clinical ITS Security & Applications Systems Analyst — OR/CSS Operations //*(Part-Time) - Hybrid*
+#### Clinical ITS Security & Enterprise Applications Systems Analyst — OR/CSS Operations //*(Part-Time) - Hybrid*
  
 ##### *April 2022 - Present*
 
@@ -111,19 +110,19 @@ Conducted security risk evaluations to identify vulnerabilities and mitigate thr
 ----
 
 *(In Progress)*
-:   **Doctor of Philosophy (Ph.D.) Degree; Information Technology**; University of the Cumberlands - Williamsburg, KY
+:   **Doctor of Philosophy (Ph.D.) Degree: Information Technology**; University of the Cumberlands - Williamsburg, KY
 
 2019-2020
-:   **Master of Science (M.S.) Degree; Information Systems Security**; University of the Cumberlands - Williamsburg, KY
+:   **Master of Science (M.S.) Degree: Information Systems Security**; University of the Cumberlands - Williamsburg, KY
     
 2014-2016
-:   **Master of Science (M.S.) Degree; Health and Medical Informatics**; Brandeis University - Waltham, MA
+:   **Master of Science (M.S.) Degree: Health and Medical Informatics**; Brandeis University - Waltham, MA
     
 2012-2014
-:   **Bachelor of Science (B.S.) Degree; Information Technology**; University of Massachusetts Lowell - Lowell, MA
+:   **Bachelor of Science (B.S.) Degree: Information Technology**; University of Massachusetts Lowell - Lowell, MA
     
 1998-2001
-:   **Bachelor of Science (B.S.) Degree; Electrical and Electronic Engineering**; Our Saviour Institute of Science, Agriculture & Technology, Enugu, Nigeria / National Polytechnic University Institute, Bamenda, Cameroon
+:   **Bachelor of Science (B.S.) Degree: Electrical and Electronic Engineering**; Our Saviour Institute of Science, Agriculture & Technology, Enugu, Nigeria / National Polytechnic University Institute, Bamenda, Cameroon
 
 
 ----
