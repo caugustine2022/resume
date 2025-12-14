@@ -13,7 +13,7 @@
 ### **Professional Summary**
 ----
 
-Solutions-Oriented Information Technology and Cybersecurity Professional. Solutions-Oriented Information Technology and Cybersecurity Professional. Dynamic and highly skilled cybersecurity professional with a proven track record of enhancing organizational security, optimizing IT infrastructure, and ensuring compliance with regulatory standards across private and government sectors. Expertise in risk assessments, vulnerability management, and the implementation of advanced security measures to protect critical systems and sensitive data. Proficient in utilizing cutting-edge tools such as Splunk, Nessus, and AWS services to enhance security monitoring, incident response, and operational resilience. A strategic leader with a history of successfully managing cross-functional teams and delivering complex security projects on time and within scope. Ph.D. Candidate, leveraging deep academic knowledge and hands-on experience to craft innovative, practical solutions for tackling evolving cybersecurity challenges.
+Solutions-Oriented Cybersecurity and Information Technology Professional! Dynamic and highly skilled cybersecurity professional with a proven track record of enhancing organizational defenses, optimizing IT infrastructure, and maintaining compliance with industry regulations and best practices. Expertise includes risk assessments, vulnerability management, and the implementation of advanced security measures to protect critical systems and sensitive data. Proficient in utilizing cutting-edge technologies such as Splunk, Nessus, and AWS services to strengthen security monitoring, incident response, and operational resilience. Known for strategic leadership and the ability to manage cross-functional teams, delivering complex security projects on time and within scope. Researcher and Ph.D. Candidate, combining deep academic knowledge with practical experience to develop innovative, evidence-based solutions for addressing evolving cybersecurity challenges.
           
 
 ----
@@ -45,7 +45,7 @@ Solutions-Oriented Information Technology and Cybersecurity Professional. Soluti
 
 ### Brigham and Women’s Hospital Inc. | Boston, MA.
 
-#### Clinical ITS Security & Enterprise Applications Systems Analyst — OR/CSS Operations //*(Part-Time) - Hybrid*
+#### Device Management & Endpoint Security Analyst //*(Part-Time) - Hybrid*
  
 ##### *April 2022 - Present*
 
@@ -75,7 +75,7 @@ Supervise the quality assurance processes for surgical instruments, ensuring the
 
 ##### *May 2019 — April 2022*
 
-#### Associate Cloud Infrastructure & DevOps Engineer //*(Contract) - Remote*
+#### DevSecOps Security Analyst (Cloud, Risk & Compliance) //*(Contract) - Remote*
 
 Performed security assessments of cloud infrastructures, including vulnerability assessments, IAM policy configuration, and incident response, while integrating security protocols into CI/CD pipelines to mitigate threats and reduce deployment risks. Contributed to cloud infrastructure projects by optimizing environments for scalability, ensuring high availability, implementing automation for provisioning, and strengthening system security with encryption and real-time monitoring solutions.
 * ✨ Implemented security updates, patches, and measures while designing and maintaining scalable AWS infrastructure to ensure system integrity, high availability, and robust performance.
@@ -88,7 +88,7 @@ Performed security assessments of cloud infrastructures, including vulnerability
 
 ### Tar Technologies LLC. | Washington, DC
 
-#### Data Privacy & Security Risk Analyst //*(Contract) - Remote*
+#### Data Privacy & Computer Security Risk Analyst //*(Contract) - Remote*
 
 ##### *May 2015 — April 2019*
 
